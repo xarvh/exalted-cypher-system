@@ -1,4 +1,7 @@
-"Abilities" can be:
+Abilities
+=========
+
+Abilities can be:
 
   * Mundane Abilities
       They help with dice rolls
@@ -10,6 +13,7 @@
 
   * Martial Art Abilities
       They must be purchased in order
+
 
 
 Character Creation
@@ -52,6 +56,7 @@ Eclipse
 -------
 - Body 9, Mind 9 (Edge)
 - Trained in any Social Interaction
+
 
 
 Upgrading and Tieriung Up
