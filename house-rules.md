@@ -11,6 +11,11 @@ Whenever the character would deliberately spend points from their Body or Mind P
 Some special abilities can be fuelled exclusively with Essence.
 
 
+EFFORT
+======
+Every level of Effort used costs 2.
+
+
 STUNTS
 ======
 The more interesting and awesome the action you describe, the higher the stunt.
