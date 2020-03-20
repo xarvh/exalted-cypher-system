@@ -59,6 +59,13 @@ You get XPs:
   * When someone else accepts a GM Intrusion and gives their second XP to you
 
 
+DEFINING ABILITY
+================
+By spending 8 XPs, a PC can upgrade a Mundane Ability from Specialized to Defining.
+This does *not* count towards any Upgrade.
+A character can have no more than *ONE* Defining Ability and the Defining Ability must be consistent with their Focus.
+
+
 CYPHERS
 =======
 In general, a Cypher is not a supernatural effect, but just the character being really, really good at what she does.

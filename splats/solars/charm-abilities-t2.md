@@ -7,7 +7,7 @@ Dawn
 ----
 
 **Elegant Dance of Bow and Blade**
-(Body 1 per attack)
+(Body 2 per attack, Action)
 The Solar can perform one attack with each weapon type (Light/Medium/Heavy, Melee/Ranged) she has at hand.
 Each attack is rolled separately but Edges are applied only once.
 

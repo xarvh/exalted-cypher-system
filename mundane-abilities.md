@@ -1,8 +1,8 @@
-Athletics (can be used for Defense rolls in combat)
+Athletics (can be used for Dodge rolls in combat)
 
 Bureaucracy
 
-Combat (can be used for Initiative, Attack and Defense rolls in combat)
+Combat (can be used for initiative, Attack and Parry rolls in combat)
 
 Craft
 
