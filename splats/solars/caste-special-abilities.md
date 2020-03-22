@@ -1,4 +1,4 @@
-Caste Special Abilities belong to a Caste exclusively, all and only the members of a Caste can ever use them.
+Caste Special Abilities belong to a Caste exclusively, all and only the members of a Caste can use them.
 
 Some of them are available only while the anima display is at least at Glowing or Burning level.
 

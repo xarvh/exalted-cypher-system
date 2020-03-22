@@ -1,3 +1,18 @@
+DICE ROLLS
+==========
+
+Dice rolls use a D6.
+If the dice rolls a natural 1, roll again: a 1 or 2 means GM Intrusion.
+If the dice rolls a antural 6, roll again: a 5 or 6 means Player Intrusion.
+
+`Mundane Ability + Effort + circumstantial bonuses + Special Ability modifiers + D6 >= Difficulty + circumstantial maluses`
+
+Mundane Abilities add 1 for Trained, 2 for Specialized, 3 for Defining (see below).
+
+Every level of Effort used costs 2.
+
+
+
 BODY, MIND, ESSENCE
 ===================
 Characters have three pools: Body, Mind and (for those who can use it) Essence.
@@ -11,28 +26,21 @@ Whenever the character would deliberately spend points from their Body or Mind P
 Some special abilities can be fuelled exclusively with Essence.
 
 
-EFFORT
-======
-Every level of Effort used costs 2.
-
 
 STUNTS
 ======
 The more interesting and awesome the action you describe, the higher the stunt.
 
-Stunt 1
--------
+### Stunt 1
 A Stunt 1 is when you do a cool description of your PC Action.
   * You recover 1 point to any of your Pools
 
-Stunt 2
--------
+### Stunt 2
 A Stunt 2 is when you exploit some part of the environment or the context that otherwise would not factor in your action.
   * You recover 2 points to any of your Pools
   * You get a Destiny Point
 
-Stunt 3
--------
+### Stunt 3
 A Stunt 3 is when the whole table looks at you in disbelief and erupts in yell or laughter.
   * You recover 3 points to any of your Pools
   * You get a Destiny Point
@@ -89,6 +97,11 @@ Wearing armor reduces Body by a given value when worn.
   - Using armor requires being Trained in Combat
   - Mundane light armor: soak 1, -3 Body
   - Mundane heavy armor: soak 2, -6 Body
+
+
+Disarm
+------
+In general, disarming should probably happen only as a Player Intrusion or as the effect Special Ability.
 
 
 Clinch
