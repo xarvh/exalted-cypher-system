@@ -62,6 +62,8 @@ Eclipse
 Upgrading and Tieriung Up
 =========================
 
+Solars can learn 3 Martial Arts Special Abilities for the price of 1.
+
 For each Tier, the Solar has the following upgrades:
   * Increase Max Effort by 1
   * Add 1 Edge

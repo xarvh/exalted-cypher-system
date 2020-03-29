@@ -7,13 +7,19 @@
 ### Dipping Swallow Defense
 `Enabler`
 
-Allows to spend Effort for Defense rolls *after* the die has been rolled.
+** Even when the Lawgiver is beleaguered, she strikes away blows with preternatural accuracy. **
+
+Allows to spend Effort for Parry rolls *after* the die has been rolled.
+
+Allows to spend one level of Effort to ignore a GM intrusion on a Parry.
 
 
 ### Hungry Tiger Technique
 `Body 3, Enabler, Attack Roll`
 
-Increases damage by 2, 4 or 6 for Light, Medium or Heavy weapons respectively.
+** The Solar charges her body and weapon with Essence, unifying the two to unleash a brutal strike that rends her opponent. **
+
+Increases damage by 3, 5 or 7 for Light, Medium or Heavy weapons respectively.
 
 As an alternative, the enemy is knocked down or away.
 
@@ -21,15 +27,20 @@ As an alternative, the enemy is knocked down or away.
 ### Summoning the Loyal Steel
 `Mind 1, Enabler`
 
+** With a moment of concentration, the Solar may banish a weapon Elsewhere. **
+
 Commit 1 Essence, store an Owned weapon Elsewhere.
 
 If the weapon is in line of sight, it can be called to her hand.
-
 The Solar can't be disarmed during combat.
+Prevents anyone else from re-attuning to the weapon.
+Reduces the Committed Essence cost of an attuned artifact weapon by half, round up.
 
 
 ### War Lion Stance
 `Body 4, Enabler`
+
+** The Solar learns to defend others upon learning to defend herself. **
 
 Pick someone within Close range. Every time they are attacked and the Solar has a weapon to parry the attack, she can make a Defense roll for them OR she can reduce the difficulty of their Defense roll by 1 if she is Trained or 2 if she is Specialised in the Skill she is using.
 
@@ -48,15 +59,39 @@ Each attack is rolled separately but Edges are applied only once.
 
 
 ### Heavenly Guardian Defense
-`Body 10, Enabler, instant`
+`Body (special cost), Enabler, instant`
 
 **The Anathema may strike aside even the falling sky**
 
-The Solar can parry *anything* physical, no roll required, but her weapon will take the full damage of the attack.
+The Solar can parry *anything* physical, even if it's Unblockable, no roll required, and her weapon will take no damage.
 
-As an alternative, refuse a GM intrusion on a Defense Roll.
+The cost is equal to the level of the attack but can never exceed 10 points.
 
 It can't be used more than once per combat turn.
+
+
+### There is no Wind
+`Body 2, Enabler`
+
+** The Solar graces her shot with unerring precision and fires it along a flow of Essence, causing it to slice through the air between the arrow and its mark. **
+
+In an Attack roll, ignore any Difficulty other than the target Level and cover (high winds, visibility, limited movement space...)
+
+
+### Tiger Warrior Training Technique
+`Enabler`
+
+** Even the worst gutter-sweepings and bandits can be trained into an elite fighting force. **
+
+In one week, turn an undisciplined military unit into average.
+
+In one month, turn an average unit military unit into elite.
+
+Any unit trained with this charm ignores penalties having to do with hunger, bad weather, long marches and mundane demoralizing effects.
+
+
+
+## Tier 3
 
 
 ### Perfect Strike Discipline
@@ -65,10 +100,38 @@ It can't be used more than once per combat turn.
 Can use again up to Max Effort levels of Effort above the normal Max Effort, but only to increase an attack's damage.
 
 
-### There is no Wind
-`Body 2, Enabler`
+### Glorious Solar Saber (Action, Essence 6)
+`Essence 5, Action`
 
-In an Attack roll, remove any Difficulty other than the target Level (high winds, visibility, limited movement space...)
+** Honing her skill and focusing her will, the Exalt births a stunning weapon from her palm. **
+
+Shape the Solar's essence into a weapon (or a weapon set where appropriate).
+The weapon must be choosen when the Solar learns this Ability, and should be roughly equivaent to a (Tier + 4) level Artifact.
+Additional weapons can be purchased for 3xp each.
+Weapons that require ammo will be summoned with what a person could normally carry.
+The weapon lasts for one scene.
+
+
+### Solar Counterattack
+`Body 3, Enabler`
+
+** The Exalt draws focus from her foe’s temerity. To strike her is to invite death. **
+
+Before rolling a Parry, you can make an Attack to whoever is attacking you.
+
+Damage is resolved simultaneously.
+
+
+### Mist on Water Attack
+`Body 2 per turn, Enabler`
+
+** The Solar pours the cold instinct of her training into a blade, suffusing it with stifling Essence. **
+
+A victim of this attack cannot produce sound.
+He can neither cry out nor raise alarm, nor will his fist through a window produce the sound of shattered glass, nor will his body plummeting from the rooftops to the street make even the tiniest sound of thud
+or splatter.
+Characters thus affected may not be detected by any hearing-based Perception, and those who are killed will die in an unnoticeable fashion, determined by the GM: they may die standing up, reclining naturally, or their bodies may simply fall soundlessly out of sight.
+In any case, the target’s death cannot be discovered until the effects of Mist on Water Attack have passed.
 
 
 
@@ -78,16 +141,14 @@ In an Attack roll, remove any Difficulty other than the target Level (high winds
 ## Tier 1
 
 
-### Hardship-Surviving Mendicant Spirit
-`Body 5, Committed`
-
-The character ignores penalties due to mundane climate, flora and fauna.
-
-
 ### Iron-Kettle Body
-`Body 5, Enabler`
+`Enabler`
 
-Reduce Body damage from a single source by 1d6 + 1
+** Striking the Solar is like striking a piece of iron. **
+
+The Solar's skin gives her Armor 2.
+
+This bonus does not stack with worn Armor, but can stack with other sources of Armor.
 
 
 ### Respect-Commanding Attitude
@@ -98,10 +159,57 @@ Forces people to stop and earnestly listen to what the Solar has to say.
 The effect requires a roll only for those in the audience who'd rather attack.
 
 
+### Righteous Lion Defense
+`Enabler`
+
+** Around a certain issue, the Solar cannot be moved, shaken, swayed or tempted. **
+
+Upon purchasing this Charm, the player chooses a defining principle that exemplifies the Solar in such a way that she should never act against it.
+
+The Solar becomes perfectly immune to any kind of influence which would cause the Solar to knowingly act against the principle.
+
+
+### ??? Soul-Firing Performance
+``
+If successful, the group is struck with an emotion conveyed by the performance, and each affected target reconsiders a decision they made in his past, connected to that emotion.
+The Storyteller chooses what each character is forced to reconsider.
+
+
+### Spirit-Tied Pet
+`Enabler`
+
+** An Exalt with a familiar has experienced the gift of having been chosen twice. **
+
+* No influence of any kind can make the familiar act against their loyalty for the Solar
+* The familiar is protected against attacks and effects that do not target them directly
+* The Exalt may borrow the sense of the familiar thought a moment of intense concentration.
+  This renders the Solar incapable of taking any other action.
+
+
+### Traceless Camouflage
+`Mind 6, Enabler`
+
+The Lawgiver can hide herself, her followers and objects up to the size of an elephant in any environment.
+
+If standing in a place, they must spend time to camouflage:
+  * 1 Action for one person
+  * 1 minute for a handful of people
+  * 1 hour for a large object
+  * half a day for many people or objects
+
+Once the camouflage is complete, they cannot be detected with mundane means.
+
+If moving, they cannot be tracked with mundane means.
+
+Against magical means, the Solar adds her Tier to the roll.
+
+
+
 ## Tier 2
 
 
 ### Fury-Inciting Speech
+[a bit too limited?]
 `Mind 5, Action`
 
 The Solar speaks out against injustice, typically playing on local faith, tradition or morality, igniting anger in a crowd.
@@ -109,10 +217,10 @@ The Solar speaks out against injustice, typically playing on local faith, tradit
 Requires a Presence roll; for every 2 excess levels, she can direct the crowd to attack a specific target.
 
 
-### Increasing-Strength Exercise
-`Body 3x, Action, Scene long`
+### Hardship-Surviving Mendicant Spirit
+`Body 5, Committed`
 
-For every 3 points spent, to a maximum of 3 times the Tier, she get an Asset for feats of strength rolls.
+As long as some adversity originates from the normal features of the environment, including climate, flora and fauna, it will not harm or penalize the Solar.
 
 
 ### Integrity Protecting Prana
@@ -124,11 +232,99 @@ Can be activated even when incapacitated, sleeping or otherwise unconscious.
 
 
 ### Spirit-Tempering Practice
-`Recovery`
+`Enabler`
 
-Can take a Recovery under a duress regime (torture, interrogation) that lasts at least as long as the Recovery.
+The Solar can take a Recovery under a duress regime (torture, interrogation) or fatiguing activity that lasts at least as long as the Recovery.
 
-Doing so also automatically resists the duress.
+Doing so also automatically resists the duress and overcomes the fatigue.
+
+
+### Unbreakable Warrior’s Mastery
+`Body 5, Enabler`
+
+** The Lawgiver knows all harm at once, and yet the greater truth is that she still exists, unbowed and unbroken. **
+
+This charms lessens physical crippling effects.
+
+Temporary penalties are halved, rounding down, and their duration cannot exceed (4 - Resitance) actions.
+
+Irreparable or permanent harm can be traded for a lesser effect of a shorter duration: instead of her eye being gouged out, it is closed by a glancing blow; instead of her arm being shattered, it simply hangs limp.
+
+
+### Underling-Promoting Touch
+`Essence 3, Action`
+
+** With a touch, the Exalt raises a servant to the role of a champion. **
+
+By touching a person who serves or follows her, the Lawgiver temporarily makes her subject the beneficiary of respect and admiration usually reserved for the Solar.
+
+Characters who have ties of loyalty, respect or admiration to the Solar now also feel the same way toward her charge.
+
+The character also inherits any social station or role it is within the Solar’s right to grant, and all characters who are subject to that station instantly recognize that they are subject to the promoted one’s authority.
+
+? granting him a personal Essence pool of four motes plus up to five more
+
+? The character becomes inured to supernatural terror, and may resist it with a +2 bonus to his Resolve.
+
+
+
+## Tier 3
+
+
+### Adamant Skin Technique
+`Body 5, Enabler, instant`
+
+** Driven by purpose, the Solar refuses to be defeated. **
+
+This Charm is activated on taking damage to her Body Pool and can be used even in case of a surprise attack: the Solar rolls Resistence, removing the result from the damage.
+
+As an alternative, the Charm grants total immunity to scenery-based damage, like that of an explosion or a collapse, or falling from a great height.
+
+
+### Life-Sustaining Shelter Preparation
+`Essence 8, long Action`
+
+** The Solar Exalted may survive anywhere. **
+
+Once she has found an area large enough to protect all of her followers, the Solar places representations of the five elements at the center and directional boundaries of the area, which can be actual examples of each element, such as twigs, stone, cinders, etc, or the Solar may use a few drops of blood, paper effigies, Dragon-Blooded willing to sit still or other tokens.
+Doing so blesses the area with her essence, claiming it as her dominion and making it Holy.
+
+All individuals within the shelter are treated as if under the effect of Hardship-Surviving Mendicant Spirit and the shelter itself is immune to the inclement conditions of the environment: the Wyld will not mutate the camp’s land, the Solar’s followers, or their belongings, nor will Malfeas’s toxic miasma poison them.
+The Solar and her followers may respire Essence normally even in the Underworld or the Blight Zones of Autochthonia.
+
+The Solar’s followers will take no harm from any nourishment scavenged within the confines of the shelter: Wyld berries will not poison them, nor singing fish give them mutations, the iridescent locusts which swarm across the sands of Cecelyne will not infect them with demonic taint.
+The shelter confines will provide enough food to feed all the Solar's followers even if there no food: as if produced by faith alone, the Solar finds clean water flowing from the rocks of Malfeas, fresh fish in the acrid seas of Kimbery, and living fruit upon dead branches.
+
+
+### Majestic Radiant Presence
+[should this be permanent? should it make Stealth impossible while active?]
+`Enabler`
+
+** The Lawgiver is a singular and terrifying being, awesome to behold. **
+
+The Solar gains +2 bonus to any intimidation roll.
+
+Anyone wishing to initiate combat or speak against her must overcome this fear effect, whether the Solar is aware of them or not.
+
+A character that overcomes this effect will be immune to it for the rest of the Scene.
+
+
+### Memory-Reweaving Discipline
+`Mind 6, Enabler`
+
+** The Exalt weaves a narrative so plausible and compelling that those who hear it forget the truth and believe the narrative. **
+
+The Solar speaks for at least a minute, though more complex narratives may require longer.
+Mere success entails a simple belief in the facts as the Solar has presented them.
+Extra successes, however, increase commitment to this belief.
+
+
+### Truth Shines Through
+`Enabler`
+
+** The virtue of the Lawgivers is like the sun at noon. Clouds might obscure it, but its light can never truly be banished or denied. **
+
+Whenever the Solar act under some unnatural mental influence, the fact that she is not behaving like herself becomes obvious to all the observers.
 
 
 
@@ -138,28 +334,40 @@ Doing so also automatically resists the duress.
 ## Tier 1
 
 
+### Anointment of Miraculous Health
+`Mind 4, Action`
+
+** Disease and debilitation cannot stand against the Solars’ healing light. **
+
+The Solar spends about one hour, depending on the condition, treating her patient for a single condition, be it sickness, disease or poison, whether mundane or supernatural.
+The severity of the condition is reduced by (Medicine) Levels.
+The charm can be used again at every interval that the condition requires the patient to roll Resistance.
+
+At Tier 2+ the Solar can heal permanent or congenital conditions, treat it like a Crafting Project whose Assessed Difficulty is reduced again by the Solar's Medicine.
+For example, regrowing a lost limb would have an Assessed Difficulty of 7.
+
+
 ### Craftsman Needs No Tools
 `Mind 6, Enabler, Scene long`
 
-The Solar can use her body, breath and voice instead of tools, +1 Asset to Craft rolls.
-
-Objects repaired with this charm are perfectly repaired, losing every sign or effect of past damage.
+The Solar can use her body, breath and voice instead of tools.
++1 to Craft.
 
 
 ### Crafty Observation Method
 `Mind 4, Action`
 
-In a single Action and without touching anything, the Solar can completely survey a scene, perfectly reconstructing what happened.
+** When the Lawgiver inquires, Creation immediately yields its secrets bare. **
 
+The Lawgiver concentrates on the scene she is surveying, exposing the very essence of all the objects around her.
+In her mind furniture moves, carpets lift, drawers open, books flip their pages.
+In a single action she can complete a search that would take 15 minutes, and she doesn't actually touch or move anything.
+Further, she adds her Tier to notice deliberate tampering with any evidence.
+If the scene contains at least one lead for the Solar's inquiry, she is guaranteed to find it.
 
-### Durability-Enhancing Techinque
-`Mind 5, Enabler, Scene`
+She cannot search objects that she could not normally access such as locked chests or items held by people who are not willing to let her search them.
 
-`Mind 5, Extended Action, Permanent`
-
-Increase the difficulty to damage an object of up to `Tier + 2` radius by Tier + 2.
-
-If the Solar holds the object, mundane effects cannot break it.
+By committing 1 Mind, she can perfectly recall the whole scene survey.
 
 
 ### Shape Terrestrial Sorcery
@@ -168,45 +376,103 @@ If the Solar holds the object, mundane effects cannot break it.
 Allows to use Terrestrial Sorcery. Requires being Trained in Occult.
 
 
+### Spirit-Manifesting Word
+`Mind 5, Action`
+
+** The Lawgiver rends the veil with word and voice, giving physical form to immaterial spirit. **
+
+The Solar speaks an unutterable word and rolls (Occult + Tier); any spirit whose Level is below the roll and who is in range of the Solar's voice becomes materialized.
+Spirits such materialized cannot dematerializes until the end of the Scene or until the Solar releases them.
+
+
 ### Wyld-Dispelling Prana
 `Mind 6, Enabler, 1+ Actions`
 
-Roll Lore to repel a Wyld Shaping effect happening withing Short range, with 2 Assets.
+** The Lawgiver is the embodiment of order. With her knowledge and will, chaos is cast asunder. **
+
+Roll (Lore + 2) to repel a Wyld Shaping effect happening withing Short Range.
 
 For any excess levels in the roll, the target is immune to Wyld warping for one turn.
+
 
 
 ## Tier 2
 
 
-### Ghost-Eating Technique
-`Mind or Body 2, Attack`
+### All-Encompassing Sorcerer's Sight
+`Mind 6, Enabler`
 
-Allows a normal attack to strike spirits even if they are immaterial and deal twice the damage.
+** The Exalt gazes into the Essence of the world and sees the patterns of magic that make up Creation. **
 
-Any damage the target suffers is awarded to her as Essence.
-
-A spirit slain by this attack is destroyed permanently.
-
-
-### Judge’s Ear Technique
-`Mind 5, Enabler, instant`
-
-When someone says something, the Solar knows if they believe in it or not.
-
-A roll is necessary only if the lie is enhanced by a supernatural effect.
+For a few seconds after activating this Charm, the Solar can see Essence flowing through the world.
+She can perceive immaterial spirits, but moreover, she can see the workings of spirit energies around her.
+If a character is using a Shaping action or Evocation, the Solar may make an Occult Roll to determine how the power works.
+This Charm may also be used to identify the presence of ongoing sorcerous effects such as mystical barriers and levitating platforms, revealing not only the presence of magic, but how it functions.
+This power also allows the Exalt to see places where Creation is thin—the borders of shadow-lands and the Wyld appear as hazy, gauzy distortions of light.
+The Solar may also detect the entrance to spirit sanctums within her range of vision.
+This Charm does not reveal the working of the Charms of the Exalted.
 
 
-### Keen Understanding of the Core Imperfection
-`Mind 4, Action`
+### Contagion-Curing Touch
+`Enabler`
 
-On touch, gain perfect understanding of how to destroy, dismantle or demolish a construct or inanimate object.
+** Where the Exalt’s Essence-charged hands go, shattered bones are made whole and torn flesh is instantly mended. **
 
-If an object is indestructible, the Solar will still find a way, difficult as it might be.
+The Solar can spend Body instead of Mind to fuel any healing Charm as well as Effort for Medicine Rolls.
 
-On anything else she reduces the Difficulty to half and the time to one tenth.
+She can replace the need for surgical tools or medicines by spending Essence equal to the Level of the condition she's treating.
 
-As an alternative, she inflicts 4 times the damage on that object.
+
+### Durability-Enhancing Techinque
+`Mind 5, Enabler, Scene long` or `Mind 5, Extended Action, Permanent`
+
+Increase the difficulty to damage an object of up to `Tier + 2` radius by Tier + 2.
+
+The object is also protected from Shaping effects, but this protection will last a maximum of Tier days.
+
+If the Solar holds the object, mundane effects cannot break it.
+
+
+### Irresistible Questioning Technique
+`Mind 5, Action`
+
+** The Lawgiver may wring the truth from a subject with piercing, impossible-to-resist questions. **
+
+The Lawgiver asks a question and the target is compelled to answer.
+
+If the target uses an appropriate supernatural mental defense, leaves the scene or attacks her, then the Solar needs to roll Presence + Tier.
+Otherwise, the success is automatic and no roll is required.
+
+In case of success, the target is compelled to answer truthfully and to the fullest extent of his knowledge.
+
+
+### Legendary Scholar's Curriculum
+`Enabler`
+
+** The Lawgiver is a master instructor, capable of passing on truths and talents as surely as the sun passes daylight. **
+
+Upon learning this Charm the Solar prepares a curriculum that will allow her to teach one of the following Mundane Abilities:
+  * Bureaucracy
+  * Craft
+  * Integrity
+  * Larceny
+  * Lore
+  * Medicine
+  * Occult
+  * Socialize
+  * War
+
+Additional Abilities from the list can be purchased for 1 XPs.
+
+After teaching for one week, the students are considered Trained in the choosen Ability and will develop an attachment to an idea that the Solar holds.
+
+After teaching for one additional month, the students are considered Specialised in the choosen Ability and will develop an attachment to an idea that the Solar wants to impart.
+
+This teaching is so effective that the Solar can ignore all penalties to teach a willing student: she can educate a person who is deemed medically incapable of learning, such as someone who is developmentally disabled, or someone who has suffered traumatic injury or privation by the Fair Folk.
+
+Further, the Solar can disguise subversive or dangerous lessons as something they are not: the Lawgiver might appear to be giving a lesson on Immaculate catechisms while actually training
+itinerants to resist the Realm; a lesson on eroticism might hide insights into demonology.
+Only the targets of the Solar’s training can understand the true meaning of her lesson.
 
 
 ### Wholeness-Restoring Meditation
@@ -217,64 +483,18 @@ Heal permanent or congenital conditions through repeated treatment.
 Depending on the severity of the condition, treatment can take from 1 hour to 1 month.
 
 
-### Shape Celestial Sorcery
-`Mind 4, Action`
-
-Allows to use Celestial Sorcery. Requires being Specialized in Occult.
-
-
 
 # Night
+
 
 
 ## Tier 1
 
 
-### Flawlessly Impenetrable Disguise
-`Mind 5, Action, Scene long`
-
-Change gender, etnicity, voice, accent, scent, double or halve age, increase or decrease height by up to 25cm.
-
-Identity is Perfectly disguised, deception can be detected only with magic means, +3 Assets.
-
-Setting up the disguise takes about 5 minutes.
-
-
-### Graceful Crane Stance
-`Body 2 or 4, Scene long`
-
-Perfect balance, can stand or run on things normally too weak or narrow, no roll required.
-
-For 4 points, the Solar can run (but not stand) on fluid surfaces.
-
-
-### Invisible Statue Spirit
-`Mind 5, Action to initiate`
-
-As long as the character does not move, they can by detected only by touch
-
-
-### Lock-Opening Touch
-`Mind 4, Action`
-
-Negates the need for lockpicking tools.
-
-Automatically open any non-magical lock mechanism.
-
-Provides 1 asset vs magical locks.
-
-
-# Tier 2
-
-
-### Easily-Overlooked Presence Method
-`Mind 4, Enabler`
-
-When active, others cannot notice the Solar unless she stands obviously out or takes overt action.
-
-
 ### Flawless Pickpocketing Technique
 `Mind 3, Action`
+
+** With hands quicker than the eye, the Exalt relieves a hapless soul of his material burden. **
 
 Automatically succeed on a mundane pickpocketing attempt.
 
@@ -283,21 +503,201 @@ Gives 3 Assets when contested with magic.
 Cannot be used to pick items in use or attuned artifacts.
 
 
-### Master Plan Meditation
-`Mind 8, Enabler`
+### Graceful Crane Stance
+`Permanent`
 
-Augment a Larceny roll to forge, counter-feit, prepare an alibi, collect information about someone, obtain maps of a target location, plan to enter or escape a dangerous location or plot to confuse or undermine law enforcement or criminal groups.
+** The Solar is as graceful as sunlight on water. **
 
-Any excess level on the roll become contingency points that can be spent to:
-  * Retroactively distort or destroy a piece of evidence
-  * Alter a piece of evidence to point to another person (2 points)
-  * Gain a Scene-long asset to Integrity, Socialize or Performance.
-  * Retroactively leave the Solar's calling card (mark, sign, etc.)
-  * Other instances the player can say "I planned for this" and cackle evilly
+The Solar has Perfect balance: she can stand or run on things normally too weak or narrow, with no chance of falling or breaking through.
+
+She can run on a guy wire, stand on a crumbling parapet, balance on the tip of a pine tree, and perform many similar feats without needing to roll for her balance.
+
+
+### Invisible Statue Spirit
+`Mind 5, Action to initiate`
+
+** Assuming perfect stillness, the Solar fades from sight. **
+
+A Solar with this Charm can affect true invisibility.
+However, the Exalt cannot move, nor can she take violent action without breaking this deception.
+
+Characters using Invisible Statue Spirit are not immaterial and can still be detected by touch, scent, taste but not hearing.
+
+
+### Lock-Opening Touch
+`Mind 4, Action`
+
+Open any lock mechanism.
+
+Mundane locks are opened automatically, no Roll or lockpicking tools are required.
+
+Magical locks require a (Larceny + Tier) Roll: on a failure the lock is opened but a GM Intrusion occours.
+
+
+### Shadow Over Water
+`Body 2, Enabler`
+
+Reduces the Difficulty of a Dodge roll by 2, can be used *after* the die has been cast.
+
+Edges apply as if the Charm was used together with the Dodge roll.
+
+
+### Surprise Anticipation Method
+`Enabler`
+
+** The Solar’s senses guard her from threats she is not consciously aware of. **
+
+Whenever the Solar is in danger, due to a hidden enemy, a trap or any source of harm not readily apparent, she will know that something is off.
+
+In order to reveal the actual nature of the threat, she will still need to roll Perception, but she can pay 1 point less per level of Effort.
+
+Her senses will function even when she is asleep or knocked out or otherwise unconscious: if she successfully detects the threat, she will instantly revive to try and defend herself.
+
+
+
+# Tier 2
+
+
+### Easily-Overlooked Presence Method
+`Mind 6, Enabler, Scene long`
+
+** Even amidst the Imperial Treasury, the Lawgiver projects her right to be there. **
+
+As long as the Solar does not stand out, her presence there will slip away from any onlooker's mind, like an irrelevant extra.
+
+Things that usually will count as "standing out" are taking overt action, attacking and general displays of prowess: leaping from the street to the rooftops, braving a snowstorm in summer clothes, etc.
+
+If she is dressed and behaving as expected for the present circumstances, those that interact with her by matter of routine won't find her suspicious.
+
+Even if she was caught somewhere she doesn't belong, she will immediately become aware of a gap in her inquisitor’s knowledge she can exploit: stopped at a picket, she realizes the soldier questioning her is expecting a messenger he has never seen; confronted by a tenant when creeping through the glass towers of Chiaroscuro, she realizes there are vacant rooms and assumes the role of a squatter.
+
+
+### Flawlessly Impenetrable Disguise
+`Mind 5, Action, Scene long`
+
+** Master chameleons, the Solars donned disguises and attended the fetes of the raksha, to hear them confess their nefarious plans for Creation. **
+
+The Solar can don a different gender, etnicity, voice, accent, scent, as well as double or halve her age, increase or decrease height by up to 25cm, creating a completely new appearance or impersonating someone specific.
+
+Identity is Perfectly disguised, deception can be detected only with magic means (roll Larceny + Tier to contest).
+
+Characters are not entitled to attempt to see through the disguise unless the Solar behaves in a grossly inaccurate way.
+
+Setting up the disguise takes about 5 minutes.
+
+At Tier 4, she can even mock the features of magical beings: her hair might stand on end and crackle with lightning; she might hover inches off the ground or display the anima of a different kind of Exalt.
+None of these displays are real: displaying a Fire Aspect’s anima will not actually burn anything, though witnesses will feel the intensity of its heat.
+She may appear to float, but her feet are still touching the ground.
+
+
+### Keen Sight Technique
+`Mind 8, Enabler, Scene long`
+
+** The Lawgiver's visual acuity transcends mortal limits. **
+
+* +Tier to notice hidden persons or devices, to catch sleight of hand and see through disguises.
+
+* In dim conditions, the Lawgiver sees as well as in broad daylight.
+
+* Reduce the penalties due to environmental visual hindrances such as dense smoke or fog by 2: these effects reflect the Exalt’s ability to notice and process hundreds of minute details, as well as to focus and manage light sources more effectively.
+
+* She can resolve tiny details at distance.
+
+* She can quickly estimate distances, sizes and numbers on sight, for example to count enemy troops, dropped coins.
+
+
+### Lightning-Hand Sleight
+
+** Long ago, the Solars stole the implements of their virtue from beneath the gaze of the gods’ own masters. **
+
+Between breaths, eyeblinks, even thoughts, the Exalt’s hands flash out.
+
+This Charm is used to perform a sleight of hand in plain sight as if every onlooker was momentarily distracted.
+
+Further, the change cannot be noticed for (Larceny + Tier) minutes unless the circumstances call attention to it, such as a soldier attempting to draw his stolen blade.
+
+
+### Seven Shadows Evasion
+`Mind 2 and Body (special cost), Enabler, instant`
+
+** The Solar’s perfect form is quicker than an eyeblink and more tractile than water. **
+
+The Solar can dodge *anything* physical, even if it's Undodgeable, no roll required.
+
+The Body cost is equal to the level of the attack but can never exceed 8 points.
+
+
+### Ten Aurochs Meditation
+`Body 3, Enabler`
+
+This Charm increases the effects of using Effort for a single action or task where raw strength matters.
+
+Any level of Effort used for feats of strength (usually lifting or breaking stuff) is multiplied by the Solar's Athletics.
+
+If an attack damage can be affected by the Solar's strength, then each level of Effort will increase the damage by (3 + Athletics).
+
+
+
+## Tier 3
+
+
+### Keen Taste and Smell Technique + Foe Scenting Method
+`Mind 8, Enabler, Scene long`
+
+** The Exalt’s senses of taste and smell are capable of flawless identification of flavors, textures, and scent profiles. **
+
+The Solar perfectly remembers all the scents and flavours she has experienced and will automatically recognize them when this Charm is active.
+
+She can identify obscure, complex, or similar flavors and she can deconstruct a meal she has eaten to its basic ingredients, so long as she has experienced most of the flavors at some point in time.
+
+She has +2 to Survival Rolls to hunt for food, track a character, or find water using her sense of smell.
+
+She can recognize an individual by scent alone and tell older scents from new ones, enabling her to tell how recently an individual was present; even if a scent is not known to her, she can make generally accurate discernments about what kind of being a scent belongs to: beasts, for example, smell different than humans, as do the undead and spirits.
+
+At Tier 3+ she can smell dematerialized spirits.
+
+
+### Perfect Shadow Stillness
+`Essence 3, Enabler`
+
+**The Lawgiver’s stealth technique is honed until it’s flawless. **
+
+After a failure or GM Intrusion on a Stealth Roll, the player gets a free Player Intrusion.
+
+
+### Proof-Eating Palm
+`Mind 3, Action`
+
+** The Solar’s genius hands can outwit even the sharpest eye. **
+
+This Charm allows her to hide any object small enough to palm.
+She may appear to swallow the item, fit it under her tongue, hide it up her sleeve, etc. The object vanishes.
+When the Exalt needs it again she may will it into her hand with just a thought.
+The Exalt may hide no more than (Larceny x2) objects, but each object must be hidden in a separate space.
+
+
+### Racing the Sun
+`2 Body, Enabler`
+
+** Attuned to Essence currents that flow through the world, the Solar moves as if in a waking dream. **
+
+Multiply running speed by (Tier + Athletics) for a single Action.
+During a chase, add Tier to any roll to outrun an opponent.
+Lasts for a single Action.
+
+
+### Safety Between Heartbeats
+`Body 1, Enabler`
+
+** In making herself untouchable, the Lawgiver exploits the slightest hesitation, even the pause to draw breath, maximizing her opponent’s failure. **
+
+This Charm enhances a roll to Dodge an attack.
+Whether the roll is successful or not, the attacker's next action suffers a penalty equal to the Solar's Athletics.
 
 
 
 # Eclipse
+
 
 
 ## Tier 1
@@ -306,30 +706,62 @@ Any excess level on the roll become contingency points that can be spent to:
 ### Flawless Brush Discipline
 `Mind 3, Enabler`
 
-Write (or copy) ten times as fast and with flawless calligraphy, no ink needed.
+** The Solar concentrates all of her talent into a perfect expression of form. **
+
+The Lawgiver writes with flawless precision at superhuman speed.
+
+while composing a text, this charm allows her to refuse a GM intrusion related to the text.
+
+The Lawgiver may perfectly copy any written work down to the finest detail, at ten times the speed.
+Her flawless precision makes her script impossible to tell apart from the original, allowing her to create a perfect replica of a work.
+If the Exalt focuses intently on aesthetic elements, she may even use this Charm to copy them, flawlessly reproducing pictograms, illustrations and even maps.
+Magic which can detect the Solar’s forgery must overcome a difficulty equal to the Solar’s (Lore + Tier) score at the time of writing.
+
+The charm creates its own ink or paint.
 
 
 ### Frugal Merchant Method
 `Mind 3, Action`
 
-Gives perfect knowledge of an item's value and quality in a given market
-
-
-### Letter-Within-a-Letter Technique
-`Mind 5, Enabler`
-
-Hides a simple message in a text, only the intended recipient will be able to recognize it.
+Gives perfect knowledge of an item's quality and its current value in any market the Lawgiver is acquainted with.
 
 
 ### Mastery of Small Manners
 `Mind 4, Enabler, Scene long`
 
-The Solar adapts to the expectations of the social and cultural context.
+** The Solar adapts to the expectations of the social and cultural context. **
 
-Ignore penalties for unfamiliarity and reroll 1s.
+The Solar ignores penalties for unfamiliarity with a social and cultural context and can refuse GM intrusions.
+
+If she wants to do something, she will instinctively understand how to do it in a way that is appropriate or at least acceptable.
+
+
+### Talking Between the Lines
+`Mind 5, Enabler`
+
+** Thus an Exalt using this Charm could appear to discuss the weather while laying out the details of an assassination plot. **
+
+Hides a simple message in a speech or written text, so that only the intended recipient will be able to recognize it.
+
 
 
 ## Tier 2
+
+
+### Excellent Sage's Discipline
+`special`
+
+Concentrating on a text, the Exalt can read it at superhuman speed and remember it perfectly.
+
+She can read a scroll as quickly as she can unroll it, and a book as fast as she can turn the pages— approximately three pages per second.
+
+Only the content of text, maps, tables and diagrams can be remembered, details about the medium can not.
+
+Quick-reading a text costs (Mind 4).
+
+Perfectly remembering a text requires the commitment of (Mind 1) per text; this can be used also to write entirely new texts entirely in the Exalt's mind.
+
+After one season of frequent access, a remembered text is completely learned and the commitment cost can be released.
 
 
 ### Indolent Officier Prana
@@ -344,7 +776,62 @@ Slow (or hasten) a single task undertaken by some bureaucracy by Tier degrees: I
 On a successful Bureaucracy roll, target is convinced that something worthless is actually valuable or that something valuable is their heart's desire.
 
 
-### Sagacious reading of intent
-`Mind 4, Action`
+### Measuring Glance
+`Mind 6, Action`
 
-Know if a text or speech indicates anything that is important to the author, and what that is.
+** The Solar can sum up the member of an organization with perfect incision. **
+
+The Exalt can determine the opinion that a member of an organization holds of the same organization.
+
+This Charm can be resisted only with magic; in this case the Lawgiver's Bureaucracy roll adds her Tier.
+
+
+### Sagacious reading of intent
+`Mind 8, Enabler`
+
+This Charms enables the Solar to know the intent behind a text or statement, and whether it indicates anything that the author genuinely cares about.
+
+If the words constitute a social attack, this Charm functions as a perfect defense against it.
+
+
+
+## Tier 3
+
+
+### Bureau-Reforming Kata
+`Mind 6, Enabler`
+
+** The Solar may use her bureaucratic prowess to reform an ailing or corrupt bureaucracy. **
+
+The Lawgiver must participate in an investigation of the organization, attending or leading inquiries, reviewing records and interviewing involved parties.
+For the duration of the inquest, add the Solar’s Bureaucracy to her Perception and Socialize rolls to conduct this investigation.
+
+In addition, while this Charm is in effect, members of the organization will automatically perceive the Solar as a subject of confidential trust with regards to the bureau— someone they should both confide in and should speak truthfully to.
+
+At the end of the inquiry, if the Lawgiver successfully uncovered evidence of any hostile magic, she instantly cleanse it.
+
+
+### Golden Courtier Misdirection
+`Mind 7, Enabler`
+
+This is a perfect defense against attempts to read the character’s intentions, ideas or social qualities
+
+The character decides what it is that people who attempt to discern these factors determine.
+
+
+### Moving the Unseen Hand
+`Mind 5, Enabler`
+
+The Exalt pens a message in a hand so artful and deceptive that she can cause her reader to make an automatic assumption as to the writer’s identity, perfectly copying the writing voice of a character.
+
+The Difficulty to pierce the deception is the Solar's (Lore + Tier) at the time of writing.
+
+The Exalt may use this technique in four different ways:
+
+  * She can make readers believe a message was written by a specific person of whom they’re aware—they do not need to know this character on a personal level.
+
+  * She can also make readers assume the letter was written by the person they most want the letter to be from.
+
+  * If the Solar is at least Trained in Bureaucracy, she can make readers assume the letter was written by a hierarchical superior.
+
+  * She can simply sign the letter, in which case the deception will automatically succeed unless the target has reasons to suspect its origin or conent.
