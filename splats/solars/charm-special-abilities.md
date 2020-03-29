@@ -7,13 +7,15 @@
 ### Dipping Swallow Defense
 `Enabler`
 
-Allows to spend Effort for Defense rolls *after* the die has been rolled.
+Allows to spend Effort for Parry rolls *after* the die has been rolled.
+
+Allows to spend one level of Effort to ignore a GM intrusion on a Parry.
 
 
 ### Hungry Tiger Technique
 `Body 3, Enabler, Attack Roll`
 
-Increases damage by 2, 4 or 6 for Light, Medium or Heavy weapons respectively.
+Increases damage by 3, 5 or 7 for Light, Medium or Heavy weapons respectively.
 
 As an alternative, the enemy is knocked down or away.
 
@@ -24,8 +26,9 @@ As an alternative, the enemy is knocked down or away.
 Commit 1 Essence, store an Owned weapon Elsewhere.
 
 If the weapon is in line of sight, it can be called to her hand.
-
 The Solar can't be disarmed during combat.
+Prevents anyone else from re-attuning to the weapon.
+Reduces the Committed Essence cost of an attuned artifact weapon by half, round up.
 
 
 ### War Lion Stance
@@ -48,15 +51,35 @@ Each attack is rolled separately but Edges are applied only once.
 
 
 ### Heavenly Guardian Defense
-`Body 10, Enabler, instant`
+`Body (special cost), Enabler, instant`
 
 **The Anathema may strike aside even the falling sky**
 
-The Solar can parry *anything* physical, no roll required, but her weapon will take the full damage of the attack.
+The Solar can parry *anything* physical, even if it's Unblockable, no roll required, but her weapon will take the full damage of the attack.
 
-As an alternative, refuse a GM intrusion on a Defense Roll.
+The cost is equal to the level of the attack but can never exceed 10 points.
 
 It can't be used more than once per combat turn.
+
+
+### There is no Wind
+`Body 2, Enabler`
+
+In an Attack roll, ignore any Difficulty other than the target Level and cover (high winds, visibility, limited movement space...)
+
+
+### Tiger Warrior Training Technique
+`Mind 8, Extended Action`
+
+In one week, turn an undisciplined military unit into average.
+
+In one month, turn an average unit military unit into elite.
+
+Any unit trained with this charm ignores penalties having to do with hunger, bad weather, long marches and mundane demoralizing effects.
+
+
+
+## Tier 3
 
 
 ### Perfect Strike Discipline
@@ -65,10 +88,114 @@ It can't be used more than once per combat turn.
 Can use again up to Max Effort levels of Effort above the normal Max Effort, but only to increase an attack's damage.
 
 
-### There is no Wind
-`Body 2, Enabler`
+### Glorious Solar Saber (Action, Essence 6)
+`Essence 5, Action`
 
-In an Attack roll, remove any Difficulty other than the target Level (high winds, visibility, limited movement space...)
+Shape the Solar's essence into a weapon (or a weapon set where appropriate).
+The weapon must be choosen when the Solar learns this Ability, and should be roughly equivaent to a (Tier + 4) level Artifact.
+Additional weapons can be purchased for 3xp each.
+Weapons that require ammo will be summoned with what a person could normally carry.
+The weapon lasts for one scene.
+
+
+### Solar Counterattack
+`Body 4, Enabler`
+
+Before rolling a Parry, you can make an Attack to whoever is attacking you.
+
+Damage is resolved simultaneously.
+
+
+### Mist on Water Attack
+`Body 2 per turn, Enabler`
+
+A victim of this attack cannot produce sound.
+He can neither cry out nor raise alarm, nor will his fist through a window produce the sound of shattered glass, nor will his body plummeting from the rooftops to the street make even the tiniest sound of thud
+or splatter.
+Characters thus affected may not be detected by any hearing-based Perception, and those who are killed will die in an unnoticeable fashion, determined by the GM: they may die standing up, reclining naturally, or their bodies may simply fall soundlessly out of sight.
+In any case, the target’s death cannot be discovered until the effects of Mist on Water Attack have passed.
+
+
+
+## Tier 4
+
+
+### Culling the Swarm
+`Enabler`
+
+On Initiative Roll, you can make one Attack with a throwing weapon to each enemy in range whose initiative you surpassed.
+You need to have enough throwing weapons.
+
+
+### Flashing Vengeance Draw
+`Body 3, Enabler`
+
+On Initiative Roll, you can make one Attack on one enemy whose Initiative you surpassed. The attack in Unblockable.
+
+
+### ??? Hanging Judgement Arc
+Target a specific part of scenery to be off limits to an opponent and fire an arrow into the sky. If the opponent moves into it, an attack occurs
+
+
+### ??? Commanding the Ideal Celestial Army
+[ needs a system for mass combat ]
+
+
+
+## Tier 5
+
+
+### Fivefold Bulwark Stance
+`Body 5, Action`
+
+For the rest of the Scene, Effort for Parry rolls cost 1 instead than 2 points
+
+
+### Dancing Steel Symphony
+`Body 5, Action`
+
+Make as many attack as enemies in range, as long as the attack does something other than inflicting damage
+
+
+### Orichalcum Fist Of Battle
+`Body 4, Enabler`
+
+Make an unarmed attack count as if using a heavy weapon.
+
+Hit opponents who take at least 1 point of damage lose their next action.
+
+
+### Immortal Blade Triumphant
+`Essence 5, Enabler`
+
+Make an Attack unblockable, Holy and ignore Armor.
+
+
+
+## Tier 6
+
+
+### Boundless Arrow of the Unconquered Sun
+`Essence 12, Action`
+
+**thus are the enemies of the greatest of the Chosen forced to dwell in absolute darkness forever**
+
+The Solar declares a specific target they have seen at least once, then shoots an arrow towards the Daystar.
+As long as the target is exposed to any kind of direct sunlight, whether in Creation, the Underworld, Malfeas, the Wyld, Yu-Shan etc, the arrow will reach the target as an Undodgeable attack.
+The attack cannot be used again until the Solar sees their target again.
+
+
+### Burning Sky Apocalypse Strike
+`??? Body, Action`
+
+Selectively apply an attack to all enemies within a mile.
+
+
+### World-Scarring Solar Glory
+`Body 18, Enabler`
+
+Allows an attack to inflict as little or as large damage as the Solar desires regardless of the weapon's damage.
+Further, the attack can affect non magical objects and structures up to the size of a palace or hill.
 
 
 
@@ -264,6 +391,13 @@ Automatically open any non-magical lock mechanism.
 Provides 1 asset vs magical locks.
 
 
+### ??? Shadow Over Water
+`Body ???, Enabler`
+
+Reduces the Difficulty of a Dodge roll by 2, can be used *after* the die has been cast.
+
+
+
 # Tier 2
 
 
@@ -294,6 +428,29 @@ Any excess level on the roll become contingency points that can be spent to:
   * Gain a Scene-long asset to Integrity, Socialize or Performance.
   * Retroactively leave the Solar's calling card (mark, sign, etc.)
   * Other instances the player can say "I planned for this" and cackle evilly
+
+
+### Seven Shadows Evasion
+`Mind 3 and Body (special cost), Enabler, instant`
+
+The Solar can dodge *anything* physical, even if it's Undodgeable, no roll required.
+
+The Body cost is equal to the level of the attack but can never exceed 8 points.
+
+
+
+## Tier 3
+[...]
+
+
+
+## Tier 4
+
+
+### Flow Like Blood
+`Body 5, Action`
+
+For the rest of the Scene, any Dodge roll benefits from the full Max Effort without cost.
 
 
 
@@ -348,3 +505,11 @@ On a successful Bureaucracy roll, target is convinced that something worthless i
 `Mind 4, Action`
 
 Know if a text or speech indicates anything that is important to the author, and what that is.
+
+
+
+
+
+### ??? Halo of Ministerial Dominion
+### ??? Market Buster Strike
+### ??? Heavenly Mandate Marking
