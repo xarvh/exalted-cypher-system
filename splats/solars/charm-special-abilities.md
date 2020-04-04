@@ -7,6 +7,8 @@
 ### Dipping Swallow Defense
 `Enabler`
 
+** Even when the Lawgiver is beleaguered, she strikes away blows with preternatural accuracy. **
+
 Allows to spend Effort for Parry rolls *after* the die has been rolled.
 
 Allows to spend one level of Effort to ignore a GM intrusion on a Parry.
@@ -15,6 +17,8 @@ Allows to spend one level of Effort to ignore a GM intrusion on a Parry.
 ### Hungry Tiger Technique
 `Body 3, Enabler, Attack Roll`
 
+** The Solar charges her body and weapon with Essence, unifying the two to unleash a brutal strike that rends her opponent. **
+
 Increases damage by 3, 5 or 7 for Light, Medium or Heavy weapons respectively.
 
 As an alternative, the enemy is knocked down or away.
@@ -22,6 +26,8 @@ As an alternative, the enemy is knocked down or away.
 
 ### Summoning the Loyal Steel
 `Mind 1, Enabler`
+
+** With a moment of concentration, the Solar may banish a weapon Elsewhere. **
 
 Commit 1 Essence, store an Owned weapon Elsewhere.
 
@@ -33,6 +39,8 @@ Reduces the Committed Essence cost of an attuned artifact weapon by half, round 
 
 ### War Lion Stance
 `Body 4, Enabler`
+
+** The Solar learns to defend others upon learning to defend herself. **
 
 Pick someone within Close range. Every time they are attacked and the Solar has a weapon to parry the attack, she can make a Defense roll for them OR she can reduce the difficulty of their Defense roll by 1 if she is Trained or 2 if she is Specialised in the Skill she is using.
 
@@ -55,7 +63,7 @@ Each attack is rolled separately but Edges are applied only once.
 
 **The Anathema may strike aside even the falling sky**
 
-The Solar can parry *anything* physical, even if it's Unblockable, no roll required, but her weapon will take the full damage of the attack.
+The Solar can parry *anything* physical, even if it's Unblockable, no roll required, and her weapon will take no damage.
 
 The cost is equal to the level of the attack but can never exceed 10 points.
 
@@ -65,11 +73,15 @@ It can't be used more than once per combat turn.
 ### There is no Wind
 `Body 2, Enabler`
 
+** The Solar graces her shot with unerring precision and fires it along a flow of Essence, causing it to slice through the air between the arrow and its mark. **
+
 In an Attack roll, ignore any Difficulty other than the target Level and cover (high winds, visibility, limited movement space...)
 
 
 ### Tiger Warrior Training Technique
-`Mind 8, Extended Action`
+`Enabler`
+
+** Even the worst gutter-sweepings and bandits can be trained into an elite fighting force. **
 
 In one week, turn an undisciplined military unit into average.
 
@@ -91,6 +103,8 @@ Can use again up to Max Effort levels of Effort above the normal Max Effort, but
 ### Glorious Solar Saber (Action, Essence 6)
 `Essence 5, Action`
 
+** Honing her skill and focusing her will, the Exalt births a stunning weapon from her palm. **
+
 Shape the Solar's essence into a weapon (or a weapon set where appropriate).
 The weapon must be choosen when the Solar learns this Ability, and should be roughly equivaent to a (Tier + 4) level Artifact.
 Additional weapons can be purchased for 3xp each.
@@ -99,7 +113,9 @@ The weapon lasts for one scene.
 
 
 ### Solar Counterattack
-`Body 4, Enabler`
+`Body 3, Enabler`
+
+** The Exalt draws focus from her foe’s temerity. To strike her is to invite death. **
 
 Before rolling a Parry, you can make an Attack to whoever is attacking you.
 
@@ -108,6 +124,8 @@ Damage is resolved simultaneously.
 
 ### Mist on Water Attack
 `Body 2 per turn, Enabler`
+
+** The Solar pours the cold instinct of her training into a blade, suffusing it with stifling Essence. **
 
 A victim of this attack cannot produce sound.
 He can neither cry out nor raise alarm, nor will his fist through a window produce the sound of shattered glass, nor will his body plummeting from the rooftops to the street make even the tiniest sound of thud
@@ -123,6 +141,8 @@ In any case, the target’s death cannot be discovered until the effects of Mist
 ### Culling the Swarm
 `Enabler`
 
+** Sometimes outgunned, rarely outdrawn, a Lawgiver answers the call of battle with a swarm of deadly steel. **
+
 On Initiative Roll, you can make one Attack with a throwing weapon to each enemy in range whose initiative you surpassed.
 You need to have enough throwing weapons.
 
@@ -130,11 +150,28 @@ You need to have enough throwing weapons.
 ### Flashing Vengeance Draw
 `Body 3, Enabler`
 
+** To invite the wrath of the Lawgiver is to invoke one’s own doom. **
+
 On Initiative Roll, you can make one Attack on one enemy whose Initiative you surpassed. The attack in Unblockable.
 
 
-### ??? Hanging Judgement Arc
-Target a specific part of scenery to be off limits to an opponent and fire an arrow into the sky. If the opponent moves into it, an attack occurs
+### Hanging Judgement Arc
+`3 committed Essence, Action`
+
+** The Lawgiver’s divine judgment pours down on the heads of the wicked. **
+
+The Solar names a specific bit of scenery that is not occupied by an enemy combatant and fires a scintillating shot high into the sky, enhancing it with Charms or Effort if she wishes.
+
+Her arrow flies up and up, disappearing into the sky.
+
+If one opponent crosses through, over, or into the designated position, the fiery arrow strikes them as if the Solar had rolled a 6.
+
+If the Solar is slain or cancels the Essence commitment, the arrow comes down and will set fire to any flammable thing it touches.
+
+If the Lawgiver threatens a specific character with this attack, (ie “Winglord Kvetu may not retreat across that bridge”) the attack adds (Tier) to both the attack roll and the arrow's damage.
+
+Any use of this Charm must occur in places with enough vertical space to fire an arrow upward without it getting lodged in the ceiling.
+The player can’t threat-mark an area inside an enclosed building or chamber while standing outside.
 
 
 ### ??? Commanding the Ideal Celestial Army
@@ -178,7 +215,7 @@ Make an Attack unblockable, Holy and ignore Armor.
 ### Boundless Arrow of the Unconquered Sun
 `Essence 12, Action`
 
-**thus are the enemies of the greatest of the Chosen forced to dwell in absolute darkness forever**
+** ...thus are the enemies of the greatest of the Chosen forced to dwell in absolute darkness forever. **
 
 The Solar declares a specific target they have seen at least once, then shoots an arrow towards the Daystar.
 As long as the target is exposed to any kind of direct sunlight, whether in Creation, the Underworld, Malfeas, the Wyld, Yu-Shan etc, the arrow will reach the target as an Undodgeable attack.
@@ -186,13 +223,15 @@ The attack cannot be used again until the Solar sees their target again.
 
 
 ### Burning Sky Apocalypse Strike
-`??? Body, Action`
+`16 Body, Action`
 
 Selectively apply an attack to all enemies within a mile.
 
 
 ### World-Scarring Solar Glory
 `Body 18, Enabler`
+
+** The Solar’s weapon surges with the limitless power of the wrathful sun god. **
 
 Allows an attack to inflict as little or as large damage as the Solar desires regardless of the weapon's damage.
 Further, the attack can affect non magical objects and structures up to the size of a palace or hill.
@@ -205,16 +244,14 @@ Further, the attack can affect non magical objects and structures up to the size
 ## Tier 1
 
 
-### Hardship-Surviving Mendicant Spirit
-`Body 5, Committed`
-
-The character ignores penalties due to mundane climate, flora and fauna.
-
-
 ### Iron-Kettle Body
-`Body 5, Enabler`
+`Enabler`
 
-Reduce Body damage from a single source by 1d6 + 1
+** Striking the Solar is like striking a piece of iron. **
+
+The Solar's skin gives her Armor 2.
+
+This bonus does not stack with worn Armor, but can stack with other sources of Armor.
 
 
 ### Respect-Commanding Attitude
@@ -225,10 +262,57 @@ Forces people to stop and earnestly listen to what the Solar has to say.
 The effect requires a roll only for those in the audience who'd rather attack.
 
 
+### Righteous Lion Defense
+`Enabler`
+
+** Around a certain issue, the Solar cannot be moved, shaken, swayed or tempted. **
+
+Upon purchasing this Charm, the player chooses a defining principle that exemplifies the Solar in such a way that she should never act against it.
+
+The Solar becomes perfectly immune to any kind of influence which would cause the Solar to knowingly act against the principle.
+
+
+### ??? Soul-Firing Performance
+``
+If successful, the group is struck with an emotion conveyed by the performance, and each affected target reconsiders a decision they made in his past, connected to that emotion.
+The Storyteller chooses what each character is forced to reconsider.
+
+
+### Spirit-Tied Pet
+`Enabler`
+
+** An Exalt with a familiar has experienced the gift of having been chosen twice. **
+
+* No influence of any kind can make the familiar act against their loyalty for the Solar
+* The familiar is protected against attacks and effects that do not target them directly
+* The Exalt may borrow the sense of the familiar thought a moment of intense concentration.
+  This renders the Solar incapable of taking any other action.
+
+
+### Traceless Camouflage
+`Mind 6, Enabler`
+
+The Lawgiver can hide herself, her followers and objects up to the size of an elephant in any environment.
+
+If standing in a place, they must spend time to camouflage:
+  * 1 Action for one person
+  * 1 minute for a handful of people
+  * 1 hour for a large object
+  * half a day for many people or objects
+
+Once the camouflage is complete, they cannot be detected with mundane means.
+
+If moving, they cannot be tracked with mundane means.
+
+Against magical means, the Solar adds her Tier to the roll.
+
+
+
 ## Tier 2
 
 
 ### Fury-Inciting Speech
+[a bit too limited?]
 `Mind 5, Action`
 
 The Solar speaks out against injustice, typically playing on local faith, tradition or morality, igniting anger in a crowd.
@@ -236,10 +320,10 @@ The Solar speaks out against injustice, typically playing on local faith, tradit
 Requires a Presence roll; for every 2 excess levels, she can direct the crowd to attack a specific target.
 
 
-### Increasing-Strength Exercise
-`Body 3x, Action, Scene long`
+### Hardship-Surviving Mendicant Spirit
+`Body 5, Committed`
 
-For every 3 points spent, to a maximum of 3 times the Tier, she get an Asset for feats of strength rolls.
+As long as some adversity originates from the normal features of the environment, including climate, flora and fauna, it will not harm or penalize the Solar.
 
 
 ### Integrity Protecting Prana
@@ -251,11 +335,288 @@ Can be activated even when incapacitated, sleeping or otherwise unconscious.
 
 
 ### Spirit-Tempering Practice
-`Recovery`
+`Enabler`
 
-Can take a Recovery under a duress regime (torture, interrogation) that lasts at least as long as the Recovery.
+The Solar can take a Recovery under a duress regime (torture, interrogation) or fatiguing activity that lasts at least as long as the Recovery.
 
-Doing so also automatically resists the duress.
+Doing so also automatically resists the duress and overcomes the fatigue.
+
+
+### Unbreakable Warrior’s Mastery
+`Body 5, Enabler`
+
+** The Lawgiver knows all harm at once, and yet the greater truth is that she still exists, unbowed and unbroken. **
+
+This charms lessens physical crippling effects.
+
+Temporary penalties are halved, rounding down, and their duration cannot exceed (4 - Resitance) actions.
+
+Irreparable or permanent harm can be traded for a lesser effect of a shorter duration: instead of her eye being gouged out, it is closed by a glancing blow; instead of her arm being shattered, it simply hangs limp.
+
+
+### Underling-Promoting Touch
+`Essence 3, Action`
+
+** With a touch, the Exalt raises a servant to the role of a champion. **
+
+By touching a person who serves or follows her, the Lawgiver temporarily makes her subject the beneficiary of respect and admiration usually reserved for the Solar.
+
+Characters who have ties of loyalty, respect or admiration to the Solar now also feel the same way toward her charge.
+
+The character also inherits any social station or role it is within the Solar’s right to grant, and all characters who are subject to that station instantly recognize that they are subject to the promoted one’s authority.
+
+? granting him a personal Essence pool of four motes plus up to five more
+
+? The character becomes inured to supernatural terror, and may resist it with a +2 bonus to his Resolve.
+
+
+
+## Tier 3
+
+
+### Adamant Skin Technique
+`Body 5, Enabler, instant`
+
+** Driven by purpose, the Solar refuses to be defeated. **
+
+This Charm is activated on taking damage to her Body Pool and can be used even in case of a surprise attack: the Solar rolls Resistence, removing the result from the damage.
+
+As an alternative, the Charm grants total immunity to scenery-based damage, like that of an explosion or a collapse, or falling from a great height.
+
+
+### Life-Sustaining Shelter Preparation
+`Essence 8, long Action`
+
+** The Solar Exalted may survive anywhere. **
+
+Once she has found an area large enough to protect all of her followers, the Solar places representations of the five elements at the center and directional boundaries of the area, which can be actual examples of each element, such as twigs, stone, cinders, etc, or the Solar may use a few drops of blood, paper effigies, Dragon-Blooded willing to sit still or other tokens.
+Doing so blesses the area with her essence, claiming it as her dominion and making it Holy.
+
+All individuals within the shelter are treated as if under the effect of Hardship-Surviving Mendicant Spirit and the shelter itself is immune to the inclement conditions of the environment: the Wyld will not mutate the camp’s land, the Solar’s followers, or their belongings, nor will Malfeas’s toxic miasma poison them.
+The Solar and her followers may respire Essence normally even in the Underworld or the Blight Zones of Autochthonia.
+
+The Solar’s followers will take no harm from any nourishment scavenged within the confines of the shelter: Wyld berries will not poison them, nor singing fish give them mutations, the iridescent locusts which swarm across the sands of Cecelyne will not infect them with demonic taint.
+The shelter confines will provide enough food to feed all the Solar's followers even if there no food: as if produced by faith alone, the Solar finds clean water flowing from the rocks of Malfeas, fresh fish in the acrid seas of Kimbery, and living fruit upon dead branches.
+
+
+### Majestic Radiant Presence
+[should this be permanent? should it make Stealth impossible while active?]
+`Enabler`
+
+** The Lawgiver is a singular and terrifying being, awesome to behold. **
+
+The Solar gains +2 bonus to any intimidation roll.
+
+Anyone wishing to initiate combat or speak against her must overcome this fear effect, whether the Solar is aware of them or not.
+
+A character that overcomes this effect will be immune to it for the rest of the Scene.
+
+
+### Memory-Reweaving Discipline
+`Mind 6, Enabler`
+
+** The Exalt weaves a narrative so plausible and compelling that those who hear it forget the truth and believe the narrative. **
+
+The Solar speaks for at least a minute, though more complex narratives may require longer.
+Mere success entails a simple belief in the facts as the Solar has presented them.
+Extra successes, however, increase commitment to this belief.
+
+
+### Truth Shines Through
+`Enabler`
+
+** The virtue of the Lawgivers is like the sun at noon. Clouds might obscure it, but its light can never truly be banished or denied. **
+
+Whenever the Solar act under some unnatural mental influence, the fact that she is not behaving like herself becomes obvious to all the observers.
+
+
+
+## Tier 4
+
+
+### Destiny-Manifesting Method
+``
+
+** The Solar is the heritor of a legend that cannot easily be erased. **
+
+When struck with a reality-shaping or fate-weaving attack that would permanently alter her mind or body, the Solar’s destiny manifests to override the changes.
+This Charm does not completely nullify deleterious effects, but downgrades or slows them such that two things are guaranteed:
+  1. the Solar cannot be immediately changed beyond her ability to represent the character concept implied by her Caste and Focus [is this flexible/good enough?].
+  2. no matter how fatal or permanent the effect may be, fate itself will generate a condition by which the Solar may shatter any curse.
+
+Once the condition is shattered once, it cannot affect the Solar again, applying a minimal penalty for an action or paltry damage at worst.
+
+
+### ??? Heart-Compelling Method
+``
+
+** The Lawgiver’s music pulls at the soul of her target, impelling him to act on his deepest desires. **
+
+The Solar performs for at least a minute, declaring an emotion that she wants to arouse in her audience.
+
+The Solar doesn't need to know her audience: the performance will automatically revive the audience memories and experiences that are more likely to lead to the intended emotion.
+
+The emotion will be aroused automatically, even if the audience is hostile.
+
+On a successful Performance Roll however, the audience will feel strongly compelled to act on the emotion, if not immediately very soon.
+
+
+### Mind-Blanking Rebuke
+`???`
+
+** The Lawgiver issues a powerful admonition against a target, forbidding him from taking a certain action. **
+
+Social attack, prevents a target from taking a certain action (usually the purview of a single Mundane Ability) for the rest of the Scene.
+
+
+### ??? Bloodthirsty Sword-Dancer Spirit
+``
+
+** The Solar drops to a deeper level of consciousness, sinking into a meditation on violence and destruction. **
+
+* +2 to all Combat Rolls
+* Ignore penalties for zeroed Pools
+* Ignore penalties due to pain
+* Regenerates 1 more Essence per action, 2 when tremendousy outnumbered
+
+In this fugue state, her world
+narrows to a tight red tunnel with things that must die at
+the far end. On top of the +1 bonus from Battle Fury Focus,
+the Solar gains an additional +2 dice to all of her combat
+actions, ignores all wound penalties, and generates one
+mote per turn, which must be spent each turn on combat-
+related actions or physical actions in pursuit of combat,
+violence or destruction.
+
+In this state the Solar cannot be safely dissuaded from combat.
+Should friends or allies choose to stand in her way, she won’t slaughter them unheedingly, but will use any force necessary to remove them from her path so she can continue to assault her original target.
+She will not, and cannot end her assault until her targets are dead or fled, and if she is convinced by an impassioned plea to drop her commitment to this Charm, [adverse consequences].
+
+
+## Tier 5
+
+
+### ??? God-King benevolence
+[overlaps Life-Sustaining Shelter Preparation?]
+``
+
+** When faced with the unmitigated purity of the sun’s light, all lesser forces must bow. **
+
+The unbound anima of the Solar Exalted subverts the wrath of nature, cowing the elements in order ensure the safety of the followers of the sun.
+By voluntarily flaring her anima into an enormous pillar of light, the Solar banishes the wrathful elements.
+Lava flows part or harden to admit the passage of the Solar’s followers.
+Flesh-scouring sandstorms whirl about and leave them untouched.
+
+
+### Horizon-to-Horizon Performance Method
+`Mind 14, Enabler`
+
+** By the authority of the Unconquered Sun, his Chosen may command the very heavens to become a vessel for their glory. **
+
+Can be used only during the day under the open sky.
+Tweaking sunlight, shaping clouds and channelling her voice through thunder the Solar creates a performance in the sky that is inescapably seen and heard by everyone for hundred of miles.
+
+
+### Immunity to Everything Technique
+[is this actually fun or it just removes dramatic options?]
+``
+
+  * Invulnerable to any mundane toxin or disease.
+  * Invulnerable to any toxin or disease she has ever been exposed previously.
+  * Reduces Difficulty to resist by 3 if they are resistible.
+  * Can roll to resist toxin or disease that would be non-resistible.
+  * Reduces their adverse effects and their duration by half.
+
+
+### ??? Saga Beast Virtue
+`6 Essence, Action`
+
+** The Exalt infuses her familiar with Solar anima, unlocking the form of the sacred beast. **
+
+  * increase size up to an elephant's
+  * increase level
+  * mutations
+  * immune to fear
+  * lethal damage will terminate the charm, but keep the familiar alive
+  * armor
+
+
+### Terrible Sun King Condemnation
+`Mind 12, Enabler`
+
+** As the Chosen of the Unconquered Sun, the Solar Exalted are empowered on behalf of their patron to determine Creation’s true enemies, even if they walk in the guise of the righteous. **
+
+When the Solar rolls a social attack to condemn, castigate or revile a subject, the subject is given the chance to counter argument the Solar.
+If the subject fails, the day dims slightly and the subject is permanently marked as a creature of darkness and an enemy of Creation, vulnerable to Holy effects.
+
+
+
+## Tier 6
+
+
+### Cast Out Beyond Regard
+`10 Mind, Action`
+
+** A Solar may exile those who have proven themselves unworthy to exist in the world she rules. **
+
+Strips out a confined geographical location from Creation and consigns it to the Demon City.
+
+The Lawgiver performs a prayer where she condemns the targeted area or people, which must be uttered within earshot of at least one affected individual.
+
+Creation’s Essence sizzles and screams, the boundaries of the cursed area blacken, char, and erupt into flights of blind doves.
+
+A patina of silver sand drips from the stars.
+
+At the end of the prayer, the entire targeted region and all inhabitants who have not fled or established Shaping defenses are torn from Creation in a surge of crimson Essence.
+
+Where the targeted region stood, there is only a plain of black glass holding Ligier’s sullen reflection; he speaks a grudging word of ritual thanks for the Solar’s offering, and then vanishes.
+
+The targeted region is deposited somewhere within a random layer of the Demon City, which reflexively reorganizes its geography to make room for the new arrival.
+
+The lethal miasma of Malfeas avoids such imported bits of Creation, but this is the only mercy the new deportees are granted; demons are always quite interested in the novelty of a freshly-arrived army encampment or city, and soon come to investigate.
+
+The Difficilty of the roll depends on the size of the affected area:
+  * 9 for a town
+  * 11 city
+  * 13 region
+  * 15 nation
+
+
+### Eternal Empress of Love Attitude
+`8 committed Essence, Enabler`
+
+For as long as the Solar keeps the Essence committed, any character in existence who has a positive opinion of the Solar must overcome the Solar's (Presence + 6) every time they wish to deliberately take some action they believe will bring harm to the Solar (physical, emotional, political or even financial).
+
+Successfully overcoming the effect for three times makes the character immune to it for the rest of the Scene.
+
+
+### ??? Rising Sun Renewal
+``
+** Perfection is the nature of the Solar Exalted, and the best efforts of the world cannot draw them away from that state for long. **
+
+The Solar’s Essence surges and begins to catalyze, producing a crackling, charged feeling in the air around her, as though a storm were about to commence.
+
+
+### Sublime Cosmic Transcendence
+`Mind 10`
+
+** Temporarily absolving herself from the ties that make her transient and definite, the Solar is everything and nothing and sees all things truly. **
+
+This Charm cannot be used in a Scene in which the Exalt has attacked or otherwise harmed another character, and it will terminate immediately if she does so while it is active.
+
+The Solar must meditate deeply for at least 5 minutes, after which she enters a state of complete merging with the Essence of existence.
+
+She becomes a natural facet of existence, equal to and unaffected by all things.
+
+  * Having left her will behind herself, she cannot use any level of Effort.
+
+  * Her body, mind and soul cannot be harmed, controlled or adversely affected in any way other than normal social influence.
+
+  * She sees all things truly: any unnatural mental influence or delusion affecting her is permanently shattered.
+
+  * She has unlimited Essence.
+
+  * The time she spends meditating can be used for Recovery.
 
 
 
@@ -513,3 +874,19 @@ Know if a text or speech indicates anything that is important to the author, and
 ### ??? Halo of Ministerial Dominion
 ### ??? Market Buster Strike
 ### ??? Heavenly Mandate Marking
+
+
+
+
+
+
+
+
+
+### Increasing-Strength Exercise
+[??? a bit too limited?]
+`Body 3x, Action`
+
+For every 3 Body points spent the Solar gets a +1 to any feat of strength roll, for the rest of thee Scene, to a maximum bonus equal to her Tier.
+
+
