@@ -818,36 +818,69 @@ For the rest of the Scene, any Dodge roll benefits from the full Max Effort with
 # Eclipse
 
 
+
 ## Tier 1
 
 
 ### Flawless Brush Discipline
 `Mind 3, Enabler`
 
-Write (or copy) ten times as fast and with flawless calligraphy, no ink needed.
+** The Solar concentrates all of her talent into a perfect expression of form. **
+
+The Lawgiver writes with flawless precision at superhuman speed.
+
+while composing a text, this charm allows her to refuse a GM intrusion related to the text.
+
+The Lawgiver may perfectly copy any written work down to the finest detail, at ten times the speed.
+Her flawless precision makes her script impossible to tell apart from the original, allowing her to create a perfect replica of a work.
+If the Exalt focuses intently on aesthetic elements, she may even use this Charm to copy them, flawlessly reproducing pictograms, illustrations and even maps.
+Magic which can detect the Solar’s forgery must overcome a difficulty equal to the Solar’s (Lore + Tier) score at the time of writing.
+
+The charm creates its own ink or paint.
 
 
 ### Frugal Merchant Method
 `Mind 3, Action`
 
-Gives perfect knowledge of an item's value and quality in a given market
-
-
-### Letter-Within-a-Letter Technique
-`Mind 5, Enabler`
-
-Hides a simple message in a text, only the intended recipient will be able to recognize it.
+Gives perfect knowledge of an item's quality and its current value in any market the Lawgiver is acquainted with.
 
 
 ### Mastery of Small Manners
 `Mind 4, Enabler, Scene long`
 
-The Solar adapts to the expectations of the social and cultural context.
+** The Solar adapts to the expectations of the social and cultural context. **
 
-Ignore penalties for unfamiliarity and reroll 1s.
+The Solar ignores penalties for unfamiliarity with a social and cultural context and can refuse GM intrusions.
+
+If she wants to do something, she will instinctively understand how to do it in a way that is appropriate or at least acceptable.
+
+
+### Talking Between the Lines
+`Mind 5, Enabler`
+
+** Thus an Exalt using this Charm could appear to discuss the weather while laying out the details of an assassination plot. **
+
+Hides a simple message in a speech or written text, so that only the intended recipient will be able to recognize it.
+
 
 
 ## Tier 2
+
+
+### Excellent Sage's Discipline
+`special`
+
+Concentrating on a text, the Exalt can read it at superhuman speed and remember it perfectly.
+
+She can read a scroll as quickly as she can unroll it, and a book as fast as she can turn the pages— approximately three pages per second.
+
+Only the content of text, maps, tables and diagrams can be remembered, details about the medium can not.
+
+Quick-reading a text costs (Mind 4).
+
+Perfectly remembering a text requires the commitment of (Mind 1) per text; this can be used also to write entirely new texts entirely in the Exalt's mind.
+
+After one season of frequent access, a remembered text is completely learned and the commitment cost can be released.
 
 
 ### Indolent Officier Prana
@@ -862,25 +895,204 @@ Slow (or hasten) a single task undertaken by some bureaucracy by Tier degrees: I
 On a successful Bureaucracy roll, target is convinced that something worthless is actually valuable or that something valuable is their heart's desire.
 
 
+### Measuring Glance
+`Mind 6, Action`
+
+** The Solar can sum up the member of an organization with perfect incision. **
+
+The Exalt can determine the opinion that a member of an organization holds of the same organization.
+
+This Charm can be resisted only with magic; in this case the Lawgiver's Bureaucracy roll adds her Tier.
+
+
 ### Sagacious reading of intent
-`Mind 4, Action`
+`Mind 8, Enabler`
 
-Know if a text or speech indicates anything that is important to the author, and what that is.
+This Charms enables the Solar to know the intent behind a text or statement, and whether it indicates anything that the author genuinely cares about.
 
-
-
-
-
-### ??? Halo of Ministerial Dominion
-### ??? Market Buster Strike
-### ??? Heavenly Mandate Marking
+If the words constitute a social attack, this Charm functions as a perfect defense against it.
 
 
 
+## Tier 3
+
+
+### Bureau-Reforming Kata
+`Mind 6, Enabler`
+
+** The Solar may use her bureaucratic prowess to reform an ailing or corrupt bureaucracy. **
+
+The Lawgiver must participate in an investigation of the organization, attending or leading inquiries, reviewing records and interviewing involved parties.
+For the duration of the inquest, add the Solar’s Bureaucracy to her Perception and Socialize rolls to conduct this investigation.
+
+In addition, while this Charm is in effect, members of the organization will automatically perceive the Solar as a subject of confidential trust with regards to the bureau— someone they should both confide in and should speak truthfully to.
+
+At the end of the inquiry, if the Lawgiver successfully uncovered evidence of any hostile magic, she instantly cleanse it.
+
+
+### Golden Courtier Misdirection
+`Mind 7, Enabler`
+
+This is a perfect defense against attempts to read the character’s intentions, ideas or social qualities
+
+The character decides what it is that people who attempt to discern these factors determine.
+
+
+### Moving the Unseen Hand
+`Mind 5, Enabler`
+
+The Exalt pens a message in a hand so artful and deceptive that she can cause her reader to make an automatic assumption as to the writer’s identity, perfectly copying the writing voice of a character.
+
+The Difficulty to pierce the deception is the Solar's (Lore + Tier) at the time of writing.
+
+The Exalt may use this technique in four different ways:
+
+  * She can make readers believe a message was written by a specific person of whom they’re aware—they do not need to know this character on a personal level.
+
+  * She can also make readers assume the letter was written by the person they most want the letter to be from.
+
+  * If the Solar is at least Trained in Bureaucracy, she can make readers assume the letter was written by a hierarchical superior.
+
+  * She can simply sign the letter, in which case the deception will automatically succeed unless the target has reasons to suspect its origin or conent.
+
+
+
+## Tier 4
+
+
+### Infinitely-Efficient Register
+[requires leading an organization and/or a system for long-term projects]
+
+
+### Woe-Capturing Web
+`Mind 5, Enabler`
+
+Any time a magic is laid against an organization the Lawgiver belongs to, the GM gives her player the opportunity to activate this charm.
+
+If the player does so, the Lawgiver will learn the rough effects of the magic, and reduce the Difficulty to remove or work around it by 2.
+
+She can also inspect her immaculately-kept paperwork to discover information that she can use to profile and possibly identify the one whose magic has been snared.
+To find the perpetrator's identity she needs to roll Bureaucracy against his Level.
+
+If she is successful, she can immediately commit 1 Essence to trap the perpetrator's Pool used to fuel the magic, preventing him from relinquishing the curse before its normal duration has expired.
+
+
+### Single Voice Kata
+``
+
+** There is a point in the infinite distance where purity and entropy touch. That point is both “before” and “after” but the Solar may reach it with a thought, to draw forth perfect language. **
+
+While this Charm is active, the Solar speaks a language that can be understood by all who hear it.
+Knowledge of this language is purely instinctual; characters understand the Solar’s words as she shapes them.
+Her perfect language cannot be learned, as it has no intelligible words, letters or mechanics.
+Consequently, it cannot be repeated back to the Solar such that she would comprehend it.
+This Charm allows purely one way communications, imparting no knowledge of languages the Solar has not yet learned.
+Spirits despise being addressed by a Solar using this Charm, and the Fair Folk feel physical pain to hear it spoken.
+A Solar should only use this Charm against such beings if she deliberately intends to cause offense.
+
+
+
+### Flashing Quill Atemi
+Cost: 1m; Mins: Linguistics 5, Essence 3
+Type: Reflexive
+Keywords: Written-only
+Duration: One minute
+Prerequisite Charms: Power-Snaring Image
+The Lawgiver strikes a body of text with her fingers, re-
+shaping the language to serve her purposes. With this
+Charm, the Solar may edit a manuscript, letter, or tome
+with untraceable precision. Where she draws her finger-
+tips through lines, words lift from pages as if they were
+never written. Where she draws her fingertips through
+runes, ink chases itself into the shapes of new words.
+Through use of this Charm, the Solar can change the
+targets of written social influence, and can redefine what
+is intended by any social influence she encounters. Mod-
+ifying a work encrypted with magic allows her to redirect
+the targets of that magic. If she wishes to alter magic she
+is incapable of producing, she must possess Essence 5+
+and must use Power-Snaring Image in combination with
+this Charm. This combination explicitly allows her to alter
+magic for which she does not meet minimums.
 
 
 
 
+## Tier 5
+
+### Market Buster Strike
+???
+
+The Lawgiver may reward good citizens with wealth or ruin the unrighteous.
+
+The player describes how the Lawgiver manipulates the value of a commodity or currency within a specific market, which generally takes one week of direct interaction.
+Success requires a Bureaucracy roll against the highest level of any character who opposes her manipulations.
+
+
+### Order-Conferring Advice
+???
+
+
+### Web-Cutting Eyes
+`Mind 8, Action`
+
+** The Solar’s cunning gaze cuts across all subtleties of motive and concealment, laying bare the intentions of those who stand before him. **
+
+For one Scene, all the Lawgiver's attempts to read the motivation of other characters are rolled against Difficulty 1.
+
+
+
+## Tier 6
+
+
+### Halo of Ministerial Dominion
+The Lawgiver subtly assumes the reins of power by creating temporary positions and laws to exploit.
+
+The player describes how the Lawgiver seizes control of the organization, then rolls Bureaucracy against the level of the organization's leader.
+
+If successful, the character will have five dots of Backing in a particular bureaucracy, though her official status remains unchanged.
+The leader of the targeted bureaucratic organization may choose to block a successful activation by spending 5 Loyalty.
+Doing so immunizes the organization against this Charm for one season.
+???
+
+
+### Twisted Words Technique
+
+Concentrating on the formation of sounds and the weight of certain meanings, the Solar shapes her words like a weapon.
+This Charm is a mental attack disguised as social influence, entailing a written or spoken action made with.
+
+The Solar must target an Intimacy when using this Charm—exploiting something the character cares about to get him to accept influence.
+
+However, upon success, the target will feel overwhelmingly compelled to act in a way that is the opposite of what she agreed to, as if her Intimacy had been inverted.
+
+For example, a Solar convinces an Immaculate priest of the evils of the har-
+
+
+### Mind-Swallowing Missive
+???
+The Solar unwinds language with her Essence, writing in such a way that it unbinds the pattern of her reader’s understanding.
+This Charm supplements a letter written to a specific target, the Solar rolling (Manipulation + Linguistics) to determine its accuracy.
+If her target reads the letter, he must roll his (Perception + Linguistics) to defend against a swarm of unbinding words that penetrates his mind where languages live.
+If he fails, his knowledge of all languages is unbound, causing him to forget every language he’s currently able to speak.
+In addition, the subject develops a completely new language on the spot.
+This language is both functional and logical—and has letters and grammar mechanics—but it is known only to the Charm’s victim.
+An Exalt may break this control by paying (Solar’s Essence rating) Willpower, instantly recovering one of his spoken languages and another every hour until his knowledge has been restored.
+Otherwise, this effect lasts until the Solar lifts the commitment.
+When Mind-Swallowing Missive is broken, the subject’s new language vanishes from his memory.
+This Charm does not affect spirits.
+The Lawgiver pens a soul-shattering missive, convicting her subject he leads a pointless existence.
+This Charm can only be directed at a specific target.
+If she beats her target’s Resolve, his soul falls off and sinks directly into lethe.
+This Charm only targets characters who have unintelligibly abstruse Intimacies or no Intimacies at all; however, its effect depends on such an unfulfilled soul’s yearning for purpose and meaning—characters who are incapable of feeling (such as the soul-eaten victims of the Fair Folk) are not valid targets for this Charm.
+
+
+
+
+
+
+
+
+## TODO?
 
 
 ### Increasing-Strength Exercise
@@ -888,5 +1100,39 @@ Know if a text or speech indicates anything that is important to the author, and
 `Body 3x, Action`
 
 For every 3 Body points spent the Solar gets a +1 to any feat of strength roll, for the rest of thee Scene, to a maximum bonus equal to her Tier.
+
+
+
+
+
+### Essence-Laden Missive
+The Exalt can infuse a short statement with Essence, such
+that the Essence travels through the reader’s mind to
+escape through his tongue. A character who reads such a
+missive will immediately and unironically repeat the state-
+ment he just read without realizing he’s doing so. This is
+not a Charm which simply forces the character to read
+aloud, but rather causes him to announce the missive. The
+roll to determine whether the reader blurts out the missive
+is treated as a ([Charisma or Manipulation] + Linguistics)
+inspire action with (Essence) automatic successes.
+
+
+
+### Voice-Caging Calligraphy
+The Solar binds her words with Essence, folding language
+into form so winding and deep that all meaning falls into
+the abyss. This Charm may be used to supplement the
+writing of letters or other brief works. The information
+contained in such writing cannot be repeated. The reader
+momentarily loses his ability to process or remember the
+contents of the message if he tries to speak it aloud or
+write it down. Any attempt by the reader to communicate
+what he knows is rendered useless unless he sees an action
+occurring in which a Defining Intimacy is threatened by
+withholding what he knows. Only then may the reader
+pay (Solar’s current Essence rating) Willpower to shake
+off the effects of this Charm.
+
 
 
