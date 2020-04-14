@@ -715,47 +715,71 @@ Allows to use Celestial Sorcery. Requires being Specialized in Occult.
 # Night
 
 
+
 ## Tier 1
 
 
-### Flawlessly Impenetrable Disguise
-`Mind 5, Action, Scene long`
+### Flawless Pickpocketing Technique
+`Mind 3, Action`
 
-Change gender, etnicity, voice, accent, scent, double or halve age, increase or decrease height by up to 25cm.
+** With hands quicker than the eye, the Exalt relieves a hapless soul of his material burden. **
 
-Identity is Perfectly disguised, deception can be detected only with magic means, +3 Assets.
+Automatically succeed on a mundane pickpocketing attempt.
 
-Setting up the disguise takes about 5 minutes.
+Gives 3 Assets when contested with magic.
+
+Cannot be used to pick items in use or attuned artifacts.
 
 
 ### Graceful Crane Stance
-`Body 2 or 4, Scene long`
+`Permanent`
 
-Perfect balance, can stand or run on things normally too weak or narrow, no roll required.
+** The Solar is as graceful as sunlight on water. **
 
-For 4 points, the Solar can run (but not stand) on fluid surfaces.
+The Solar has Perfect balance: she can stand or run on things normally too weak or narrow, with no chance of falling or breaking through.
+
+She can run on a guy wire, stand on a crumbling parapet, balance on the tip of a pine tree, and perform many similar feats without needing to roll for her balance.
 
 
 ### Invisible Statue Spirit
 `Mind 5, Action to initiate`
 
-As long as the character does not move, they can by detected only by touch
+** Assuming perfect stillness, the Solar fades from sight. **
+
+A Solar with this Charm can affect true invisibility.
+However, the Exalt cannot move, nor can she take violent action without breaking this deception.
+
+Characters using Invisible Statue Spirit are not immaterial and can still be detected by touch, scent, taste but not hearing.
 
 
 ### Lock-Opening Touch
 `Mind 4, Action`
 
-Negates the need for lockpicking tools.
+Open any lock mechanism.
 
-Automatically open any non-magical lock mechanism.
+Mundane locks are opened automatically, no Roll or lockpicking tools are required.
 
-Provides 1 asset vs magical locks.
+Magical locks require a (Larceny + Tier) Roll: on a failure the lock is opened but a GM Intrusion occours.
 
 
-### ??? Shadow Over Water
-`Body ???, Enabler`
+### Shadow Over Water
+`Body 2, Enabler`
 
 Reduces the Difficulty of a Dodge roll by 2, can be used *after* the die has been cast.
+
+Edges apply as if the Charm was used together with the Dodge roll.
+
+
+### Surprise Anticipation Method
+`Enabler`
+
+** The Solar’s senses guard her from threats she is not consciously aware of. **
+
+Whenever the Solar is in danger, due to a hidden enemy, a trap or any source of harm not readily apparent, she will know that something is off.
+
+In order to reveal the actual nature of the threat, she will still need to roll Perception, but she can pay 1 point less per level of Effort.
+
+Her senses will function even when she is asleep or knocked out or otherwise unconscious: if she successfully detects the threat, she will instantly revive to try and defend herself.
 
 
 
@@ -763,19 +787,188 @@ Reduces the Difficulty of a Dodge roll by 2, can be used *after* the die has bee
 
 
 ### Easily-Overlooked Presence Method
-`Mind 4, Enabler`
+`Mind 6, Enabler, Scene long`
 
-When active, others cannot notice the Solar unless she stands obviously out or takes overt action.
+** Even amidst the Imperial Treasury, the Lawgiver projects her right to be there. **
+
+As long as the Solar does not stand out, her presence there will slip away from any onlooker's mind, like an irrelevant extra.
+
+Things that usually will count as "standing out" are taking overt action, attacking and general displays of prowess: leaping from the street to the rooftops, braving a snowstorm in summer clothes, etc.
+
+If she is dressed and behaving as expected for the present circumstances, those that interact with her by matter of routine won't find her suspicious.
+
+Even if she was caught somewhere she doesn't belong, she will immediately become aware of a gap in her inquisitor’s knowledge she can exploit: stopped at a picket, she realizes the soldier questioning her is expecting a messenger he has never seen; confronted by a tenant when creeping through the glass towers of Chiaroscuro, she realizes there are vacant rooms and assumes the role of a squatter.
 
 
-### Flawless Pickpocketing Technique
+### Flawlessly Impenetrable Disguise
+`Mind 5, Action, Scene long`
+
+** Master chameleons, the Solars donned disguises and attended the fetes of the raksha, to hear them confess their nefarious plans for Creation. **
+
+The Solar can don a different gender, etnicity, voice, accent, scent, as well as double or halve her age, increase or decrease height by up to 25cm, creating a completely new appearance or impersonating someone specific.
+
+Identity is Perfectly disguised, deception can be detected only with magic means (roll Larceny + Tier to contest).
+
+Characters are not entitled to attempt to see through the disguise unless the Solar behaves in a grossly inaccurate way.
+
+Setting up the disguise takes about 5 minutes.
+
+At Tier 4, she can even mock the features of magical beings: her hair might stand on end and crackle with lightning; she might hover inches off the ground or display the anima of a different kind of Exalt.
+None of these displays are real: displaying a Fire Aspect’s anima will not actually burn anything, though witnesses will feel the intensity of its heat.
+She may appear to float, but her feet are still touching the ground.
+
+
+### Keen Sight Technique
+`Mind 8, Enabler, Scene long`
+
+** The Lawgiver's visual acuity transcends mortal limits. **
+
+* +Tier to notice hidden persons or devices, to catch sleight of hand and see through disguises.
+
+* In dim conditions, the Lawgiver sees as well as in broad daylight.
+
+* Reduce the penalties due to environmental visual hindrances such as dense smoke or fog by 2: these effects reflect the Exalt’s ability to notice and process hundreds of minute details, as well as to focus and manage light sources more effectively.
+
+* She can resolve tiny details at distance.
+
+* She can quickly estimate distances, sizes and numbers on sight, for example to count enemy troops, dropped coins.
+
+
+### Lightning-Hand Sleight
+
+** Long ago, the Solars stole the implements of their virtue from beneath the gaze of the gods’ own masters. **
+
+Between breaths, eyeblinks, even thoughts, the Exalt’s hands flash out.
+
+This Charm is used to perform a sleight of hand in plain sight as if every onlooker was momentarily distracted.
+
+Further, the change cannot be noticed for (Larceny + Tier) minutes unless the circumstances call attention to it, such as a soldier attempting to draw his stolen blade.
+
+
+### Seven Shadows Evasion
+`Mind 2 and Body (special cost), Enabler, instant`
+
+** The Solar’s perfect form is quicker than an eyeblink and more tractile than water. **
+
+The Solar can dodge *anything* physical, even if it's Undodgeable, no roll required.
+
+The Body cost is equal to the level of the attack but can never exceed 8 points.
+
+
+### Ten Aurochs Meditation
+`Body 3, Enabler`
+
+This Charm increases the effects of using Effort for a single action or task where raw strength matters.
+
+Any level of Effort used for feats of strength (usually lifting or breaking stuff) is multiplied by the Solar's Athletics.
+
+If an attack damage can be affected by the Solar's strength, then each level of Effort will increase the damage by (3 + Athletics).
+
+
+
+## Tier 3
+
+
+### Keen Taste and Smell Technique + Foe Scenting Method
+`Mind 8, Enabler, Scene long`
+
+** The Exalt’s senses of taste and smell are capable of flawless identification of flavors, textures, and scent profiles. **
+
+The Solar perfectly remembers all the scents and flavours she has experienced and will automatically recognize them when this Charm is active.
+
+She can identify obscure, complex, or similar flavors and she can deconstruct a meal she has eaten to its basic ingredients, so long as she has experienced most of the flavors at some point in time.
+
+She has +2 to Survival Rolls to hunt for food, track a character, or find water using her sense of smell.
+
+She can recognize an individual by scent alone and tell older scents from new ones, enabling her to tell how recently an individual was present; even if a scent is not known to her, she can make generally accurate discernments about what kind of being a scent belongs to: beasts, for example, smell different than humans, as do the undead and spirits.
+
+At Tier 3+ she can smell dematerialized spirits.
+
+
+### Perfect Shadow Stillness
+`Essence 3, Enabler`
+
+**The Lawgiver’s stealth technique is honed until it’s flawless. **
+
+After a failure or GM Intrusion on a Stealth Roll, the player gets a free Player Intrusion.
+
+
+### Proof-Eating Palm
 `Mind 3, Action`
 
-Automatically succeed on a mundane pickpocketing attempt.
+** The Solar’s genius hands can outwit even the sharpest eye. **
 
-Gives 3 Assets when contested with magic.
+This Charm allows her to hide any object small enough to palm.
+She may appear to swallow the item, fit it under her tongue, hide it up her sleeve, etc. The object vanishes.
+When the Exalt needs it again she may will it into her hand with just a thought.
+The Exalt may hide no more than (Larceny x2) objects, but each object must be hidden in a separate space.
 
-Cannot be used to pick items in use or attuned artifacts.
+
+### Racing the Sun
+`2 Body, Enabler`
+
+** Attuned to Essence currents that flow through the world, the Solar moves as if in a waking dream. **
+
+Multiply running speed by (Tier + Athletics) for a single Action.
+During a chase, add Tier to any roll to outrun an opponent.
+Lasts for a single Action.
+
+
+### Safety Between Heartbeats
+`Body 1, Enabler`
+
+** In making herself untouchable, the Lawgiver exploits the slightest hesitation, even the pause to draw breath, maximizing her opponent’s failure. **
+
+This Charm enhances a roll to Dodge an attack.
+Whether the roll is successful or not, the attacker's next action suffers a penalty equal to the Solar's Athletics.
+
+
+
+## Tier 4
+
+
+### Flow Like Blood
+`Body 8, Action`
+
+For the rest of the Scene, any Dodge roll benefits from the full Max Effort without cost.
+
+
+### Hundred Shadow Ways
+???
+After successfully dodging an attack, the Exalt may ac-
+tivate this Charm to remember a single Charm used in
+the attack. She feels its spiritual form and pressure as
+a physical thing and understands how to dodge it. For
+the remainder of the scene, she perfectly evades the
+effects of that Charm. Hundred Shadow Ways cannot
+be used against the Excellency Charm of any Ability,
+nor can it be used against sorcery or Evocations. Fur-
+thermore, if the Exalt falls into Initiative Crash, this
+Charm ends.
+
+Say you’ve used this Charm to lock out Hungry Tiger
+Technique. An attack enhanced solely by Hungry Tiger
+Technique automatically fails. Now the opponent throws
+a combination of Hungry Tiger Technique and Fire and
+Stones Strike—the attack still occurs, but Hundred
+Shadow Ways automatically removes the benefit of
+Hungry Tiger Technique from the attack. This Charm
+can be used to “learn” as many Charms as the Exalt’s
+mote pool can afford.
+
+
+### Keen Hearing and Touch Technique
+`Mind 8, Enabler, Scene long`
+
+** The Lawgiver listens with the intensity of an owl, and feels movement in the world like a spider feels a touch against its web. **
+
+Perception is counted twice on Rolls that are based on hearing or touch.
+
+The Exalt may identify fabrics and minerals she knows with a cursory touch, and can hear at frequencies several times lower than a human.
+
+She can listen clearly to conversations through thick stone walls, hear creatures burrowing in the ground, ants marching on the branches above her head, and other, similar feats.
+
+She can perceive movement across surfaces she is touching, such as footsteps approaching her in a pitch black hallway.
 
 
 ### Master Plan Meditation
@@ -791,27 +984,127 @@ Any excess level on the roll become contingency points that can be spent to:
   * Other instances the player can say "I planned for this" and cackle evilly
 
 
-### Seven Shadows Evasion
-`Mind 3 and Body (special cost), Enabler, instant`
+### Guardian Fog Approach
+`Mind 2 per ally, Enabler`
 
-The Solar can dodge *anything* physical, even if it's Undodgeable, no roll required.
+** Through quick action, the Solar may obscure her allies. **
 
-The Body cost is equal to the level of the attack but can never exceed 8 points.
+This Charms allows the Solar's Stealth Roll and applicable Charms to apply to her allies.
 
+For any ally so affected, the Roll's difficulty increases by 1, up to a maximum of (Tier) allies.
 
-
-## Tier 3
-[...]
-
+The allies must stay in very close proximity of the Lawgiver and use their Actions to follow her lead, and she must be trying to hide herself.
 
 
-## Tier 4
+### Soaring Crane Leap
+`2 Body, Enabler`
+
+** It is the Solar’s nature to rise above. **
+
+This Charm must be used before the Solar's Action and allows her to jump as part of that Action, multiplying the jumping distance by her (Tier + Athletics).
+
+In this way, the Solar could leap to strike a flying enemy, or leap away to shot an arrow away from her enemy's reach.
+
+Further, whether she's soaring up or falling down, the Solar gains limited control on her speed and direction; continuous use of the charm will allow her to avoid falling damage from any height.
 
 
-### Flow Like Blood
-`Body 5, Action`
 
-For the rest of the Scene, any Dodge roll benefits from the full Max Effort without cost.
+## Tier 5
+
+
+### ??? Nine Aeons Thew
+`Body 12, Enabler`
+Lift anything or break any object as long as you can grab it.
+Breaking artifacts requires a roll.
+
+
+### Eye of the Unconquered Sun
+`Mind 10, Action`
+
+** Solars are the legacy of the Unconquered Sun. It is their destiny to see the world through this age of darkness. **
+
+The Solar Caste Mark blazes like a tiny sun (this effect cannot be muted by other Charms), making stealth impossible.
+
+Eyes blazing white, her gaze shines a wide beam of light across everything she searches, twin lamps moving over the terrain out to long range.
+
+Everything caught in her stare is subject to the following effects:
+  * All magical and mundane Stealth effects are cancelled.
+  * Solid walls and other opaque objects grow transparent as the Lawgiver’s gaze passes over them, rendering all forms of Stealth automatically unsuccessful.
+  * Fog lifts, smoke parts, and clouds dissolve under the Solar’s intense focus.
+  * Dematerialized spirits are forced to materialize, at full cost of the Materialize Charm, or as much of the cost as they can pay.
+  * All disguise magic is stripped. Mundane disguises tatter and melt away.
+  * Shapeshifters are forced back into natural form, resplendent destinies are temporarily forced into dormancy, Personas are suppressed, and other innate or native transformative magics of the Exalted are similarly deactivated.
+
+
+### Split Deception Method / Flashing Ruse Prana
+???
+With a rending of air, the Solar sweeps away the mask she
+once wore. This Charm supplements a disguise attempt
+by reducing the time it takes from five minutes to instant.
+When used in combination with another Larceny-based
+disguise Charm, ignore the Willpower cost.
+
+The Lawgiver walks through the valley of the wicked
+wearing a thousand faces. This Charm allows the Exalt
+to place a second disguise over the one she is wearing by
+attempting a second disguise action per the rules on page
+224. This attempt may be supplemented by disguise
+Charms as usual. When she is seen wearing two or more
+disguises, the player dictates which disguise each witness
+sees. The Solar may sustain no more disguises than she
+has dots of Essence.
+
+
+### Vanishing From Mind’s Eye Method
+** One of the greatest of all deceptions—the Solar vanishes from memory. **
+
+Roll the Exalt’s (Dexterity + Stealth) and add her Essence in automatic successes to the result.
+Record the result. The Exalt slips out of the thoughts and memories of everyone who has ever known her, hiding in their minds.
+Upon meeting, she is unrecognizable to those who should know her.
+Once per day, individuals affected by this Charm may attempt to recognize the Exalt or remember her involvement in a past event.
+
+Roll the subject’s (Wits + Lore) against a difficulty equal to the Exalt’s result.
+If the roll does not succeed, he does not recognize the Solar, and the Exalt remains a nameless, shadowy distortion in his memories.
+
+
+## Tier 6
+
+
+### ??? Speed of Light Approach
+A Solar who dedicates herself to the principles of speed is as omnipresent as sunlight, and just as impossible to grasp. All of the character’s movement rates are doubled, as long as she is moving under her own power. More importantly, whenever the character takes a Move, Dash or Jump action, she vanishes into a blur, only to reappear at her destination. The Lawgiver is impossible to target while moving, unless the attacker succeeds on a reflexive (Perception + Awareness) roll against a Difficulty of (Solar’s Dexterity). The Solar may be targeted normally during any tick on which she takes an action other than to Move, Dash or Jump.
+A second purchase of this Charm at Athletics 7+, Essence 7+ triples the character’s movement rates and causes any Move, Dash or Jump action she takes to count as an opportunity to re-establish surprise.
+
+
+### Dream-Ending Gesture
+???
+
+Steal and re-attune attuned artifacts
+Steal Essence
+
+With a curt flash of her hand,
+the Solar rips away the proof of her foe’s divinity. The
+Exalt uses a gambit costing five Initiative, making a (Dex-
+terity + Larceny) based decisive attack against her op-
+ponent, with double successes on the Initiative roll. If
+the Exalt’s gambit succeeds, she steals a number of motes
+equal to her extra successes on the attack, adding them
+to her peripheral or personal motes. Dream-Ending
+Gesture can only be used once per scene.
+
+Upon stealing an artifact,
+she experiences a rush of power that surges through her
+body and floods into her hands, supplying the motes
+needed to attune the artifact, effectively reducing the
+cost of attunement to 0. This may only happen once
+per scene.
+
+
+### Everywhere and Nowhere Stance
+???
+The eyes of the Solar Exalted are always watching. Through the use of this Charm, the Solar becomes omnipresent in the minds of the wicked. The Solar touches a target (this may require a Dexterity + Martial arts attack if the target attempts to avoid contact) and spends four motes. The sensation of the Solar’s touch lingers on and on, eventually spreading to encompass all of the target’s senses. So long as these motes remain committed, the Lawgiver seems to be constantly shadowing his mark—the target frequently glimpses the Solar leaning in doorways, or disappearing down alleys. He sees the Exalt’s silhouette watching him from rooftops or following him through crowds. The Solar seems to be watching more often than not, always vanishing if confronted directly.
+This is an unnatural Illusion effect which costs two Willpower to ignore for a scene; the effects of the Charm end once the target has spent a total of twenty Willpower fighting it. The Lawgiver adds his Essence in bonus successes to all attempts to establish or re-establish surprise against individuals afflicted by Everywhere and Nowhere Stance—it becomes difficult to discern the Solar’s true presence from the shadows in the target’s mind.
+A second purchase of this Charm at Stealth 6+, Essence 6+ permits the Solar to use this Charm on an area. Used in this manner, Everywhere and Nowhere Stance has a cost of 6m, 1wp. So long as the Solar commits Essence to the Charm, everyone in the affected region suffers visions of the Solar’s presence, as detailed above, though with lower frequency—no more than once per scene. Individuals in the affected region may resist the Charm’s Illusion for one Willpower per scene, but cannot permanently immunize themselves to it so long as they remain in the area. Everywhere and Nowhere Stance may initially be used upon an area a mile in diameter, but with Stealth 7+ the Solar may affect an area up to (Essence x 2) miles, and with Stealth 8+ may affect (Essence x 10) miles. At Stealth 9+ the Solar may spread her presence across (Essence x 100) miles, and with Stealth 10 the Lawgiver may encompass an entire Direction.
+At Stealth 7+, Essence 7+, the Solar may add a point of permanent Willpower to the Charm’s cost when used to target a region. Doing so changes the Charm’s Duration to instant, requiring no Essence commitment on the part of the Lawgiver…and renders its effects permanent. The Solar’s shadows will continue to haunt the area forever, even after his own demise.
 
 
 
@@ -1095,11 +1388,10 @@ This Charm only targets characters who have unintelligibly abstruse Intimacies o
 ## TODO?
 
 
-### Increasing-Strength Exercise
-[??? a bit too limited?]
-`Body 3x, Action`
 
-For every 3 Body points spent the Solar gets a +1 to any feat of strength roll, for the rest of thee Scene, to a maximum bonus equal to her Tier.
+
+
+
 
 
 
