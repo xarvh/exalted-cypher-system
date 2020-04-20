@@ -626,6 +626,13 @@ She becomes a natural facet of existence, equal to and unaffected by all things.
 ## Tier 1
 
 
+### Craftsman Needs No Tools
+`Mind 6, Enabler, Scene long`
+
+The Solar can use her body, breath and voice instead of tools.
++1 to Craft.
+
+
 ### Crafty Observation Method
 `Mind 4, Action`
 
@@ -640,16 +647,6 @@ If the scene contains at least one lead for the Solar's inquiry, she is guarante
 She cannot search objects that she could not normally access such as locked chests or items held by people who are not willing to let her search them.
 
 By committing 1 Mind, she can perfectly recall the whole scene survey.
-
-
-### Durability-Enhancing Techinque
-`Mind 5, Enabler, Scene`
-
-`Mind 5, Extended Action, Permanent`
-
-Increase the difficulty to damage an object of up to `Tier + 2` radius by Tier + 2.
-
-If the Solar holds the object, mundane effects cannot break it.
 
 
 ### Shape Terrestrial Sorcery
@@ -668,6 +665,18 @@ For any excess levels in the roll, the target is immune to Wyld warping for one 
 
 
 ## Tier 2
+
+
+### Durability-Enhancing Techinque
+`Mind 5, Enabler, Scene`
+
+`Mind 5, Extended Action, Permanent`
+
+Increase the difficulty to damage an object of up to `Tier + 2` radius by Tier + 2.
+
+The object is also protected from Shaping effects, but this protection will last a maximum of Tier days.
+
+If the Solar holds the object, mundane effects cannot break it.
 
 
 ### Ghost-Eating Technique
@@ -693,18 +702,6 @@ Otherwise, the success is automatic and no roll is required.
 In case of success, the target is compelled to answer truthfully and to the fullest extent of his knowledge.
 
 
-### Keen Understanding of the Core Imperfection
-`Mind 4, Action`
-
-On touch, gain perfect understanding of how to destroy, dismantle or demolish a construct or inanimate object.
-
-If an object is indestructible, the Solar will still find a way, difficult as it might be.
-
-On anything else she reduces the Difficulty to half and the time to one tenth.
-
-As an alternative, she inflicts 4 times the damage on that object.
-
-
 ### Wholeness-Restoring Meditation
 `Mind 10, Action, extended`
 
@@ -724,9 +721,17 @@ Allows to use Celestial Sorcery. Requires being Specialized in Occult.
 
 
 ### Empathic Recall Discipline
-``
+`???`
 * see a scene from the perspective of one of the partecipants
 * understand the intention of a perpetrator after surveying a scene
+
+
+### Wonder-Forging Genius
+`Enabler`
+
+** Through intense cultivation of the self, the Lawgiver shatters the boundaries of her own creativity. **
+
+Reduce Assessed Difficulty by half Tier, rounded up.
 
 
 
@@ -750,6 +755,18 @@ With a sufficiently accurate profile, the Lawgiver can Roll ??? one week before 
 Success grants the Solar an idea of what the subject plans to do, including at least the general location, and nature of the crime: "Splendid Magister is planning to illegally experiment on hun souls within a private, hidden manse on the Blessed Isle", "the Ebon Dragon is going to try to break out of Hell with the assistance of a Yozi cult in Denandsor" or "Tammuz is going to attempt to murder his lover aboard a pleasure yacht."
 
 
+### Keen Understanding of the Core Imperfection
+`Mind 6, Action`
+
+On touch, gain perfect understanding of how to destroy, dismantle or demolish a construct or inanimate object.
+
+If an object is indestructible, the Solar will still find a way to break it, difficult as it might be.
+
+On anything else she reduces the Difficulty to half and the time to one tenth.
+
+As an alternative, she inflicts 4 times the damage on that object.
+
+
 
 ## Tier 5
 
@@ -762,6 +779,19 @@ Success grants the Solar an idea of what the subject plans to do, including at l
   ??? tells you when someone is about to use Larceny
 
 
+### The Art of Permanence
+`Essence 6, Enabler`
+
+A Solar who uses this Charm can invest her works with essence, causing them to endure forever.
+
+Candles spun by her hands burn forever, and a horse wearing shoes from her forge need never be shod again.
+
+Such objects are indelibly marked by the Solar’s touch.
+If she claims to be the builder of a torch that never ceases burning, or a roof that never leaks, characters instinctively know it to be true without needing further proof.
+Such objects may also render the Exalt’s identity to beings with appropriate supernatural sensitivity.
+If she encounters her own works from a past life, the Lawgiver will automatically recognize them as her own.
+
+
 
 ## Tier 6
 
@@ -772,6 +802,14 @@ Success grants the Solar an idea of what the subject plans to do, including at l
 ** A Lawgiver can stop the hands of time to protect the ones he loves. **
 
   ??? see future threats to something the solar care for
+
+
+### Thousand-Forge Hands
+`Enabler`
+
+** The Exalt’s hands flow with the Essence of a thousand craftsmen; her urge is legion and her well is bottomless. **
+
+Reduces the minimum amount of skilled and unskilled labour needed to complete a project by 10, and reduce the Assessed Difficulty of projects by 1.
 
 
 
