@@ -74,6 +74,11 @@ This does *not* count towards any Upgrade.
 A character can have no more than *ONE* Defining Ability and the Defining Ability must be consistent with their Focus.
 
 
+EVOCATIONS
+==========
+Unlocking an Artefact Evocation costs 2 XPs.
+
+
 CYPHERS
 =======
 In general, a Cypher is not a supernatural effect, but just the character being really, really good at what she does.
@@ -85,7 +90,6 @@ This description can take the form of special equipment (for example, to justify
 Every time a character takes a Recovery Action, they get one new Cypher.
 
 If this goes above their limit, they discard any excess Cypher.
-
 
 
 COMBAT

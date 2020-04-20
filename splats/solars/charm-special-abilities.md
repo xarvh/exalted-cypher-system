@@ -626,18 +626,20 @@ She becomes a natural facet of existence, equal to and unaffected by all things.
 ## Tier 1
 
 
-### Craftsman Needs No Tools
-`Mind 6, Enabler, Scene long`
-
-The Solar can use her body, breath and voice instead of tools, +1 Asset to Craft rolls.
-
-Objects repaired with this charm are perfectly repaired, losing every sign or effect of past damage.
-
-
 ### Crafty Observation Method
 `Mind 4, Action`
 
-In a single Action and without touching anything, the Solar can completely survey a scene, perfectly reconstructing what happened.
+** When the Lawgiver inquires, Creation immediately yields its secrets bare. **
+
+The Lawgiver concentrates on the scene she is surveying, exposing the very essence of all the objects around her.
+In her mind furniture moves, carpets lift, drawers open, books flip their pages.
+In a single action she can complete a search that would take 15 minutes, and she doesn't actually touch or move anything.
+Further, she adds her Tier to notice deliberate tampering with any evidence.
+If the scene contains at least one lead for the Solar's inquiry, she is guaranteed to find it.
+
+She cannot search objects that she could not normally access such as locked chests or items held by people who are not willing to let her search them.
+
+By committing 1 Mind, she can perfectly recall the whole scene survey.
 
 
 ### Durability-Enhancing Techinque
@@ -664,6 +666,7 @@ Roll Lore to repel a Wyld Shaping effect happening withing Short range, with 2 A
 For any excess levels in the roll, the target is immune to Wyld warping for one turn.
 
 
+
 ## Tier 2
 
 
@@ -677,12 +680,17 @@ Any damage the target suffers is awarded to her as Essence.
 A spirit slain by this attack is destroyed permanently.
 
 
-### Judge’s Ear Technique
-`Mind 5, Enabler, instant`
+### Irresistible Questioning Technique
+`Mind 5, Action`
 
-When someone says something, the Solar knows if they believe in it or not.
+** The Lawgiver may wring the truth from a subject with piercing, impossible-to-resist questions. **
 
-A roll is necessary only if the lie is enhanced by a supernatural effect.
+The Lawgiver asks a question and the target is compelled to answer.
+
+If the target uses an appropriate supernatural mental defense, leaves the scene or attacks her, then the Solar needs to roll Presence + Tier.
+Otherwise, the success is automatic and no roll is required.
+
+In case of success, the target is compelled to answer truthfully and to the fullest extent of his knowledge.
 
 
 ### Keen Understanding of the Core Imperfection
@@ -709,6 +717,61 @@ Depending on the severity of the condition, treatment can take from 1 hour to 1 
 `Mind 4, Action`
 
 Allows to use Celestial Sorcery. Requires being Specialized in Occult.
+
+
+
+## Tier 3
+
+
+### Empathic Recall Discipline
+``
+* see a scene from the perspective of one of the partecipants
+* understand the intention of a perpetrator after surveying a scene
+
+
+
+## Tier 4
+
+
+### Evidence-Discerning Method
+`Mind 8, Action`
+
+** The Lawgivers see into others’ hearts. **
+
+By sorting through possessions, physical evidence and other information left by a particular person, the Exalt may construct a psychological profile of the character who left the evidence.
+
+The base Difficulty is 5, but it should be adjusted by the amount of evidence available and how much it is actually indicative of the target's personality.
+In case of success, the profile is guaranteed to be non-misleading but how specific it is depends on the extra successes.
+Further evidence can be used to refine the profile.
+
+Once the profile is created, the Lawgiver will automatically notice any and all characters that meet that profile.
+
+With a sufficiently accurate profile, the Lawgiver can Roll ??? one week before an individual she has profiled is planning to undertake any sort of premeditated larcenous enterprise; examples might include robbing a bank, staging a kidnapping, attempting an assassination, or, in the case of the Yozis, escaping from Hell.
+Success grants the Solar an idea of what the subject plans to do, including at least the general location, and nature of the crime: "Splendid Magister is planning to illegally experiment on hun souls within a private, hidden manse on the Blessed Isle", "the Ebon Dragon is going to try to break out of Hell with the assistance of a Yozi cult in Denandsor" or "Tammuz is going to attempt to murder his lover aboard a pleasure yacht."
+
+
+
+## Tier 5
+
+
+### Inquisitor’s Unfailing Notice
+``
+
+** The Lawgiver has an instinct for the perfect moments to commit a crime. **
+
+  ??? tells you when someone is about to use Larceny
+
+
+
+## Tier 6
+
+
+### Miraculous Stunning Insight
+``
+
+** A Lawgiver can stop the hands of time to protect the ones he loves. **
+
+  ??? see future threats to something the solar care for
 
 
 
