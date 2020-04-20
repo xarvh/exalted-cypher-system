@@ -655,6 +655,15 @@ By committing 1 Mind, she can perfectly recall the whole scene survey.
 Allows to use Terrestrial Sorcery. Requires being Trained in Occult.
 
 
+### Spirit-Manifesting Word
+`Mind 5, Action`
+
+** The Lawgiver rends the veil with word and voice, giving physical form to immaterial spirit. **
+
+The Solar speaks an unutterable word and rolls (Occult + Tier); any spirit whose Level is below the roll and who is in range of the Solar's voice becomes materialized.
+Spirits such materialized cannot dematerializes until the end of the Scene or until the Solar releases them.
+
+
 ### Wyld-Dispelling Prana
 `Mind 6, Enabler, 1+ Actions`
 
@@ -667,26 +676,35 @@ For any excess levels in the roll, the target is immune to Wyld warping for one 
 ## Tier 2
 
 
-### Durability-Enhancing Techinque
-`Mind 5, Enabler, Scene`
+### All-Encompassing Sorcerer's Sight
+The Exalt gazes into the Essence of the world and sees
+the patterns of magic that make up Creation. For a few
+seconds after activating this Charm, the Solar can see
+Essence flowing through the world. She can perceive im-
+material spirits, but moreover, she can see the workings
+of spirit energies around her. If a character is using a
+shaping action or Evocation, the Solar may make an In-
+telligence + Occult roll at a difficulty of the effect’s Essence
+minimum to determine how the power works. This Charm
+may also be used to identify the presence of ongoing sor-
+cerous effects such as mystical barriers and levitating
+platforms, revealing not only the presence of magic, but
+how it functions. This power also allows the Exalt to see
+places where Creation is thin—the borders of shadow-
+lands and the Wyld appear as hazy, gauzy distortions of
+light. The Solar may also detect the entrance to spirit
+sanctums within her range of vision. This Charm does not
+reveal the working of the Charms of the Exalted.
 
-`Mind 5, Extended Action, Permanent`
+
+### Durability-Enhancing Techinque
+`Mind 5, Enabler, Scene long` or `Mind 5, Extended Action, Permanent`
 
 Increase the difficulty to damage an object of up to `Tier + 2` radius by Tier + 2.
 
 The object is also protected from Shaping effects, but this protection will last a maximum of Tier days.
 
 If the Solar holds the object, mundane effects cannot break it.
-
-
-### Ghost-Eating Technique
-`Mind or Body 2, Attack`
-
-Allows a normal attack to strike spirits even if they are immaterial and deal twice the damage.
-
-Any damage the target suffers is awarded to her as Essence.
-
-A spirit slain by this attack is destroyed permanently.
 
 
 ### Irresistible Questioning Technique
@@ -710,12 +728,6 @@ Heal permanent or congenital conditions through repeated treatment.
 Depending on the severity of the condition, treatment can take from 1 hour to 1 month.
 
 
-### Shape Celestial Sorcery
-`Mind 4, Action`
-
-Allows to use Celestial Sorcery. Requires being Specialized in Occult.
-
-
 
 ## Tier 3
 
@@ -732,6 +744,12 @@ Allows to use Celestial Sorcery. Requires being Specialized in Occult.
 ** Through intense cultivation of the self, the Lawgiver shatters the boundaries of her own creativity. **
 
 Reduce Assessed Difficulty by half Tier, rounded up.
+
+
+### Shape Celestial Sorcery
+`Mind 5, Action`
+
+Allows to use Celestial Sorcery. Requires knowing Shape Terrestrial Sorcery.
 
 
 
@@ -753,6 +771,17 @@ Once the profile is created, the Lawgiver will automatically notice any and all 
 
 With a sufficiently accurate profile, the Lawgiver can Roll ??? one week before an individual she has profiled is planning to undertake any sort of premeditated larcenous enterprise; examples might include robbing a bank, staging a kidnapping, attempting an assassination, or, in the case of the Yozis, escaping from Hell.
 Success grants the Solar an idea of what the subject plans to do, including at least the general location, and nature of the crime: "Splendid Magister is planning to illegally experiment on hun souls within a private, hidden manse on the Blessed Isle", "the Ebon Dragon is going to try to break out of Hell with the assistance of a Yozi cult in Denandsor" or "Tammuz is going to attempt to murder his lover aboard a pleasure yacht."
+
+
+### Ghost-Eating Technique
+`Mind or Body 2, Enabler`
+
+Allows a normal attack to strike dematerialised spirits, bypassing any Armor or damage reduction it might have.
+
+Any damage the target suffers is awarded to her as Essence.
+
+A spirit slain by this attack is destroyed permanently and the Solar may to draw the rent and torn essence of the spirit into her limbs and through her chakras, embodying it.
+For the rest of the Scene, the Exalt gains (Tier) powers or traits based on the Charms and themes of the destroyed spirit, to be decided by the GM.
 
 
 ### Keen Understanding of the Core Imperfection
@@ -792,6 +821,12 @@ Such objects may also render the Exalt’s identity to beings with appropriate s
 If she encounters her own works from a past life, the Lawgiver will automatically recognize them as her own.
 
 
+### Shape Solar Sorcery
+`Mind 7, Action`
+
+Allows to use Solar Sorcery. Requires knowing Shape Celestial Sorcery.
+
+
 
 ## Tier 6
 
@@ -802,6 +837,12 @@ If she encounters her own works from a past life, the Lawgiver will automaticall
 ** A Lawgiver can stop the hands of time to protect the ones he loves. **
 
   ??? see future threats to something the solar care for
+
+
+### Power From Darkness
+``
+
+** Veiling her nature in the essence of the eclipse, the Solar reaches through the cracks in the universe the Primordials forged to rip forth power hidden from lesser minds. **
 
 
 ### Thousand-Forge Hands
