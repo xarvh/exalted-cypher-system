@@ -667,7 +667,9 @@ Spirits such materialized cannot dematerializes until the end of the Scene or un
 ### Wyld-Dispelling Prana
 `Mind 6, Enabler, 1+ Actions`
 
-Roll Lore to repel a Wyld Shaping effect happening withing Short range, with 2 Assets.
+** The Lawgiver is the embodiment of order. With her knowledge and will, chaos is cast asunder. **
+
+Roll (Lore + 2) to repel a Wyld Shaping effect happening withing Short Range.
 
 For any excess levels in the roll, the target is immune to Wyld warping for one turn.
 
@@ -677,24 +679,17 @@ For any excess levels in the roll, the target is immune to Wyld warping for one 
 
 
 ### All-Encompassing Sorcerer's Sight
-The Exalt gazes into the Essence of the world and sees
-the patterns of magic that make up Creation. For a few
-seconds after activating this Charm, the Solar can see
-Essence flowing through the world. She can perceive im-
-material spirits, but moreover, she can see the workings
-of spirit energies around her. If a character is using a
-shaping action or Evocation, the Solar may make an In-
-telligence + Occult roll at a difficulty of the effect’s Essence
-minimum to determine how the power works. This Charm
-may also be used to identify the presence of ongoing sor-
-cerous effects such as mystical barriers and levitating
-platforms, revealing not only the presence of magic, but
-how it functions. This power also allows the Exalt to see
-places where Creation is thin—the borders of shadow-
-lands and the Wyld appear as hazy, gauzy distortions of
-light. The Solar may also detect the entrance to spirit
-sanctums within her range of vision. This Charm does not
-reveal the working of the Charms of the Exalted.
+`Mind 6, Enabler`
+
+** The Exalt gazes into the Essence of the world and sees the patterns of magic that make up Creation. **
+
+For a few seconds after activating this Charm, the Solar can see Essence flowing through the world.
+She can perceive immaterial spirits, but moreover, she can see the workings of spirit energies around her.
+If a character is using a Shaping action or Evocation, the Solar may make an Occult Roll to determine how the power works.
+This Charm may also be used to identify the presence of ongoing sorcerous effects such as mystical barriers and levitating platforms, revealing not only the presence of magic, but how it functions.
+This power also allows the Exalt to see places where Creation is thin—the borders of shadow-lands and the Wyld appear as hazy, gauzy distortions of light.
+The Solar may also detect the entrance to spirit sanctums within her range of vision.
+This Charm does not reveal the working of the Charms of the Exalted.
 
 
 ### Durability-Enhancing Techinque
@@ -718,6 +713,35 @@ If the target uses an appropriate supernatural mental defense, leaves the scene 
 Otherwise, the success is automatic and no roll is required.
 
 In case of success, the target is compelled to answer truthfully and to the fullest extent of his knowledge.
+
+
+### Legendary Scholar's Curriculum
+`Enabler`
+
+** The Lawgiver is a master instructor, capable of passing on truths and talents as surely as the sun passes daylight. **
+
+Upon learning this Charm the Solar prepares a curriculum that will allow her to teach one of the following Mundane Abilities:
+  * Bureaucracy
+  * Craft
+  * Integrity
+  * Larceny
+  * Lore
+  * Medicine
+  * Occult
+  * Socialize
+  * War
+
+Additional Abilities from the list can be purchased for 2 XPs.
+
+After teaching for one week, the students are considered Trained in the choosen Ability and will develop an attachment to an idea that the Solar holds.
+
+After teaching for one additional month, the students are considered Specialised in the choosen Ability and will develop an attachment to an idea that the Solar wants to impart.
+
+This teaching is so effective that the Solar can ignore all penalties to teach a willing student: she can educate a person who is deemed medically incapable of learning, such as someone who is developmentally disabled, or someone who has suffered traumatic injury or privation by the Fair Folk.
+
+Further, the Solar can disguise subversive or dangerous lessons as something they are not: the Lawgiver might appear to be giving a lesson on Immaculate catechisms while actually training
+itinerants to resist the Realm; a lesson on eroticism might hide insights into demonology.
+Only the targets of the Solar’s training can understand the true meaning of her lesson.
 
 
 ### Wholeness-Restoring Meditation
@@ -752,6 +776,19 @@ Reduce Assessed Difficulty by half Tier, rounded up.
 Allows to use Celestial Sorcery. Requires knowing Shape Terrestrial Sorcery.
 
 
+### Wyld-Shaping Technique
+`12 Essence, 10 Mind, 1 XP, Action`
+
+** Of all the Chosen, the Solar Exalted alone have the power to stem the tides of chaos with their force of will. **
+
+This Charm represents a Solar whose mind flows with a command of knowledge so potent it can reverse the decay of Creation.
+Channeling endless lore through unsurpassed Essence, the Solar stands at the edge of the world and forces shape into the howling teeth of the storm.
+
+Through use of this Charm, the Solar can fashion the raw forces of chaos into practically anything—so long as her mind is able to conceptualize the reality of her desire and force it to take shape.
+
+See [wyld-shaping.md](Wyld Shaping) for details.
+
+
 
 ## Tier 4
 
@@ -771,6 +808,15 @@ Once the profile is created, the Lawgiver will automatically notice any and all 
 
 With a sufficiently accurate profile, the Lawgiver can Roll ??? one week before an individual she has profiled is planning to undertake any sort of premeditated larcenous enterprise; examples might include robbing a bank, staging a kidnapping, attempting an assassination, or, in the case of the Yozis, escaping from Hell.
 Success grants the Solar an idea of what the subject plans to do, including at least the general location, and nature of the crime: "Splendid Magister is planning to illegally experiment on hun souls within a private, hidden manse on the Blessed Isle", "the Ebon Dragon is going to try to break out of Hell with the assistance of a Yozi cult in Denandsor" or "Tammuz is going to attempt to murder his lover aboard a pleasure yacht."
+
+
+### Essence Font Technique
+`Essence 3, Action`
+
+** The Lawgiver fortifies her allies with actions as surely as with words. **
+
+With a gesture at close range, the Solar can transfer up to (Tier x3) points of Mind or Essence from her Pool to someone else's.
+She can also transfer the points from the target to herself, but if the target is unwilling she must roll Lore against the target's Level.
 
 
 ### Ghost-Eating Technique
@@ -800,6 +846,9 @@ As an alternative, she inflicts 4 times the damage on that object.
 ## Tier 5
 
 
+### ???? Something to awake Essence in mortals?
+
+
 ### Inquisitor’s Unfailing Notice
 ``
 
@@ -811,9 +860,13 @@ As an alternative, she inflicts 4 times the damage on that object.
 ### The Art of Permanence
 `Essence 6, Enabler`
 
+** The Lawgiver leaves the world eternal monuments to her genius. **
+
 A Solar who uses this Charm can invest her works with essence, causing them to endure forever.
 
 Candles spun by her hands burn forever, and a horse wearing shoes from her forge need never be shod again.
+
+Things keep working without wearing out unless deliberately attacked or sabotaged.
 
 Such objects are indelibly marked by the Solar’s touch.
 If she claims to be the builder of a torch that never ceases burning, or a roof that never leaks, characters instinctively know it to be true without needing further proof.
@@ -832,7 +885,7 @@ Allows to use Solar Sorcery. Requires knowing Shape Celestial Sorcery.
 
 
 ### Miraculous Stunning Insight
-``
+`???`
 
 ** A Lawgiver can stop the hands of time to protect the ones he loves. **
 
@@ -840,9 +893,24 @@ Allows to use Solar Sorcery. Requires knowing Shape Celestial Sorcery.
 
 
 ### Power From Darkness
-``
+`???`
 
 ** Veiling her nature in the essence of the eclipse, the Solar reaches through the cracks in the universe the Primordials forged to rip forth power hidden from lesser minds. **
+
+
+### Prophet of Seventeen Cycles
+`???`
+
+** The Lawgiver’s knowledge of the past and her understanding of physical laws allows her to make nigh-flawless general predictions. **
+
+To use this Charm, the Exalt must spend a day studying a subject from an authoritative or definitive source.
+Her player may then make a pronouncement against an ongoing project based on knowledge her studies reveal, creating bonuses for those who act in accordance with her accurate predictions, and penalties for those who go against them.
+For example, after reading about the patterns of weather, hostile elemental activity and famine in Jiara during the summer months over the last thousand years, she predicts that Mnemon will not attack Jiaran rebels until fall at the earliest, and will instead spend the summer months consolidating her forces while conserving water and gathering resources for a winter campaign.
+If Mnemon enacts a project to consolidate her forces while gathering resources until winter, the Storyteller should consider Mnemon’s project vastly more successful and easier to complete than otherwise.
+If Mnemon instead decides to invade Jiaran rebel territory in the summer, her invasion will be met with project difficulties, such as resource shortages, elemental attacks, inclement weather, and more specifically, mechanical penalties to the first War rolls her generals make in the conflict.
+Conversely, if Mnemon harbors her forces and the Jiaran rebels instead try to attack her, it is their commanders who will suffer penalties to their opening War rolls.
+Once the Solar has made a prediction, it may not be cancelled with a conflicting use of this or similar Charms, though it may be counteracted with Sidereal Astrology or similar powerful fate-bending magic.
+
 
 
 ### Thousand-Forge Hands
