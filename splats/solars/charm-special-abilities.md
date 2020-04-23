@@ -626,6 +626,19 @@ She becomes a natural facet of existence, equal to and unaffected by all things.
 ## Tier 1
 
 
+### Anointment of Miraculous Health
+`Mind 4, Action`
+
+** Disease and debilitation cannot stand against the Solars’ healing light. **
+
+The Solar spends about one hour, depending on the condition, treating her patient for a single condition, be it sickness, disease or poison, whether mundane or supernatural.
+The severity of the condition is reduced by (Medicine) Levels.
+The charm can be used again at every interval that the condition requires the patient to roll Resistance.
+
+At Tier 2+ the Solar can heal permanent or congenital conditions, treat it like a Crafting Project whose Assessed Difficulty is reduced again by the Solar's Medicine.
+For example, regrowing a lost limb would have an Assessed Difficulty of 7.
+
+
 ### Craftsman Needs No Tools
 `Mind 6, Enabler, Scene long`
 
@@ -692,6 +705,16 @@ The Solar may also detect the entrance to spirit sanctums within her range of vi
 This Charm does not reveal the working of the Charms of the Exalted.
 
 
+### Contagion-Curing Touch
+`Enabler`
+
+** Where the Exalt’s Essence-charged hands go, shattered bones are made whole and torn flesh is instantly mended. **
+
+The Solar can spend Body instead of Mind to fuel any healing Charm as well as Effort for Medicine Rolls.
+
+She can replace the need for surgical tools or medicines by spending Essence equal to the Level of the condition she's treating.
+
+
 ### Durability-Enhancing Techinque
 `Mind 5, Enabler, Scene long` or `Mind 5, Extended Action, Permanent`
 
@@ -731,7 +754,7 @@ Upon learning this Charm the Solar prepares a curriculum that will allow her to 
   * Socialize
   * War
 
-Additional Abilities from the list can be purchased for 2 XPs.
+Additional Abilities from the list can be purchased for 1 XPs.
 
 After teaching for one week, the students are considered Trained in the choosen Ability and will develop an attachment to an idea that the Solar holds.
 
@@ -762,18 +785,32 @@ Depending on the severity of the condition, treatment can take from 1 hour to 1 
 * understand the intention of a perpetrator after surveying a scene
 
 
-### Wonder-Forging Genius
-`Enabler`
+### Perfect Celestial Chirurgeon
+`Mind 6, Action`
 
-** Through intense cultivation of the self, the Lawgiver shatters the boundaries of her own creativity. **
+** With superhuman focus the Solar concentrates on her medical knowledge to save lives, making her every movement and action flawless. **
 
-Reduce Assessed Difficulty by half Tier, rounded up.
+The Solar visits her patient to diagnose his condition, rolling Medicine: on a success, she perfectly diagnoses and recognizes the condition, its origin and its exact effects.
+She will add her Tier on any Medicine roll to treat the condition and will receive a free Player Intrusion on any GM Intrusion related to the condition.
+The success is automatic on any condition that the Solar has already successfully treated.
+
+On a failure, the information she gathers will still be perfectly reliable, but more limited in extent, giving her at least a general idea of the nature and effects of the condition.
+
+The Charm can be used multiple times to diagnose multiple conditions, starting from the highest-Level one.
 
 
 ### Shape Celestial Sorcery
 `Mind 5, Action`
 
 Allows to use Celestial Sorcery. Requires knowing Shape Terrestrial Sorcery.
+
+
+### Wonder-Forging Genius
+`Enabler`
+
+** Through intense cultivation of the self, the Lawgiver shatters the boundaries of her own creativity. **
+
+Reduce Assessed Difficulty by half Tier, rounded up.
 
 
 ### Wyld-Shaping Technique
@@ -842,6 +879,16 @@ On anything else she reduces the Difficulty to half and the time to one tenth.
 As an alternative, she inflicts 4 times the damage on that object.
 
 
+### Wound-Banishing Strike
+???
+** The Solar medician may strike at a temporary wound, such as a damaged nerve, a clouded eye, or a blocked meridian in order to instantly heal it. **
+** Striking her patient’s anima with Essence-laden fingers, the Solar imparts a surge of new life. **
+
+  * Counter Crippling effects and pain
+  * Instantly stabilise an NPC / give extra Body points
+  - Take stress if someone cured takes damage
+
+
 
 ## Tier 5
 
@@ -874,6 +921,13 @@ Such objects may also render the Exalt’s identity to beings with appropriate s
 If she encounters her own works from a past life, the Lawgiver will automatically recognize them as her own.
 
 
+### Science of Mutation
+???
+** The Lawgiver need not only heal, but may re-create bodies as she sees fit. **
+After she spends five hours performing a Medicine-based action (and making an Intelligence + Medicine roll), her target gains or loses points of physical mutations no greater than the Solar’s successes. (See Exalted, pp. 288-290, Manual of Exalted Power—The Lunars, pp. 206-209, and The Compass of Celestial Directions, Vol. II—The Wyld, pp. 144-148. Poxes and deficiencies are one point; afflictions/debilities, two points; blights/deformities, four points; abominations, six points.) This procedure inflicts a number of levels of lethal damage equal to the point value of the mutation bestowed (extras cannot die from this treatment unless the activation roll botches).
+This Charm can remove Wyld mutations, but the mutations it grants aren’t usually of the Wyld. Unless the storyteller rules otherwise, mutations granted by this Charm don’t restrict the target’s ability to live in Creation.
+
+
 ### Shape Solar Sorcery
 `Mind 7, Action`
 
@@ -882,6 +936,12 @@ Allows to use Solar Sorcery. Requires knowing Shape Celestial Sorcery.
 
 
 ## Tier 6
+
+
+### A Hood on Death
+???
+[Should not overlap with Miraculous Anointment of Health]
+Transcending individual treatment, the Solar exercises sovereignty over disease, giving it form at her behest. The Solar selects a specific disease. All instances of the targeted disease within (Essence x 20) miles are immediately pulled from those who suffer from them, traveling at the speed of prayer to the Solar’s location. There they coalesce over the course of one day, leaping together in a roiling mass of filth and shadow that eventually becomes a single, powerful plague god of that particular disease—one which harbors an indestructible Intimacy of loyalty to the Solar who caused it to come into being. The spirit may somewhat resemble the Solar in appearance. This god is equivalent to a spirit of the second rank or third rank, depending on the virulence and magnitude of the disease and its outbreak (see The Compass of Celestial Directions, vol. III—Yu-Shan, pp.122-124) The spirit always has the Bane Weapon Charm, which is efficacious against other spirits of the disease it represents, and a special Charm called Consume Sickness, which allows the spirit to spend 10 motes to draw out the sickness it represents from a person and consume it, gaining a point of Willpower or restocking a Virtue channel in the process. This Charm may only function if a number of individuals of Magnitude 6 or above are infected with the disease within the targeted area.
 
 
 ### Miraculous Stunning Insight
