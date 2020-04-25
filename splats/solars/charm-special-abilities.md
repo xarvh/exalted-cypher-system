@@ -75,7 +75,7 @@ It can't be used more than once per combat turn.
 
 **The Solar graces her shot with unerring precision and fires it along a flow of Essence, causing it to slice through the air between the arrow and its mark.**
 
-In an Attack roll, ignore any Difficulty other than the target Level and cover (high winds, visibility, limited movement space...)
+In an Attack roll, ignore any Difficulty other than the target Level and cover (high winds, limited movement space, water, confetti, smoke...)
 
 
 ### Tiger Warrior Training Technique
