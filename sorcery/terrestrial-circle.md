@@ -5,7 +5,7 @@
 
 
 ## Death of Obsidian Butterflies
-Shaping: 5
+Goal Number: 10
 Duration: Instant
 
 Sculpting Essence into volant black glass, the sorcerer unleashes a cascade of obsidian butterflies.
@@ -50,7 +50,7 @@ When she is angry, her fingernails turn to sharp volcanic glass, making it possi
 
 
 ## Stormwind Rider
-Shaping: 5
+Goal Number: 10
 Duration: One hour
 
 Bending the winds to her will, the sorcerer creates a servile dust devil to ride.

@@ -1,5 +1,5 @@
-DICE ROLLS
-==========
+Dice Rolls
+----------
 
 Dice rolls use a D6.
 If the dice rolls a natural 1, roll again: a 1 or 2 means GM Intrusion.
@@ -12,9 +12,8 @@ Mundane Abilities add 1 for Trained, 2 for Specialized, 3 for Defining (see belo
 Every level of Effort used costs 2.
 
 
-
-BODY, MIND, ESSENCE
-===================
+Body, Mind, Essence
+-------------------
 Characters have three pools: Body, Mind and (for those who can use it) Essence.
 
 Body and Mind can have Edges.
@@ -25,30 +24,28 @@ Whenever the character would deliberately spend points from their Body or Mind P
 
 Some special abilities can be fuelled exclusively with Essence.
 
+TODO: Commitment
 
 
-STUNTS
-======
+Stunts
+------
 The more interesting and awesome the action you describe, the higher the stunt.
 
-### Stunt 1
-A Stunt 1 is when you do a cool description of your PC Action.
+A **Stunt 1** is when you do a cool description of your PC Action.
   * You recover 1 point to any of your Pools
 
-### Stunt 2
-A Stunt 2 is when you exploit some part of the environment or the context that otherwise would not factor in your action.
+A **Stunt 2** is when you exploit some part of the environment or the context that otherwise would not factor in your action.
   * You recover 2 points to any of your Pools
   * You get a Destiny Point
 
-### Stunt 3
-A Stunt 3 is when the whole table looks at you in disbelief and erupts in yell or laughter.
+A **Stunt 3** is when the whole table looks at you in disbelief and erupts in yell or laughter.
   * You recover 3 points to any of your Pools
   * You get a Destiny Point
   * You get an Experience Point
 
 
-DESTINY POINTS
-==============
+Destiny Points
+--------------
 You get Destiny Points by stunting (Stunt 2 or Stunt 3).
 
 You can spend them at any time to:
@@ -58,8 +55,8 @@ You can spend them at any time to:
   * Refuse GM Intrusions
 
 
-EXPERIENCE POINTS
-=================
+Experience Points
+-----------------
 You get XPs:
   * When you discover something
   * When you do a Stunt 3
@@ -67,20 +64,20 @@ You get XPs:
   * When someone else accepts a GM Intrusion and gives their second XP to you
 
 
-DEFINING ABILITY
-================
+Defining Ability
+----------------
 By spending 8 XPs, a PC can upgrade a Mundane Ability from Specialized to Defining.
 This does *not* count towards any Upgrade.
 A character can have no more than *ONE* Defining Ability and the Defining Ability must be consistent with their Focus.
 
 
-EVOCATIONS
-==========
+Evocations
+----------
 Unlocking an Artefact Evocation costs 2 XPs.
 
 
-CYPHERS
-=======
+Cyphers
+-------
 In general, a Cypher is not a supernatural effect, but just the character being really, really good at what she does.
 
 When a player uses a Cypher, only the mechanical description is important, and the player must justify and describe the effect in a way that fits her character.
@@ -92,24 +89,23 @@ Every time a character takes a Recovery Action, they get one new Cypher.
 If this goes above their limit, they discard any excess Cypher.
 
 
-COMBAT
-======
+Combat
+------
 
-Armor
------
+The excess successes of an Attack Roll are added to the attack's damage.
+
+### Armor
 Wearing armor reduces Body by a given value when worn.
   - Using armor requires being Trained in Combat
   - Mundane light armor: soak 1, -3 Body
   - Mundane heavy armor: soak 2, -6 Body
 
 
-Disarm
-------
+### Disarm
 In general, disarming should probably happen only as a Player Intrusion or as the effect Special Ability.
 
 
-Clinch
-------
+### Clinch
 Clinch is a normal attack Action that inflicts no damage.
 
 If the clinch is successful, the two characters become Controller and Victim.
@@ -121,3 +117,36 @@ The Controller and anyone else can attack the Victim at -2 difficulty.
 If the Controller attacks the Victim succesfully, they can inflict damage as normal.
 
 If the Victim attacks the Controller successfully, they can break the clinch; on a Minor Effect the Victim can swap role with the Controller.
+
+
+Extended Action
+---------------
+
+An Extended Action is used when it's important to know how long a task will take, and has the following features:
+  * An **Interval** - This is how often you get to Roll (1 hour, 1 action, 1 day...)
+  * A **Difficulty** - You need to roll higher than this to make any progress at all.
+  * A **Goal Number** - This is how many successes above the Difficulty you need to accumulate to succeed in the task.
+  * A **Terminus** - This is how many rolls you can do before the task fails.
+
+If the Player fails to reach the Goal Number after (Terminus) rolls, they failed and will have to tackle the problem from a different angle.
+
+
+Project
+-------
+
+A Project is an Extended Action to create or modify something: it could be a Sorcerous Working, the crafting of an Artefact, a bureaucratic reform, a book...
+
+Many Projects will require the Player to spend XPs on them.
+
+In a Project:
+  * The Difficulty reflects how much control the Player has on how the results look like.
+  * The Goal Number reflects how ambitious the Project is.
+  * The Terminus reflects the resources available to the Player.
+
+For the minimum Difficulty, the Player is guaranteed that its base intention will be fulfilled, but all the details will be in the hands of the GM.
+
+The Player can decide to increase the Difficulty by 2: in this case the Player can give give a rough description of how the final result will look like and the GM will embellish with catches, quirks and twist that make the result more interesting without undermining its core intent.
+
+If instead the Player wants full control on the outcome, defining exactly how the result will look like, they can increase the Difficulty by 4.
+
+A Project does not absorb 100% of the character's time, but does require them to be available to work on it every day.
