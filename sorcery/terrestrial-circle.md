@@ -5,8 +5,7 @@
 
 
 ## Death of Obsidian Butterflies
-Goal Number: 10
-Duration: Instant
+`Goal Number: 8`
 
 Sculpting Essence into volant black glass, the sorcerer unleashes a cascade of obsidian butterflies.
 
@@ -24,7 +23,7 @@ After this spell has been cast, the obsidian butterflies fall to the ground and 
 
 Any character wearing armored boots can generally ignore the debris.
 
-A sorcerer who knows Death of Obsidian Butterflies as her control spell gains (Tier) bonus dice to the spell’s attack roll.
+A sorcerer who knows Death of Obsidian Butterflies as her Control Spell gains (Tier) bonus to the spell’s Attack roll.
 
 When her emotions run hot, butterfly silhouettes rise from her shadow.
 
@@ -50,15 +49,14 @@ When she is angry, her fingernails turn to sharp volcanic glass, making it possi
 
 
 ## Stormwind Rider
-Goal Number: 10
-Duration: One hour
+`Goal Number: 8`
 
-Bending the winds to her will, the sorcerer creates a servile dust devil to ride.
-The Stormwind Rider is treated as a flying mount, although it cannot take the sorcerer to more than short range above the ground.
-The whirlwind can carry up to Tier additional characters, or one hundred pounds of cargo in place of a single passenger.
-While it cannot soar as high as the Cirrus Skiff, the Stormwind Rider can travel at nearly 100 km/h and maneuver through forests or cities.
+Bending the winds to her will, the sorcerer creates a servile dust devil to ride, which will last **one hour**.
+The Stormwind Rider is treated as a flying mount, although it cannot take the sorcerer to more than a **Short range above the ground**.
+The whirlwind can carry up to **Tier additional characters**, or **one hundred Kg of cargo** in place of a single passenger.
+While it cannot soar as high as the Cirrus Skiff, the Stormwind Rider can travel at nearly **100 km/h** and maneuver through forests or cities.
 
-A sorcerer who knows Stormwind Rider as her control spell is buffeted by winds whenever she is beset by strong emotions.
+A sorcerer who knows Stormwind Rider as her Control Spell is buffeted by winds whenever she is beset by strong emotions.
 Sudden movements cause a small vortex powerful enough to scatter papers, upset furniture and topple someone caught off-guard.
 Her vertical leaps are buoyed by wind, allowing her to leap high upward.
 
