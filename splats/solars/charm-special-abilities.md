@@ -810,7 +810,7 @@ Allows to use Celestial Sorcery. Requires knowing Shape Terrestrial Sorcery.
 
 ** Through intense cultivation of the self, the Lawgiver shatters the boundaries of her own creativity. **
 
-Reduce Assessed Difficulty by half Tier, rounded up.
+Max Effort for all Craft rolls is increased by (Craft x2).
 
 
 ### Wyld-Shaping Technique
