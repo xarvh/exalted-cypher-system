@@ -30,7 +30,7 @@ When her emotions run hot, butterfly silhouettes rise from her shadow.
 When she is angry, her fingernails turn to sharp volcanic glass, making it possible to cut cloth or paper, rend wood or flesh and other similar stunts.
 
 
-## Demon of the Firs Circle
+## Demon of the First Circle
 
 
 ## Flight of the Brilliant Raptor
@@ -46,6 +46,13 @@ When she is angry, her fingernails turn to sharp volcanic glass, making it possi
 
 
 ## Silent Words of Dreams and Nightmares
+``
+
+This rite takes 10 minutes to perform.
+It requires incense and an arcane link to its target.
+The sorcerer lights the incense.
+As she speaks the Five Words of Dreams, the incense smoke wafts toward the mirrors—and into them.
+With this spell, the sorcerer can send the target any sort of dream.
 
 
 ## Stormwind Rider
