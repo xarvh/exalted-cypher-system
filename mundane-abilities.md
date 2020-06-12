@@ -1,5 +1,7 @@
 Athletics (can be used for Dodge rolls in combat)
 
+Awareness
+
 Bureaucracy
 
 Combat (can be used for initiative, Attack and Parry rolls in combat)
@@ -8,6 +10,8 @@ Craft
 
 Integrity (can be used for Mental and Social Defense rolls)
 
+Investigation
+
 Larceny
 
 Lore (includes languages)
@@ -15,8 +19,6 @@ Lore (includes languages)
 Medicine
 
 Occult (Necessary for Sorcery)
-
-Perception
 
 Presence (can be used for Social Attack rolls)
 

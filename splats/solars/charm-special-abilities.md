@@ -169,8 +169,8 @@ Upon purchasing this Charm, the player chooses a defining principle that exempli
 The Solar becomes perfectly immune to any kind of influence which would cause the Solar to knowingly act against the principle.
 
 
-### ??? Soul-Firing Performance
-``
+### Soul-Firing Performance
+`Mind 3, Action`
 If successful, the group is struck with an emotion conveyed by the performance, and each affected target reconsiders a decision they made in his past, connected to that emotion.
 The Storyteller chooses what each character is forced to reconsider.
 
@@ -261,9 +261,7 @@ Characters who have ties of loyalty, respect or admiration to the Solar now also
 
 The character also inherits any social station or role it is within the Solar’s right to grant, and all characters who are subject to that station instantly recognize that they are subject to the promoted one’s authority.
 
-? granting him a personal Essence pool of four motes plus up to five more
-
-? The character becomes inured to supernatural terror, and may resist it with a +2 bonus to his Resolve.
+The target gains an Essence pool equal to the Solar's (Presence x2) and becomes inured to supernatural terror, resisting it with a +2 bonus.
 
 
 
@@ -296,7 +294,6 @@ The shelter confines will provide enough food to feed all the Solar's followers 
 
 
 ### Majestic Radiant Presence
-[should this be permanent? should it make Stealth impossible while active?]
 `Enabler`
 
 **The Lawgiver is a singular and terrifying being, awesome to behold.**
@@ -324,6 +321,70 @@ Extra successes, however, increase commitment to this belief.
 **The virtue of the Lawgivers is like the sun at noon. Clouds might obscure it, but its light can never truly be banished or denied.**
 
 Whenever the Solar act under some unnatural mental influence, the fact that she is not behaving like herself becomes obvious to all the observers.
+
+
+
+## Tier 4
+
+
+### Destiny-Manifesting Method
+`Enabler`
+
+** The Solar is the heritor of a legend that cannot easily be erased. **
+
+When struck with a reality-shaping or fate-weaving attack that would permanently alter her mind or body, the Solar’s destiny manifests to override the changes.
+This Charm does not completely nullify deleterious effects, but downgrades or slows them such that two things are guaranteed:
+  1. the Solar cannot be immediately changed beyond her ability to represent the character concept implied by her Caste and Focus [is this flexible/good enough?].
+  2. no matter how fatal or permanent the effect may be, fate itself will generate a condition by which the Solar may shatter any curse.
+
+Once the condition is shattered once, it cannot affect the Solar again, applying a minimal penalty for an action or paltry damage at worst.
+
+
+### Heart-Compelling Method
+`Mind 3, Action`
+
+** The Lawgiver’s music pulls at the soul of her target, impelling him to act on his deepest desires. **
+
+The Solar performs for at least a minute, declaring an emotion that she wants to arouse in her audience.
+
+The Solar doesn't need to know her audience: the performance will automatically revive the audience memories and experiences that are more likely to lead to the intended emotion.
+
+The emotion will be aroused automatically, even if the audience is hostile.
+
+On a successful Performance Roll however, the audience will feel strongly compelled to act on the emotion, if not immediately very soon.
+
+
+### Mind-Blanking Rebuke
+`Mind 6, Action`
+
+** The Lawgiver issues a powerful admonition against a target, forbidding him from taking a certain action. **
+
+Social attack, prevents a target from taking a certain specific action (usually the purview of a single Mundane Ability) for the rest of the Scene.
+
+Examples of actions that are valid targets include "dodging my attacks" "attacking me with your daiklave" "picking any locks" or "using Seven Shadow Evasion."
+
+The Lawgiver cannot prevent the target from resisting Mind-Blanking Rebuke, or forbid any necessary life function ("do not breathe" is not a valid ban).
+
+
+### Bloodthirsty Sword-Dancer Spirit
+`Mind 1, Enabler`
+
+** The Solar drops to a deeper level of consciousness, sinking into a meditation on violence and destruction. **
+
+In this fugue state, the Lawgiver's world narrows to a tight red tunnel with things that must die at the far end.
+
+In this state, she is immune to penalties due to pain, crippling effects or zeroed pools.
+
+Whenever the Lawgiver rolls to close the distance or kill an enemy:
+* Her Body Edge is raised by 3
+* Her roll gains a +2
+
+Whenever she tries to do *anything* else, she needs to spend 3 points of Mind.
+
+In this state the Solar cannot be safely dissuaded from combat.
+Should friends or allies choose to stand in her way, she won’t slaughter them unheedingly, but will use any force necessary to remove them from her path so she can continue to assault her original target.
+
+She will not, and cannot end her assault until her targets are dead or fled, and if she is convinced by an impassioned plea to drop her commitment to this Charm, she suffers Mind damage equal to her Tier x2.
 
 
 
@@ -480,6 +541,57 @@ Only the targets of the Solar’s training can understand the true meaning of he
 Heal permanent or congenital conditions through repeated treatment.
 
 Depending on the severity of the condition, treatment can take from 1 hour to 1 month.
+
+
+
+## Tier 3
+
+
+### Empathic Recall Discipline
+`WORK IN PROGRESS`
+* see a scene from the perspective of one of the partecipants
+* understand the intention of a perpetrator after surveying a scene
+
+
+### Perfect Celestial Chirurgeon
+`Mind 6, Action`
+
+** With superhuman focus the Solar concentrates on her medical knowledge to save lives, making her every movement and action flawless. **
+
+The Solar visits her patient to diagnose his condition, rolling Medicine: on a success, she perfectly diagnoses and recognizes the condition, its origin and its exact effects.
+She will add her Tier on any Medicine roll to treat the condition and will receive a free Player Intrusion on any GM Intrusion related to the condition.
+The success is automatic on any condition that the Solar has already successfully treated.
+
+On a failure, the information she gathers will still be perfectly reliable, but more limited in extent, giving her at least a general idea of the nature and effects of the condition.
+
+The Charm can be used multiple times to diagnose multiple conditions, starting from the highest-Level one.
+
+
+### Shape Celestial Sorcery
+`Mind 5, Action`
+
+Allows to use Celestial Sorcery. Requires knowing Shape Terrestrial Sorcery.
+
+
+### Wonder-Forging Genius
+`Enabler`
+
+** Through intense cultivation of the self, the Lawgiver shatters the boundaries of her own creativity. **
+
+Max Effort for all Craft rolls is increased by (Craft x2).
+
+
+### Wyld-Shaping Technique
+`12 Essence, 10 Mind, 1 XP, Action`
+
+** Of all the Chosen, the Solar Exalted alone have the power to stem the tides of chaos with their force of will. **
+
+This Charm represents a Solar whose mind flows with a command of knowledge so potent it can reverse the decay of Creation.
+Channeling endless lore through unsurpassed Essence, the Solar stands at the edge of the world and forces shape into the howling teeth of the storm.
+
+Through use of this Charm, the Solar can fashion the raw forces of chaos into practically anything—so long as her mind is able to conceptualize the reality of her desire and force it to take shape.
+
+See [wyld-shaping.md](Wyld Shaping) for details.
 
 
 
