@@ -102,7 +102,7 @@ Wearing armor reduces Body by a given value when worn.
 
 
 ### Disarm
-In general, disarming should probably happen only as a Player Intrusion or as the effect Special Ability.
+Without special Abilities that explicitly allow you to disarm a foe, disarming requires an Intrusion.
 
 
 ### Clinch
@@ -112,11 +112,13 @@ If the clinch is successful, the two characters become Controller and Victim.
 
 Controller and Victim characters can only attack each other.
 
-The Controller and anyone else can attack the Victim at -2 difficulty.
+The Controller can break the Clinch at any moment.
 
-If the Controller attacks the Victim succesfully, they can inflict damage as normal.
+The Controller and anyone else can attack the Victim with a +2 bonus.
 
-If the Victim attacks the Controller successfully, they can break the clinch; on a Minor Effect the Victim can swap role with the Controller.
+If the Controller attacks the Victim successfully, they can inflict damage as normal.
+
+If the Victim attacks the Controller successfully, they can break free of the clinch; with an Intrusion the Victim can swap role with the Controller.
 
 
 Extended Action
