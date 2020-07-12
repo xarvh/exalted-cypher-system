@@ -807,6 +807,81 @@ Whether the roll is successful or not, the attacker's next action suffers a pena
 
 
 
+## Tier 4
+
+
+### Flow Like Blood
+`Body 8, Action`
+
+**Essence permeates the Lawgiver’s being. She moves with an unnatural fluid grace.**
+
+For the rest of the Scene, any Dodge roll benefits from the full Max Effort without cost.
+
+
+### Hundred Shadow Ways
+`Body 6, Enabler`
+
+After successfully dodging an attack, the Exalt may activate this Charm to counter up to (Athletics) Charms used in the attack.
+
+For the remainder of the Scene, the effects of the countered Charms do not apply to her or to attacks against her.
+
+The Charm ends automatically if any GM intrusion happens on any Dodge roll.
+
+The Charm can be used as many times in the same Scene as the character Pools can afford.
+
+
+### Keen Hearing and Touch Technique
+`Mind 8, Enabler, Scene long`
+
+**The Lawgiver listens with the intensity of an owl, and feels movement in the world like a spider feels a touch against its web.**
+
+Perception is counted twice on Rolls that are based on hearing or touch.
+
+The Exalt may identify fabrics and minerals she knows with a cursory touch, and can hear at frequencies several times lower than a human.
+
+She can listen clearly to conversations through thick stone walls, hear creatures burrowing in the ground, ants marching on the branches above her head, and other, similar feats.
+
+She can perceive movement across surfaces she is touching, such as footsteps approaching her in a pitch black hallway.
+
+
+### Master Plan Meditation
+`Mind 8, Enabler`
+
+Augment a Larceny roll to forge, counter-feit, prepare an alibi, collect information about someone, obtain maps of a target location, plan to enter or escape a dangerous location or plot to confuse or undermine law enforcement or criminal groups.
+
+Any excess level on the roll become contingency points that can be spent to:
+  * Retroactively distort or destroy a piece of evidence
+  * Alter a piece of evidence to point to another person (2 points)
+  * Gain a Scene-long asset to Integrity, Socialize or Performance.
+  * Retroactively leave the Solar's calling card (mark, sign, etc.)
+  * Other instances the player can say "I planned for this" and cackle evilly
+
+
+### Guardian Fog Approach
+`Mind 2 per ally, Enabler`
+
+** Through quick action, the Solar may obscure her allies. **
+
+This Charms allows the Solar's Stealth Roll and applicable Charms to apply to her allies.
+
+For any ally so affected, the Roll's difficulty increases by 1, up to a maximum of (Tier) allies.
+
+The allies must stay in very close proximity of the Lawgiver and use their Actions to follow her lead, and she must be trying to hide herself.
+
+
+### Soaring Crane Leap
+`2 Body, Enabler`
+
+** It is the Solar’s nature to rise above. **
+
+This Charm must be used before the Solar's Action and allows her to jump as part of that Action, multiplying the jumping distance by her (Tier + Athletics).
+
+In this way, the Solar could leap to strike a flying enemy, or leap away to shot an arrow away from her enemy's reach.
+
+Further, whether she's soaring up or falling down, the Solar gains limited control on her speed and direction; continuous use of the charm will allow her to avoid falling damage from any height.
+
+
+
 # Eclipse
 
 
@@ -930,6 +1005,20 @@ This is a perfect defense against attempts to read the character’s intentions,
 The character decides what it is that people who attempt to discern these factors determine.
 
 
+### Invincible Solar Vessel
+`Essence 5, Action`
+
+The Lawgiver commits her Essence to a particular vessel or vehicle, making it visibly blaze with the glory of the Unconquered Sun.
+
+For as long as the Essence is committed, it acts as an extension of the Lawgiver's body.
+
+The vessel benefits from all the defensive Charms the Lawgiver activates: if she is immune to Shaping effects, so will be the vessel; if invoking a Charm would protect her from being knocked down, the same Charm can be invoked to prevent the vessel from capsizing.
+
+Further, the vessel can be controlled without need for a crew: lanyards untie themselves, sails raise and lower in accordance to the Lawgiver’s will, and the ship obediently tends to its own upkeep and operation.
+
+So long as the Solar remains within Long Range of the ship, she may direct its course as though she were onboard.
+
+
 ### Moving the Unseen Hand
 `Mind 5, Enabler`
 
@@ -946,3 +1035,78 @@ The Exalt may use this technique in four different ways:
   * If the Solar is at least Trained in Bureaucracy, she can make readers assume the letter was written by a hierarchical superior.
 
   * She can simply sign the letter, in which case the deception will automatically succeed unless the target has reasons to suspect its origin or conent.
+
+
+
+## Tier 4
+
+
+### Flag of All Nations Method
+`Mind 6, Action`
+
+**The authority of the Lawgivers transcends boundaries. All nations are their nations; all people are their people.**
+
+The Lawgiver designs an insignia for a specific travelling group or vessel and a specific journey.
+
+As long as the travelling group or vessel displays the insigna, anyone spotting them will assume they are allies, regardless of their appearance.
+
+People who have *specific* suspicions about the behaviour of the group or the identity of some member of the group can contest the effect with Investigation vs the Lawgiver's Bureaucracy.
+
+
+### Flashing Quill Atemi
+`Mind 6, Action`
+
+The Lawgiver strikes a body of text with her fingers, reshaping the language to serve her purposes.
+
+With this Charm, the Solar may edit a manuscript, letter, or tome with untraceable precision.
+
+Where she draws her fingertips through lines, words lift from pages as if they were never written.
+
+Where she draws her fingertips through runes, ink chases itself into the shapes of new words.
+
+Through use of this Charm, the Solar can change the targets of written social influence, and can redefine what is intended by any social influence she encounters.
+
+Modifying a work encrypted with magic allows her to redirect the targets of that magic.
+
+If she wishes to alter magic she is incapable of producing, she must possess Essence 5+ and must use Power-Snaring Image in combination with this Charm.
+
+This combination explicitly allows her to alter magic for which she does not meet minimums.
+
+
+### Infinitely-Efficient Register
+[requires leading an organization and/or a system for long-term projects]
+
+
+### Single Voice Kata
+`Mind 4, Enabler`
+
+[This feels like a nice gimmick, but no more than that =| ]
+
+**There is a point in the infinite distance where purity and entropy touch. That point is both “before” and “after” but the Solar may reach it with a thought, to draw forth perfect language.**
+
+While this Charm is active, the Solar speaks a language that can be understood by all who hear it.
+
+Knowledge of this language is purely instinctual; characters understand the Solar’s words as she shapes them.
+
+Her perfect language cannot be learned, as it has no intelligible words, letters or mechanics.
+
+Consequently, it cannot be repeated back to the Solar such that she would comprehend it.
+
+This Charm allows purely one way communications, imparting no knowledge of languages the Solar has not yet learned.
+
+Spirits despise being addressed by a Solar using this Charm, and the Fair Folk feel physical pain to hear it spoken.
+
+A Solar should only use this Charm against such beings if she deliberately intends to cause offense.
+
+
+### Woe-Capturing Web
+`Mind 5, Enabler`
+
+Any time a magic is laid against an organization the Lawgiver belongs to, the GM gives her player the opportunity to activate this charm.
+
+If the player does so, the Lawgiver will learn the rough effects of the magic, and reduce the Difficulty to remove or work around it by 2.
+
+She can also inspect her immaculately-kept paperwork to discover information that she can use to profile and possibly identify the one whose magic has been snared.
+To find the perpetrator's identity she needs to roll Bureaucracy against his Level.
+
+If she is successful, she can immediately commit 1 Essence to trap the perpetrator's Pool used to fuel the magic, preventing him from relinquishing the curse before its normal duration has expired.
