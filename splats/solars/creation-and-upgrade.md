@@ -62,7 +62,7 @@ Eclipse
 Upgrading and Tieriung Up
 =========================
 
-Solars pay 3 XPs for any Martial Art Technique.
+Solars pay 4 XPs for any Martial Art Technique.
 
 For each Tier, the Solar has the following upgrades:
   * Increase Max Effort by 1

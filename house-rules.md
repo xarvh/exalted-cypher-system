@@ -106,7 +106,7 @@ Without special Abilities that explicitly allow you to disarm a foe, disarming r
 
 
 ### Clinch
-Clinch is a normal attack Action that inflicts no damage.
+Clinch is an attack Action with a -1 penalty that inflicts no damage.
 
 If the clinch is successful, the two characters become Controller and Victim.
 
@@ -114,7 +114,7 @@ Controller and Victim characters can only attack each other.
 
 The Controller can break the Clinch at any moment.
 
-The Controller and anyone else can attack the Victim with a +2 bonus.
+The Victim takes a -2 penalty to everything, including defense rolls, and can't go anywhere.
 
 If the Controller attacks the Victim successfully, they can inflict damage as normal.
 

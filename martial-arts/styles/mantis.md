@@ -26,7 +26,7 @@ The wisest of the Exalted and the gods (except for perhaps the Maiden of Secrets
 
 
 ### Iron-Arm Block
-`3 Body, Enabler (Parry)`
+`2 Body, Enabler (Parry)`
 
 +1 Parry, can parry any attack barehanded as if with an indestructible weapon.
 
@@ -39,16 +39,22 @@ If the Parry is successful, the attacker's next Parry loses 1.
 On a successful Parry, immediately roll to Disarm or Clinch the attacker.
 
 
-### ???
-``
+### Crushing Claw Method
+`5 Body, Action (Attack)`
+
+When the Controller of a Clinch, add (Awareness x2) to the damage against the Victim, ignoring Armor.
+
+When the Victim of a Clinch, +2 to break the Clinch; if successful, the stylist can immediately try to put the Controller in a clinch without using an Action.
 
 
 ### Mantis Form
 `Action`
 
-+1 Parry, can Parry any attack barehanded, +1 to Clinch, Light weapons can be used as Medium
++1 Parry, can Parry any attack barehanded.
 
-As soon as the stylist establishes a Clinch, they can immediately attack the Victim withuot using an Action.
+Light weapons can be used as Medium.
+
+Ignore the normal penalty to establish a Clinch; as soon as the stylist establishes a Clinch, they can immediately attack the Victim withuot using an Action.
 
 
 ### Joint-Breaking Technique
@@ -68,4 +74,4 @@ Because of the overwhelming pain, the target also suffers a penalty of -1 to eve
 ### Unfolding Retribution Stance
 `5 Body, Enabler`
 
-Until  next action, get a Counterattack *before* any enemy attack
+Until the next Action, get a Counterattack *before* any enemy attack.
