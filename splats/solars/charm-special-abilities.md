@@ -29,12 +29,12 @@ As an alternative, the enemy is knocked down or away.
 
 **With a moment of concentration, the Solar may banish a weapon Elsewhere.**
 
-Commit 1 Essence, store an Owned weapon Elsewhere.
+Commit 1 Essence, instantly store or retrieve a weapon you own from Elsewhere.
 
-If the weapon is in line of sight, it can be called to her hand.
-The Solar can't be disarmed during combat.
-Prevents anyone else from re-attuning to the weapon.
-Reduces the Committed Essence cost of an attuned artifact weapon by half, round up.
+* If the weapon is in line of sight, it can be called to her hand, and the Solar can't lose the weapon during combat.
+* Prevents anyone else from re-attuning to the weapon.
+* Reduces the Committed Essence cost of an attuned artifact weapon by half, round up.
+* By paying 1 Essence, can be used to instantly create ammo for ranged weapons.
 
 
 ### War Lion Stance
@@ -42,9 +42,9 @@ Reduces the Committed Essence cost of an attuned artifact weapon by half, round 
 
 **The Solar learns to defend others upon learning to defend herself.**
 
-Pick someone within Close range. Every time they are attacked and the Solar has a weapon to parry the attack, she can make a Defense roll for them OR she can reduce the difficulty of their Defense roll by 1 if she is Trained or 2 if she is Specialised in the Skill she is using.
+Pick someone within Short range. Every time they are attacked and the Solar has a weapon to parry the attack, she can make a Defense roll for them OR she can reduce the difficulty of their Defense roll by 1 if she is Trained or 2 if she is Specialised in the Skill she is using.
 
-The Charm ends when the target leaves Close range.
+The Charm ends when the target leaves Short range.
 
 
 ## Tier 2
@@ -108,7 +108,7 @@ Can use again up to Max Effort levels of Effort above the normal Max Effort, but
 Shape the Solar's essence into a weapon (or a weapon set where appropriate).
 The weapon must be choosen when the Solar learns this Ability, and should be roughly equivaent to a (Tier + 4) level Artifact.
 Additional weapons can be purchased for 3xp each.
-Weapons that require ammo will be summoned with what a person could normally carry.
+Summoned weapons require no ammo.
 The weapon lasts for one scene.
 
 

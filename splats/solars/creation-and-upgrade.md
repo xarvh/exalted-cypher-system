@@ -4,15 +4,14 @@ Abilities
 Abilities can be:
 
   * Mundane Abilities
-      They help with dice rolls
-      You can be Trained or Specialized
+      - They help with dice rolls
+      - You can be Trained or Specialized
 
   * Charm Abilities
-      Charms that match the Solar's Caste can be purchased when the Solar reaches the Charm's Tier.
-      Charms that do NOT match the Solar's Caste can be purchased when the Solar reaches the Charm's Tier PLUS ONE.
+      - Charms that match the Solar's Caste can be purchased when the Solar reaches the Charm's Tier.
+      - Charms that do NOT match the Solar's Caste can be purchased when the Solar reaches the Charm's Tier PLUS ONE.
 
-  * Martial Art Abilities
-      They must be purchased in order
+  * Martial Art Styles
 
 
 
