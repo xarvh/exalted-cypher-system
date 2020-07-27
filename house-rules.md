@@ -10,6 +10,7 @@ If the dice rolls a antural 6, roll again: a 5 or 6 means Player Intrusion.
 Mundane Abilities add 1 for Trained, 2 for Specialized, 3 for Defining (see below).
 
 Every level of Effort used costs 2.
+If either your Body Pool or your Mind Pool is at 0, every level of Effort costs 3 (Player Intrusions are not affected).
 
 
 Body, Mind, Essence
@@ -23,6 +24,8 @@ Essence cannot have Edges, but regenerates at a rate of Tier points per combat t
 Whenever the character would deliberately spend points from their Body or Mind Pool, they can use their Essence Pool instead: in this case, the whole cost must be paid in Essence and Edges do not apply.
 
 Some special abilities can be fuelled exclusively with Essence.
+
+If Body is at zero, you lose one point from Mind every turn.
 
 TODO: Commitment
 
