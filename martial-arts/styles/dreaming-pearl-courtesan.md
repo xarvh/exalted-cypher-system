@@ -58,7 +58,7 @@ No amount of combat fatigue or environmental factors will alter the artist's mak
 ????
 `Mind 6, Action`
 
-**Moving through the sultry, languid forms of a hypnotic kata, the Dreaming Pearl Courtesan beguiles her enemies with ethereal music and the fragrant scent of flower petals.**
+*Moving through the sultry, languid forms of a hypnotic kata, the Dreaming Pearl Courtesan beguiles her enemies with ethereal music and the fragrant scent of flower petals.*
 
 The martial artist rolls Presence or Performance, adding her Socialize as bonus.
 

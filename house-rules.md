@@ -124,6 +124,13 @@ If the Controller attacks the Victim successfully, they can inflict damage as no
 If the Victim attacks the Controller successfully, they can break free of the clinch; with an Intrusion the Victim can swap role with the Controller.
 
 
+### Unexpected Attacks
+When defending against an Unexpected attack:
+* A character with Pools can spend points only up to their Edge.
+* A character without Pools has their Level halved.
+
+
+
 Extended Action
 ---------------
 

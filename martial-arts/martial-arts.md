@@ -24,6 +24,8 @@ Learning a new Technique does NOT count as an Ability Upgrade, it just costs XPs
 
 Many Styles have a *Form* Technique: only one Form Technique can be active at any given time.
 
+Even if all Form Techniques are always `Action`, they can be activated as part of rolling initiative.
+
 
 Combining Multiple Styles
 -------------------------

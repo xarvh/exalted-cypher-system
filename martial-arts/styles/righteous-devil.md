@@ -1,10 +1,6 @@
 Righteous Devil Style
 =====================
 
-Mundane Ability: Integrity
-
-Weapons: Firewand
-
 The Righteous Devil is a figure of burning fury and solemn judgment, a wandering hero who protects the innocent and banishes the wicked into a fiery hell of their own making.
 
 Students of the style master the firewand, wielding these exotic weapons with a deadly precision that’s more art than archery.
@@ -15,12 +11,18 @@ When the strong and powerful use their positions to oppress those beneath them, 
 
 Many students of this style hold principles encompassing this code of ethics, though there are some who turn against the moral teachings of their sifus, or who simply learn the martial techniques of the style with no heed for the ethics behind them.
 
+Mundane Ability: Integrity
+
+Weapons: Firewand
+
 
 Firewands
 ---------
+Firewands are one-shot flamethrowers powered by firedust, a substance found naturally occurring deep in the Southern deserts or synthesized from a variety of exotic reagents found elsewhere in that Direction.
+
 Firewands can be Light, Medium or Heavy.
 
-They have Short Range and inflict +1 damage.
+They have Short Range and inflict +2 damage.
 
 Most firewands must be reloaded after every shot, but more expensive ones exist that can fire multiple times before needing to reload.
 
@@ -31,6 +33,9 @@ Firewands use firedust as ammo.
 
 ### Blossom of Inevitable Demise
 `Enabler`
+
+*Drawing in a quick breath, the Righteous Devil tastes the wickedness of a world in need of judgment.
+As she exhales, pulling down hard on the trigger, she burns that world clean with fire.*
 
 Increases the Max Effort that can be used to enhance attacks by (Integrity)
 
@@ -45,9 +50,9 @@ Anyone who witnesses the Righteous Devil instinctively knows that she is about t
 
 The innocent take their children and run to safety.
 
-The wicked are filled with the dread of the inevitable, suffering a penalty equal to the Righteous Devil's (Integrity) to Stealth and to any roll to run away, resist intimidation or instil them with emotions of shame, guilt or remorse as appropriate to their sins.
+The wicked are filled with the dread of the inevitable, suffering a penalty equal to the Righteous Devil's (Integrity) to Stealth and to any roll to run away, resist intimidation or emotions of shame, guilt or remorse as appropriate to their sins.
 
-Once per turn, the Righteous Devil can roll, adding her Integrity as a bonus, to compel one enemy to attack her.
+Once per turn, the Righteous Devil can roll Presence, adding her Integrity as a bonus, to compel one enemy to attack her.
 This effect succeeds automatically if the Sun is at high noon.
 
 Firewands can be used as melee weapons, to attack and parry, but Heavy firewands count only as Medium.
@@ -56,9 +61,10 @@ Ranged attacks made with firewands and the Techniques of this Style can spend Mi
 
 
 ### Azure Abacus Meditation
-`Body 6, Action (Attack)`
+`Body 4, Action (Attack)`
 
-Closing her eyes, the Righteous Devil perceives the ebb and flow of Essence around her through a mandala of blue rings, nine notched discs of silver-blue light that spin around her foes in her mind’s eye.
+*Closing her eyes, the Righteous Devil perceives the ebb and flow of Essence around her through a mandala of blue rings, nine notched discs of silver-blue light that spin around her foes in her mind’s eye.*
+
 If her anima banner is at the bonfire level, this azure abacus becomes visible to all within its light, the silvery rings orbiting around the stylist and aligning as she lines up a shot.
 Firing through this reticule mandala hones in on an enemy’s weakest point.
 
@@ -68,13 +74,15 @@ The attack can reach up to Long range and ignores all physical sources of Armor 
 ### Burning Judgment Halo
 `Body 5, Action`
 
+*Those who’d raise a hand against the Righteous Devil must walk through the fire of their own iniquities to do so.*
+
 Pointing the tip of her firewand at the ground, the stylist draws the Burning Judgment Halo, an arc or ring of flames that encompasses all characters at close range to her.
 
 The flames inflict (Integrity + 3) environmental damage per round.
 
-The flames created by this Charm will continue to burn for as long as the Righteous Devil remains at their center.
+The flames created by this Technique will continue to burn for as long as the Righteous Devil remains at their center.
 Once she takes a movement action to move from that point, they will continue to burn for a single round more, then die down on her next turn.
-Moving through the blaze created by this Charm never damages the stylist—the devil walks through hell unscathed.
+Moving through the blaze created by this Technique never damages the stylist: the devil walks through hell unscathed.
 
 
 ### Dancing Devil Trigger Finger
@@ -90,7 +98,7 @@ Edge is applied only once.
 *There is no sin beyond redemption in the fires stoked by the Righteous Devil.*
 
 A successful attack enhanced by the Caress of 1,000 Hells sets an enemy ablaze with the fires of judgment, engulfing him in a swirling vortex of cobalt and gold flames.
-Within this hellish pyre, disembodied voices recount his sins and misdeeds, and offer him a single choice—repent, or burn.
+Within this hellish pyre, disembodied voices recount his sins and misdeeds, and offer him a single choice: repent, or burn.
 
 If the enemy chooses to repent, the flames fade away, leaving him changed but unscathed.
 He forms a Defining Intimacy reflecting the nature of his atonement, chosen by that character’s player.
