@@ -609,7 +609,7 @@ See [wyld-shaping.md](Wyld Shaping) for details.
 
 Automatically succeed on a mundane pickpocketing attempt.
 
-Gives 3 Assets when contested with magic.
+Gives +3 when contested with magic.
 
 Cannot be used to pick items in use or attuned artifacts.
 
@@ -852,7 +852,7 @@ Augment a Larceny roll to forge, counter-feit, prepare an alibi, collect informa
 Any excess level on the roll become contingency points that can be spent to:
   * Retroactively distort or destroy a piece of evidence
   * Alter a piece of evidence to point to another person (2 points)
-  * Gain a Scene-long asset to Integrity, Socialize or Performance.
+  * Gain a Scene-long +1 to Integrity, Socialize or Performance.
   * Retroactively leave the Solar's calling card (mark, sign, etc.)
   * Other instances the player can say "I planned for this" and cackle evilly
 

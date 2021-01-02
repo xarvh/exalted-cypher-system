@@ -15,9 +15,9 @@ Some of them are available only while the anima display is at least at Glowing o
 **Zenith**
 * Can burn a corpse by touching it, ensuring the soul goes to Heaven (a golden aura lingers for several days) (Action, Essence 3)
 * Aura is considered as natural sunlight whenever it might matter (ex, vs creatures of Darkness)
-* Glowing Aura and above: +1 Asset on all social rolls (including prayers)
+* Glowing Aura and above: +1 on all social rolls (including prayers)
 * Burning Aura and above:
-  - +1 Asset to any Defense
+  - +1 to any Defense
   - Enemies whose level is below Tier cannot attack unless attacked
 
 
@@ -25,7 +25,7 @@ Some of them are available only while the anima display is at least at Glowing o
 * Can attempt to sense supernatural effects (Enabler)
 * Can attempt to identify supernatural effects (Action)
 * Glowing Aura and above: +1 Edge on all Mind rolls to understand or study (Enabler)
-* Burning Aura and above: +1 Asset to see through illusions, lies, deceptions (Enabler)
+* Burning Aura and above: +1 to see through illusions, lies, deceptions (Enabler)
 
 
 **Night**

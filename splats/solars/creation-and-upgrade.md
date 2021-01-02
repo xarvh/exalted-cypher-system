@@ -1,5 +1,5 @@
-Options
-=======
+Upgrade Options
+===============
 
 An Option can be:
 
@@ -13,6 +13,7 @@ An Option can be:
 
   * A Martial Art Style
 
+  * +1 to Maximum Cyphers
 
 
 Character Creation
@@ -71,6 +72,6 @@ For each Tier, the Solar has the following upgrades:
 
 When the five upgrades above are done, the Solar tiers up and receives:
   * All the benefits of the next Tier of her Focus
-  * An Option OR +1 Max Cyphers
+  * An Upgrade Option
 
 They can also swap one Option for another.

@@ -22,6 +22,8 @@ Occult (Necessary for Sorcery)
 
 Presence (can be used for Social Attack rolls)
 
+Performance (can be used for Social Attack rolls)
+
 Resistance
 
 Survival
@@ -29,5 +31,3 @@ Survival
 Socialize (can be used for Social Attack and Defense rolls)
 
 Stealth
-
-War (*must* be used for Attack and Defense rolls in group combat)
