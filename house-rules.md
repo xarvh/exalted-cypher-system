@@ -2,8 +2,10 @@ Dice Rolls
 ----------
 
 Dice rolls use a D6.
+
 If the dice rolls a natural 1, roll again: a 1 or 2 means GM Intrusion.
-If the dice rolls a antural 6, roll again: a 5 or 6 means Player Intrusion.
+
+If the dice rolls a natural 6, roll again: a 5 or 6 means Player Intrusion.
 
 `Mundane Ability + Effort + circumstantial bonuses + Special Ability modifiers + D6 >= Difficulty + circumstantial maluses`
 
