@@ -6,17 +6,46 @@
 ## Tier 1
 
 
-# Wind-Carried Words Technique
+### Voices on the Wind
+`Mind 4`
 
-# ...?
+*The Dragon-Blood is privy to backroom dealings and covert assignations, drawing hushed whispers to her ear on currents of air.*
+
+Eavesdrop a conversation up to Long Range away, ignoring background noise.
 
 
+### Wind-Carried Words Technique
+`Mind 3 or 10, Enabler`
+
+*The Dragon-Blood speaks into the wind, sending her voice afar on subtle currents of air.*
+
+She may send a spoken message of no more than a few sentences to a chosen target in range of (Lore x Tier) Km.
+
+Spending 10 Mind instead than 3 extends the range to (Lore x Tier x 50) Km.
+
+Messages sent with this Charm cannot be overheard or intercepted by any mundane means.
+
+Magical attempts to do so must overcome a Lore roll that uses the Tier as bonus.
+
+
+# Elemental Bolt Attack
+``
+
+Throw lightning!
+
+
+# Flawless Study Focus
+`Mind 1, Committed`
+
+*The Dragon-Blood clears her mind, drawing upon the clarity of the upper air to enter a receptive trance.*
+
+By spending a few hours studying a specific Lore speciality, she gets a +1 on that specialty for as long as she maintains the committment.
 
 
 # Seeking Throw Technique
 `Body 3, Enabler`
 
-**The Dragon-Blood’s hostile intent stirs up a current of wind that guides her weapon to its victim.**
+*The Dragon-Blood’s hostile intent stirs up a current of wind that guides her weapon to its victim.*
 
 A thrown knife might change trajectory in midair to strike an enemy hidden behind a tree, wall, or similar cover.
 
@@ -26,7 +55,7 @@ A thrown knife might change trajectory in midair to strike an enemy hidden behin
 # Armor-Rupturing Fang
 `Body 4, Attack`
 
-The Dragon-Blood strikes at stress points in a foe’s armor.
+*The Dragon-Blood strikes at stress points in a foe’s armor.*
 
 On a successful Attack that deals damage normally, her weapon becomes embedded in her enemy’s armor, lowering its Armor by 1 and imposing a -1 malus on movement.
 
@@ -38,7 +67,7 @@ Repeated uses stack.
 # Distracting Breeze Meditation
 `Essence 2, Enabler`
 
-As the Dragon-Blood moves through the shadows, the wind itself conspires to conceal her, blowing out torches, flapping curtains, or knocking over objects to create distractions.
+*As the Dragon-Blood moves through the shadows, the wind itself conspires to conceal her, blowing out torches, flapping curtains, or knocking over objects to create distractions.*
 
 Depending on the specific effect described by the Player, the Charm could provide a +1 to a Stealth Roll, or an attempt to distract a character (roll Stealth or Performance), or even a Player Intrusion.
 
@@ -46,7 +75,7 @@ Depending on the specific effect described by the Player, the Charm could provid
 # Soundless Action Prana
 `Mind 4, Enabler`
 
-The Dragon-Blood silences herself with an inner whirlwind, drawing in the sound of every unintended gasp or misplaced footstep before it reaches the ears of her foes.
+*The Dragon-Blood silences herself with an inner whirlwind, drawing in the sound of every unintended gasp or misplaced footstep before it reaches the ears of her foes.*
 
 The Charm silences sounds that originate within immediate range of the Dragon Blooded.
 
@@ -74,7 +103,7 @@ These arrows add Survival to their damage.
 ### Life-Swelling Sap Strike
 `Essence 3, Action`
 
-The Dragon-Blood’s arrow bursts into a crush of ever-growing roots or vines in midflight, entangling her enemy in thick plants.
+*The Dragon-Blood’s arrow bursts into a crush of ever-growing roots or vines in midflight, entangling her enemy in thick plants.*
 
 The action counts as a ranged Clinch attack.
 
@@ -94,13 +123,13 @@ The patient also receive the same bonus to any Body Defense rolls to resist the 
 `Mind 2, Action`
 
 Attend to self or another. On their next 10 Minutes Recovery, they regain Medicine x3 Body.
-NPCs without Pools recover Medicine Body.
+Characters without Pools recover Medicine Body.
 
 
 ### Hidden Peal Aria
 `Mind or Body 4, Enabler`
 
-**The Dragon-Blood expresses multiple layers of meaning via an artistic performance, conveying a secret message through nuances of speech and movement.**
+*The Dragon-Blood expresses multiple layers of meaning via an artistic performance, conveying a secret message through nuances of speech and movement.*
 
 She may embed a message one sentence long into a performance, conveying it only to select members of her audience.
 
@@ -108,7 +137,7 @@ She may embed a message one sentence long into a performance, conveying it only 
 ### Invisible Street Performer Technique
 `Mind 2, Enabler`
 
-**The Dragon-Blood vanishes into her performance, receding from her audience’s notice.**
+*The Dragon-Blood vanishes into her performance, receding from her audience’s notice.*
 
 She rolls Performance. As long as she continues to perform, characters whose Level is beaten by her roll cannot directly notice her.
 
@@ -118,7 +147,7 @@ While they see or hear her artistic display, they pay no mind to the person perf
 ### Heart-Strengthening Defense
 `Mind or Body 6, Enabler`
 
-**The Dragon-Blood’s performance charges her audience with the vital will to endure.**
+*The Dragon-Blood’s performance charges her audience with the vital will to endure.*
 
 While the Dragon Blooded performs, all characters that can see or hear her add her Performance to resist against all kinds of social and mental influence.
 
@@ -128,7 +157,7 @@ After 5 Actions, the effects lasts for the remainder of the Scene.
 ### Animal Empathy Technique
 `Mind 2, Enabler`
 
-**The Dragon-Blood needs no words to communicate with animals, mimicking their bestial body language or vocalizations to engage them.**
+*The Dragon-Blood needs no words to communicate with animals, mimicking their bestial body language or vocalizations to engage them.*
 
 The Dragon Blooded can engage socially with any beast as if she shared a common language with it.
 
@@ -138,16 +167,17 @@ Once per Scene, she can try to dissuade even a beast that's already aggressively
 ### Wild-Wandering Forester's Charm
 `Mind 8, once per Scene`
 
-**The Dragon-Blood knows the wilderness as well as she knows her own domain, aware of the secrets and wonders hidden within it.**
+*The Dragon-Blood knows the wilderness as well as she knows her own domain, aware of the secrets and wonders hidden within it.*
 
 The Charm can be used only while the Dragon Blooded is in the wilderness, and gives her Player an Intrusion to introduce a fact about the surrounding wilderness.
 
 
 
-
 # Water
 
+
 ## Tier 1
+
 
 ### Confluence of Savant Thought
 `Mind 8, once per Scene`
@@ -188,14 +218,29 @@ Apply a full disguise in a single Action.
 
 
 ### Naked Thief Style
-``
+`Enabler`
 
-Conceal small items in your body.
+*The Dragon-Blood is a master of concealing small items, whether smuggling contraband through a port or concealing her lock picks in her coiffure.*
+
+She can retroactively conceal on her body items small enough for her to hold in one hand, or an entire set of thieves’ tools, such as a roll of lockpicking equipment or a disguise kit and use this Charm to produce one of them.
+
+The Charm can be used up to Larceny x2 times before she has a plausible opportunity to recover and re-conceal the items.
+
+If she is physically searched and fails a Larceny roll, her player has two options: either declare that she didn't have any item, consuming all uses of the Charm, or accept a GM Intrusion regarding what the search finds.
+
+Magic that extends the range of one's sense may allow this search to happen without physical contact.
 
 
 ### Become the Hammer
+`Body 2`
+
+Increase the damage of an unarmed attack by 2 or by 5 against inanimated objects.
+
+If the attack is successful, the enemy is knocked down or away up to Short range.
+
 
 ### Become the Wave
+???
 
 
 
