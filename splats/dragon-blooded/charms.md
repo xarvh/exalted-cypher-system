@@ -1,4 +1,12 @@
 
+### Keyword: Ally
+**The Chosen of the Dragons thrive with others**
+
+Whenever a Dragon-Blooded casts a Charm, she can share its effects with any ally within Short range.
+The cost increases by 1 per each ally she wants to affect.
+
+
+
 
 # Air
 
@@ -7,7 +15,7 @@
 
 
 ### Voices on the Wind
-`Mind 4`
+`4 Mind, enhances an Awareness roll, Ally`
 
 *The Dragon-Blood is privy to backroom dealings and covert assignations, drawing hushed whispers to her ear on currents of air.*
 
@@ -15,7 +23,7 @@ Eavesdrop a conversation up to Long Range away, ignoring background noise.
 
 
 ### Wind-Carried Words Technique
-`Mind 3 or 10, Enabler`
+`3 or 10 Mind, use whenever, Ally`
 
 *The Dragon-Blood speaks into the wind, sending her voice afar on subtle currents of air.*
 
@@ -28,22 +36,24 @@ Messages sent with this Charm cannot be overheard or intercepted by any mundane 
 Magical attempts to do so must overcome a Lore roll that uses the Tier as bonus.
 
 
-# Elemental Bolt Attack
-``
+### Elemental Bolt Attack
+`3 Body, Attack Action`
 
-Throw lightning!
+Shoot projectiles of the appropriate element (Air shoots lightning!).
+
+It's a Light or Medium ranged attack, that can be rolled with Combat or Atheltics and adds Lore to the damage.
 
 
-# Flawless Study Focus
-`Mind 1, Committed`
+### Flawless Study Focus
+`1 Mind (Committed), Ally`
 
 *The Dragon-Blood clears her mind, drawing upon the clarity of the upper air to enter a receptive trance.*
 
 By spending a few hours studying a specific Lore speciality, she gets a +1 on that specialty for as long as she maintains the committment.
 
 
-# Seeking Throw Technique
-`Body 3, Enabler`
+### Seeking Throw Technique
+`3 Body, enhances an Attack, Ally`
 
 *The Dragon-Blood’s hostile intent stirs up a current of wind that guides her weapon to its victim.*
 
@@ -52,8 +62,8 @@ A thrown knife might change trajectory in midair to strike an enemy hidden behin
 +1 to thrown attack rolls. The weapon can fly around obstacles, ignoring cover.
 
 
-# Armor-Rupturing Fang
-`Body 4, Attack`
+### Armor-Rupturing Fang
+`3 Body, enhances an Attack, Ally`
 
 *The Dragon-Blood strikes at stress points in a foe’s armor.*
 
@@ -64,22 +74,94 @@ At GM discretion, the armor of natural creatures is unaffected while an automata
 Repeated uses stack.
 
 
-# Distracting Breeze Meditation
-`Essence 2, Enabler`
+### Distracting Breeze Meditation
+`2 Essence, use whenever, Ally`
 
 *As the Dragon-Blood moves through the shadows, the wind itself conspires to conceal her, blowing out torches, flapping curtains, or knocking over objects to create distractions.*
 
 Depending on the specific effect described by the Player, the Charm could provide a +1 to a Stealth Roll, or an attempt to distract a character (roll Stealth or Performance), or even a Player Intrusion.
 
 
-# Soundless Action Prana
-`Mind 4, Enabler`
+### Soundless Action Prana
+`4 Mind, use whenever, Ally`
 
 *The Dragon-Blood silences herself with an inner whirlwind, drawing in the sound of every unintended gasp or misplaced footstep before it reaches the ears of her foes.*
 
 The Charm silences sounds that originate within immediate range of the Dragon Blooded.
 
 Sounds produced directly by her are silenced automatically, making her undetectable by non-Essence enhanced hearing, while sound produced by others require a Stealth roll.
+
+
+
+# Earth
+
+
+## Tier 1
+
+
+TODO
+
+
+
+# Fire
+
+
+## Tier 1
+
+
+### Bellows-Pumping Stride
+`2 Body, use whenever, Ally`
+
+*The Dragon-Blood darts forward with an explosive burst of speed.*
+
+As part of another Action, the Dragon Blooded can move a Short Distance instead than an Immediate Distance.
+When running away or chasing someone, she instead gains a +2 bonus.
+Further, as long as she keeps running, she can move up and down solid vertical surfaces.
+
+Using this Charm leaves a blazing trail behind the Dragon Blooded, that can cause environmental damage and ignite flammable surfaces.
+
+
+### Dragon-Graced Weapon
+`2 Essence, enhances an Attack, Ally`
+
+Increase damage by 3.
+Ignore (Combat) points of Armor.
+Allows to strike dematerialized spirits.
+
+
+### Friend-to-All-Nations Attitude
+`Enabler, Ally`
+
+*The Dragon-Blood ingratiates herself into insular cliques, foreign courts, and barbarian tribes with skillful understanding of their customs and mores.*
+
+After spending at least an hour being exposed to any culture or social group, she may gain a temporary +1 to all Socialize rolls related to it.
+Further, these rolls can be re-rolled by spending Mind equal to the Difficulty of the roll.
+This bonus may be granted for up to (Socialize + Tier) groups at a time.
+If she wishes to gain a new temporary specialty while at the maximum, she must abandon an old one.
+
+
+### Hopping Firecracker Evasion
+`3 Body, enhances a Dodge`
+
+*The Dragon-Blood’s feet strike sparks from the ground, finally igniting in an explosive leap.*
+
+On a Dodge Roll, regardless of the outcome, instantly move a Short distance in any direction and possibly out of range of further attacks.
+
+
+### Unbearable Taunt Technique
+`2 Mind, use whenever, Ally`
+
+*Even the meekest hearts are tinderboxes for the flames of outrage the Dragon-Blood stirs.*
+
+Roll Presence to inspire a single character with anger.
+
+If successful, her target must immediately respond to the Dragon Blooded with hostility.
+
+The Target's player chooses the form this takes — outrage, threats, or even physical attack.
+
+In combat, this influence roll instead provokes an enemy into prioritizing attacking the Dragon-Blood instead of any of her allies on his next turn.
+
+The Target can decide to attack any other character, but will suffer a penalty of -1 to do so.
 
 
 
@@ -101,7 +183,7 @@ These arrows add Survival to their damage.
 
 
 ### Life-Swelling Sap Strike
-`Essence 3, Action`
+`Essence 3, Action, Ally`
 
 *The Dragon-Blood’s arrow bursts into a crush of ever-growing roots or vines in midflight, entangling her enemy in thick plants.*
 
@@ -111,7 +193,7 @@ Against the undead, the attack will inflict damage as soon as it succeeds.
 
 
 ### Disease-Banishing Technique
-`Mind 4, Enabler`
+`Mind 4, Enabler, Ally`
 
 *Blessed with understanding of the flow of living Essence through the body, the Dragon-Blooded physician refines her skill to perfection.*
 
@@ -127,7 +209,7 @@ Characters without Pools recover Medicine Body.
 
 
 ### Hidden Peal Aria
-`Mind or Body 4, Enabler`
+`Mind or Body 4, Enabler, Ally`
 
 *The Dragon-Blood expresses multiple layers of meaning via an artistic performance, conveying a secret message through nuances of speech and movement.*
 
@@ -135,7 +217,7 @@ She may embed a message one sentence long into a performance, conveying it only 
 
 
 ### Invisible Street Performer Technique
-`Mind 2, Enabler`
+`Mind 2, Enabler, Ally`
 
 *The Dragon-Blood vanishes into her performance, receding from her audience’s notice.*
 
@@ -155,7 +237,7 @@ After 5 Actions, the effects lasts for the remainder of the Scene.
 
 
 ### Animal Empathy Technique
-`Mind 2, Enabler`
+`Mind 2, Enabler, Ally`
 
 *The Dragon-Blood needs no words to communicate with animals, mimicking their bestial body language or vocalizations to engage them.*
 
@@ -194,7 +276,7 @@ While intreacting with an NPC, roll Bureaucracy to determine what it would take 
 
 
 ### Revelation-of-Associates Hunch
-`Mind 4, Enabler`
+`Mind 4, Enabler, Ally`
 
 *Criminals surround themselves with cronies, accomplices, and hirelings like a bonfire wreathes itself in cast-off embers, leaving behind a trail for an intrepid Dragon-Blood to follow.*
 
@@ -212,7 +294,7 @@ A murder weapon might reveal the last words between killer and victim, a careles
 
 
 ### Flowing Body Disguise
-`Mind 3, Action`
+`Mind 3, Action, Ally`
 
 Apply a full disguise in a single Action.
 
@@ -232,7 +314,7 @@ Magic that extends the range of one's sense may allow this search to happen with
 
 
 ### Become the Hammer
-`Body 2`
+`Body 2, Ally`
 
 Increase the damage of an unarmed attack by 2 or by 5 against inanimated objects.
 
@@ -240,7 +322,11 @@ If the attack is successful, the enemy is knocked down or away up to Short range
 
 
 ### Become the Wave
-???
+`Body 4, Enabler, Ally`
+
+Apply an unarmed Attack to all enemies directly in front and up to Short Range of the Dragon Blooded.
+
+
 
 
 

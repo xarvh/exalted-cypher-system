@@ -13,11 +13,11 @@ The wisest of the Exalted and the gods (except for perhaps the Maiden of Secrets
 
 Mundane Ability: Awareness
 
-Weapons: Unarmed, baton, kama, nunchaku, war fan, seven-section staff
+Weapons: Unarmed, baton, kama, nunchaku, seven-section staff
 
 
 ### Iron-Arm Block
-`2 Body, Enabler (Parry)`
+`3 Body, enhances a Parry roll`
 
 *Using her defense to divert her attacker’s weapon or limbs, the Mantis stylist creates an opening in his guard.*
 
@@ -29,13 +29,13 @@ If Mantis Form is active, this effect stacks if the same enemy attacks the styli
 
 
 ### Grasping Claw Method
-`3 Body, Enabler (Parry)`
+`3 Body, enhances a Parry roll`
 
 On a successful Parry, immediately roll to Disarm or Clinch the attacker.
 
 
 ### Crushing Claw Method
-`5 Body, Action (Attack)`
+`5 Body, Attack Action`
 
 When the Controller of a Clinch, add (Awareness x2) to the damage against the Victim, ignoring Armor.
 
@@ -55,7 +55,7 @@ Ignore the normal penalty to establish a Clinch; as soon as the stylist establis
 
 
 ### Joint-Breaking Technique
-`5 Body, Action (Attack)`
+`5 Body, Attack Action`
 
 *Once the mantis catches its prey, there is no escape.*
 
@@ -71,6 +71,6 @@ Because of the overwhelming pain, the target also suffers a penalty of -1 to eve
 
 
 ### Unfolding Retribution Stance
-`5 Body, Enabler`
+`5 Body, use whenever`
 
 Until the next Action, get a Counterattack *before* any enemy attack.

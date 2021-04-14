@@ -111,7 +111,7 @@ Without special Abilities that explicitly allow you to disarm a foe, disarming r
 
 
 ### Clinch
-Clinch is an attack Action with a -1 penalty that inflicts no damage.
+Clinch is an attack Action with a -2 penalty that inflicts no damage.
 
 If the clinch is successful, the two characters become Controller and Victim.
 
