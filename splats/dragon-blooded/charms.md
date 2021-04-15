@@ -198,96 +198,6 @@ The Target can decide to attack any other character, but will suffer a penalty o
 
 
 
-# Wood
-
-
-## Tier 1
-
-
-### Harvest of the Hunter
-`Enabler`
-
-*The Dragon-Blood may go to hunt with an empty quiver yet never lack for arrows.*
-
-Anything that grows will yield up arrows to the archer’s gathering hands.
-She can create useable ammunition for a bow or crossbow from any kind of plant, whether it’s a marsh reed or a stalk of corn.
-
-These arrows add Survival to their damage.
-
-
-### Life-Swelling Sap Strike
-`Essence 3, Action, Ally`
-
-*The Dragon-Blood’s arrow bursts into a crush of ever-growing roots or vines in midflight, entangling her enemy in thick plants.*
-
-The action counts as a ranged Clinch attack.
-
-Against the undead, the attack will inflict damage as soon as it succeeds.
-
-
-### Disease-Banishing Technique
-`Mind 4, Enabler, Ally`
-
-*Blessed with understanding of the flow of living Essence through the body, the Dragon-Blooded physician refines her skill to perfection.*
-
-Reduce the Difficulty of a Medicine Roll to treat a disease by half Tier, rounded up.
-The patient also receive the same bonus to any Body Defense rolls to resist the disease.
-
-
-### Master Healer Meditation
-`Mind 2, Action`
-
-Attend to self or another. On their next 10 Minutes Recovery, they regain Medicine x3 Body.
-Characters without Pools recover Medicine Body.
-
-
-### Hidden Peal Aria
-`Mind or Body 4, Enabler, Ally`
-
-*The Dragon-Blood expresses multiple layers of meaning via an artistic performance, conveying a secret message through nuances of speech and movement.*
-
-She may embed a message one sentence long into a performance, conveying it only to select members of her audience.
-
-
-### Invisible Street Performer Technique
-`Mind 2, Enabler, Ally`
-
-*The Dragon-Blood vanishes into her performance, receding from her audience’s notice.*
-
-She rolls Performance. As long as she continues to perform, characters whose Level is beaten by her roll cannot directly notice her.
-
-While they see or hear her artistic display, they pay no mind to the person performing it.
-
-
-### Heart-Strengthening Defense
-`Mind or Body 6, Enabler`
-
-*The Dragon-Blood’s performance charges her audience with the vital will to endure.*
-
-While the Dragon Blooded performs, all characters that can see or hear her add her Performance to resist against all kinds of social and mental influence.
-
-After 5 Actions, the effects lasts for the remainder of the Scene.
-
-
-### Animal Empathy Technique
-`Mind 2, Enabler, Ally`
-
-*The Dragon-Blood needs no words to communicate with animals, mimicking their bestial body language or vocalizations to engage them.*
-
-The Dragon Blooded can engage socially with any beast as if she shared a common language with it.
-
-Once per Scene, she can try to dissuade even a beast that's already aggressively hostile.
-
-
-### Wild-Wandering Forester's Charm
-`Mind 8, once per Scene`
-
-*The Dragon-Blood knows the wilderness as well as she knows her own domain, aware of the secrets and wonders hidden within it.*
-
-The Charm can be used only while the Dragon Blooded is in the wilderness, and gives her Player an Intrusion to introduce a fact about the surrounding wilderness.
-
-
-
 # Water
 
 
@@ -405,4 +315,94 @@ She adds +2 to threaten and intimidation rolls.
 She can perform one hour of work to conceal or remove any evidence of her actions in just one Action, and she can do so without using any tool.
 
 This includes cleaning blood stains, mending clothes, removing dust or shattered glass, footprints, fingerprints and the like.
+
+
+
+# Wood
+
+
+## Tier 1
+
+
+### Harvest of the Hunter
+`Enabler`
+
+*The Dragon-Blood may go to hunt with an empty quiver yet never lack for arrows.*
+
+Anything that grows will yield up arrows to the archer’s gathering hands.
+She can create useable ammunition for a bow or crossbow from any kind of plant, whether it’s a marsh reed or a stalk of corn.
+
+These arrows add Survival to their damage.
+
+
+### Life-Swelling Sap Strike
+`Essence 3, Action, Ally`
+
+*The Dragon-Blood’s arrow bursts into a crush of ever-growing roots or vines in midflight, entangling her enemy in thick plants.*
+
+The action counts as a ranged Clinch attack.
+
+Against the undead, the attack will inflict damage as soon as it succeeds.
+
+
+### Disease-Banishing Technique
+`Mind 4, Enabler, Ally`
+
+*Blessed with understanding of the flow of living Essence through the body, the Dragon-Blooded physician refines her skill to perfection.*
+
+Reduce the Difficulty of a Medicine Roll to treat a disease by half Tier, rounded up.
+The patient also receive the same bonus to any Body Defense rolls to resist the disease.
+
+
+### Master Healer Meditation
+`Mind 2, Action`
+
+Attend to self or another. On their next 10 Minutes Recovery, they regain Medicine x3 Body.
+Characters without Pools recover Medicine Body.
+
+
+### Hidden Peal Aria
+`Mind or Body 4, Enabler, Ally`
+
+*The Dragon-Blood expresses multiple layers of meaning via an artistic performance, conveying a secret message through nuances of speech and movement.*
+
+She may embed a message one sentence long into a performance, conveying it only to select members of her audience.
+
+
+### Invisible Street Performer Technique
+`Mind 2, Enabler, Ally`
+
+*The Dragon-Blood vanishes into her performance, receding from her audience’s notice.*
+
+She rolls Performance. As long as she continues to perform, characters whose Level is beaten by her roll cannot directly notice her.
+
+While they see or hear her artistic display, they pay no mind to the person performing it.
+
+
+### Heart-Strengthening Defense
+`Mind or Body 6, Enabler`
+
+*The Dragon-Blood’s performance charges her audience with the vital will to endure.*
+
+While the Dragon Blooded performs, all characters that can see or hear her add her Performance to resist against all kinds of social and mental influence.
+
+After 5 Actions, the effects lasts for the remainder of the Scene.
+
+
+### Animal Empathy Technique
+`Mind 2, Enabler, Ally`
+
+*The Dragon-Blood needs no words to communicate with animals, mimicking their bestial body language or vocalizations to engage them.*
+
+The Dragon Blooded can engage socially with any beast as if she shared a common language with it.
+
+Once per Scene, she can try to dissuade even a beast that's already aggressively hostile.
+
+
+### Wild-Wandering Forester's Charm
+`Mind 8, once per Scene`
+
+*The Dragon-Blood knows the wilderness as well as she knows her own domain, aware of the secrets and wonders hidden within it.*
+
+The Charm can be used only while the Dragon Blooded is in the wilderness, and gives her Player an Intrusion to introduce a fact about the surrounding wilderness.
 
