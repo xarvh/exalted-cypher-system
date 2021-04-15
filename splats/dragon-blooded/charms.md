@@ -99,7 +99,40 @@ Sounds produced directly by her are silenced automatically, making her undetecta
 ## Tier 1
 
 
-TODO
+### All-Encompassing Earth Sense
+`always active`
+
+*The Dragon-Blood can sense the vibrations that move through the earth when a soldier takes a step or a leaf falls from a branch.*
+
+She senses shapes and movements that happen on a solid surface she's standing on and within Short range.
+
+She cannot sense characters who are airborne, in or on water, or taking other measures to avoid moving across the surface.
+
+
+### Stone-Carving Fingers
+`5 Body, use whenever, Ally`
+
+*The Dragon-Blood can split stone with her bare hands, delivering a series of precise strikes that carve it from within, shaping it to her will.*
+
+She may undertake a Project to craft stone or earth without needing tools or a workshop.
+
+If she uses tools, the length of the Extended Actions's Interval is divided by (Tier + 1).
+
+
+### Oath of the Ten Thousands Dragons
+`1 Mind (Committed), use whenever, Ally`
+
+The Dragon-Blood swears a vow of personal fealty to a character she is loyal towards, or swears to complete a task at the request of such a character.
+
+For as long as the cost is Committed, she can automatically reject any social influence that would make her betray the Oath.
+
+
+### Ox-Body Technique
+`always active`
+
+*The blood of the dragons confers incredible resilience.*
+
+The Character's Body Pool increases by 6.
 
 
 
@@ -262,7 +295,7 @@ The Charm can be used only while the Dragon Blooded is in the wilderness, and gi
 
 
 ### Confluence of Savant Thought
-`Mind 8, once per Scene`
+`8 Mind, once per Scene`
 
 *The Dragon-Blood’s understanding of bureaucracies is vast, encompassing the myriad ways in which mercantile and administrative tasks pool and eddy like water.*
 
@@ -270,13 +303,13 @@ Player Intrusion to introduce a fact about a merchantile or bureaucratic organis
 
 
 ### Finding The Water's Depths
-`Mind 4, Action`
+`4 Mind, Action`
 
 While intreacting with an NPC, roll Bureaucracy to determine what it would take to entice the NPC to perform a specific task.
 
 
 ### Revelation-of-Associates Hunch
-`Mind 4, Enabler, Ally`
+`4 Mind, enhances an Investigation roll, Ally`
 
 *Criminals surround themselves with cronies, accomplices, and hirelings like a bonfire wreathes itself in cast-off embers, leaving behind a trail for an intrepid Dragon-Blood to follow.*
 
@@ -285,16 +318,8 @@ When surveying a Scene, get an idea of how many people were involved.
 Afterwards, you can tell whether an individual was connected to the crime by using the Charm again and successfully rolling Invesstigation.
 
 
-### Echoes Caught in Water
-`Mind 5, once per Scene, Action`
-
-Taking a piece of evidence in hand and meditating on it, the Dragon-Blood rolls Investigation against a difficulty equal to the number of days since that evidence was placed.
-On a successful roll, she hears a relevant conversation that occurred near that object sometime in the last Tier months.
-A murder weapon might reveal the last words between killer and victim, a carelessly abandoned sandal could uncover good-humored banter between thieves, or a hidden switch in a manse might repeat the words of the last person to operate it.
-
-
 ### Flowing Body Disguise
-`Mind 3, Action, Ally`
+`3 Mind, Action, Ally`
 
 Apply a full disguise in a single Action.
 
@@ -314,23 +339,70 @@ Magic that extends the range of one's sense may allow this search to happen with
 
 
 ### Become the Hammer
-`Body 2, Ally`
+`2 Body, Ally`
 
 Increase the damage of an unarmed attack by 2 or by 5 against inanimated objects.
 
 If the attack is successful, the enemy is knocked down or away up to Short range.
 
 
+## Tier 2
+
+
 ### Become the Wave
-`Body 4, Enabler, Ally`
+`4 Body, Enabler, Ally`
 
 Apply an unarmed Attack to all enemies directly in front and up to Short Range of the Dragon Blooded.
 
 
+### Shells-for-Silver Rouse
+`4 Mind, use whenever, lasts one Scene, Ally`
+
+*The Dragon-Blood adopts a deceptive bearing that suggests illusory wealth or squalor, deceiving thieves and merchants alike.*
+
+She decides how wealthy she wants to appear.
+
+For the duration of the Scene, people who don't know any better will automatically assume that she is as wealthy or as poor as she declared.
+
+People who know her or who are advised by others who know her *and* have reason to suspect her, can force a Bureaucracy or Investigation roll, but she has a +3 bonus.
+
+The Prince of Earth can extend this effect to any official document relating to her wealth.
 
 
+### Echoes Caught in Water
+`5 Mind, Action, use once per Scene`
+
+Taking a piece of evidence in hand and meditating on it, the Dragon-Blood rolls Investigation against a difficulty equal to the number of days since that evidence was placed.
+On a successful roll, she hears a relevant conversation that occurred near that object sometime in the last Tier months.
+A murder weapon might reveal the last words between killer and victim, a carelessly abandoned sandal could uncover good-humored banter between thieves, or a hidden switch in a manse might repeat the words of the last person to operate it.
 
 
+### Dragon Mariner Attitude
+`4 Mind, Action to initiate, lasts one Scene`
+
+*The Dragon-Blood’s reputation precedes her ship to shore.*
+
+She can manipulate the flow of her reputation as though it were a stream of water, choosing one of the following effects:
+
+*Carousing*: Adopting the poise of a sailor in port, the Dragon-Blood radiates a desire to take part in drinking, gambling, and similar vices, as well as any local indulgences.
+Characters seeking to supply such vices will seek her out to provide them or information about where to get them.
+
+*Heroism*: The Dragon-Blood’s prowess marks her as a hero.
+Characters facing problems that a hero could solve will seek her out as the solution to their problem and they will generally assume that she's trustworthy (+1 to relevant rolls).
+
+*Leadership*: The Dragon-Blood radiates the confidence of a commanding admiral.
+The men under her command will generally be very loyal to her (+2 to relevant rolls).
+
+*Menacing*: The Dragon-Blood’s bearing suggests ruthlessness and a history of violence.
+She adds +2 to threaten and intimidation rolls.
 
 
+### Resetting Thumblers Technique
+`3 Body, Action, Ally`
+
+*The Dragon-Blood washes away all signs of her trespass.*
+
+She can perform one hour of work to conceal or remove any evidence of her actions in just one Action, and she can do so without using any tool.
+
+This includes cleaning blood stains, mending clothes, removing dust or shattered glass, footprints, fingerprints and the like.
 

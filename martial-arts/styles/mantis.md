@@ -21,7 +21,7 @@ Weapons: Unarmed, baton, kama, nunchaku, seven-section staff
 
 *Using her defense to divert her attacker’s weapon or limbs, the Mantis stylist creates an opening in his guard.*
 
-+1 Parry, can parry any attack barehanded as if with an indestructible weapon.
++1 Parry, can parry attacks barehanded.
 
 If the Parry is successful, the attacker's next Parry loses 1.
 
@@ -71,6 +71,6 @@ Because of the overwhelming pain, the target also suffers a penalty of -1 to eve
 
 
 ### Unfolding Retribution Stance
-`5 Body, use whenever`
+`4 Mind, use whenever`
 
 Until the next Action, get a Counterattack *before* any enemy attack.
