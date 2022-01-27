@@ -22,20 +22,6 @@ The cost increases by 1 per each ally she wants to affect.
 Eavesdrop a conversation up to Long Range away, ignoring background noise.
 
 
-### Wind-Carried Words Technique
-`3 or 10 Mind, use whenever, Ally`
-
-*The Dragon-Blood speaks into the wind, sending her voice afar on subtle currents of air.*
-
-She may send a spoken message of no more than a few sentences to a chosen target in range of (Lore x Tier) Km.
-
-Spending 10 Mind instead than 3 extends the range to (Lore x Tier x 50) Km.
-
-Messages sent with this Charm cannot be overheard or intercepted by any mundane means.
-
-Magical attempts to do so must overcome a Lore roll that uses the Tier as bonus.
-
-
 ### Elemental Bolt Attack
 `3 Body, Attack Action`
 
@@ -62,6 +48,17 @@ A thrown knife might change trajectory in midair to strike an enemy hidden behin
 +1 to thrown attack rolls. The weapon can fly around obstacles, ignoring cover.
 
 
+### Distracting Breeze Meditation
+`2 Essence, use whenever, Ally`
+
+*As the Dragon-Blood moves through the shadows, the wind itself conspires to conceal her, blowing out torches, flapping curtains, or knocking over objects to create distractions.*
+
+Depending on the specific effect described by the Player, the Charm could provide a +1 to a Stealth Roll, or an attempt to distract a character (roll Stealth or Performance), or even a Player Intrusion.
+
+
+## Tier 2
+
+
 ### Armor-Rupturing Fang
 `3 Body, enhances an Attack, Ally`
 
@@ -74,14 +71,6 @@ At GM discretion, the armor of natural creatures is unaffected while an automata
 Repeated uses stack.
 
 
-### Distracting Breeze Meditation
-`2 Essence, use whenever, Ally`
-
-*As the Dragon-Blood moves through the shadows, the wind itself conspires to conceal her, blowing out torches, flapping curtains, or knocking over objects to create distractions.*
-
-Depending on the specific effect described by the Player, the Charm could provide a +1 to a Stealth Roll, or an attempt to distract a character (roll Stealth or Performance), or even a Player Intrusion.
-
-
 ### Soundless Action Prana
 `4 Mind, use whenever, Ally`
 
@@ -90,6 +79,21 @@ Depending on the specific effect described by the Player, the Charm could provid
 The Charm silences sounds that originate within immediate range of the Dragon Blooded.
 
 Sounds produced directly by her are silenced automatically, making her undetectable by non-Essence enhanced hearing, while sound produced by others require a Stealth roll.
+
+
+### Wind-Carried Words Technique
+`3 or 10 Mind, use whenever, Ally`
+
+*The Dragon-Blood speaks into the wind, sending her voice afar on subtle currents of air.*
+
+She may send a spoken message of no more than a few sentences to a chosen target in range of (Lore x Tier) Km.
+
+Spending 10 Mind instead than 3 extends the range to (Lore x Tier x 50) Km.
+
+Messages sent with this Charm cannot be overheard or intercepted by any mundane means.
+
+Magical attempts to do so must overcome a Lore roll that uses the Tier as bonus.
+
 
 
 
