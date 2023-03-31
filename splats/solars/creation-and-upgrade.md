@@ -1,21 +1,3 @@
-Upgrade Options
-===============
-
-An Option can be:
-
-  * A Mundane Ability
-      - They help with dice rolls
-      - You can be Trained or Specialized
-
-  * A Charm
-      - Charms that match the Solar's Caste can be purchased when the Solar reaches the Charm's Tier.
-      - Charms that do NOT match the Solar's Caste can be purchased when the Solar reaches the Charm's Tier PLUS ONE.
-
-  * A Martial Art Style
-
-  * +1 to Maximum Cyphers
-
-
 Character Creation
 ==================
 
@@ -24,7 +6,7 @@ Every Solar starts with:
 * 10 Essence
 * +6 points to distribute between Body, Mind and Essence
 * 1 Max Effort
-* 2 Abilities (Mundane, Charm or Martial Art)
+* 2 of: a Mundane Ability, a Charm, a Martial Arts Style
 * 2 Max Cyphers
 
 
@@ -58,20 +40,19 @@ Eclipse
 - Trained in any Social Interaction
 
 
-
 Upgrading and Tiering Up
 ========================
 
-Solars pay 4 XPs for any Martial Art Technique.
+Whenever dramatically appropriate, Solars can pay:
+  * 6xp to learn a Charm
+  * 4xp to learn the Technique of a Martial Arts Style they know
 
-For each Tier, the Solar has the following upgrades:
+For each Tier, the Solar has the following Upgrades:
   * Increase Max Effort by 1
   * Add 1 Edge
-  * Add 4 to her Pools (Mind, Body, Essence)
-  * 2x Add an Option
+  * Add 5 to her Pools (Mind, Body, Essence)
+  * A Mundane Ability OR a Martial Arts Style
+  * A Caste Charm
 
-When the five upgrades above are done, the Solar tiers up and receives:
-  * All the benefits of the next Tier of her Focus
-  * An Upgrade Option
+When the five upgrades above are done, the Solar tiers up and receives all the benefits of the next Tier of her Focus.
 
-They can also swap one Option for another.

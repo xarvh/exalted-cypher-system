@@ -48,15 +48,16 @@ Upgrading and Tiering Up
 ========================
 
 Dragon Blooded pay 6 XPs for any Martial Art Technique.
+Whenever dramatically appropriate, Dragon Blooded can pay:
+  * 4xp to learn an Aspect Charm
+  * 6xp to learn the Technique of a Martial Arts Style they know
 
 For each Tier, the Dragon Blooded has the following upgrades:
   * Increase Max Effort by 1
   * Add 1 Edge
   * Add 4 to her Pools (Mind, Body, Essence)
-  * Add an Option
+  * A Mundane Ability OR a Martial Arts Style
+  * An out-of-Caste Charm
 
-When the four upgrades above are done, the Terrestrial tiers up and receives:
-  * All the benefits of the next Tier of her Focus
-  * An new Option
+When the four upgrades above are done, the Terrestrial tiers up and receives all the benefits of the next Tier of her Focus.
 
-They can also swap one Option for another of same or lower Tier.
