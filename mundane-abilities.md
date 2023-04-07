@@ -1,14 +1,14 @@
-Athletics (can be used for Dodge rolls in combat)
+Athletics (used for Dodge rolls in combat)
 
-Awareness
+Awareness (used for Initialive rolls)
 
 Bureaucracy
 
-Combat (can be used for initiative, Attack and Parry rolls in combat)
+Combat (used for Attack and Parry rolls in combat)
 
 Craft
 
-Integrity (can be used for Mental and Social Defense rolls)
+Integrity (used for Mental and Social Defense rolls)
 
 Investigation
 
@@ -18,16 +18,18 @@ Lore (includes languages)
 
 Medicine
 
-Occult (Necessary for Sorcery)
+Occult (used for Sorcery)
 
-Presence (can be used for Social Attack rolls)
+Performance (used for Social Attack rolls)
 
-Performance (can be used for Social Attack rolls)
+Presence (used for Social Attack rolls)
 
 Resistance
 
-Survival
+Sail
 
-Socialize (can be used for Social Attack and Defense rolls)
+Socialize (used for Social Defense rolls)
 
 Stealth
+
+Survival

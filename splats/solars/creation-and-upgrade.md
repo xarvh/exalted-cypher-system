@@ -6,7 +6,8 @@ Every Solar starts with:
 * 10 Essence
 * +6 points to distribute between Body, Mind and Essence
 * 1 Max Effort
-* 2 of: a Mundane Ability, a Charm, a Martial Arts Style
+* A Mundane Ability OR a Martial Arts Style
+* 2 Charms, of which at least one form the Caste
 * 2 Max Cyphers
 
 
@@ -25,27 +26,25 @@ Zenith
 Twilight
 --------
 - Body 7, Mind 11 (Edge)
-- Trained in Lore, trained in one of: Craft, Medicine or Occult
+- Trained in Lore and trained: Craft OR Medicine OR Occult
 
 
 Night
 -----
 - Body 9, Mind 9 (Edge in Either)
-- Trained in Stealth or Larceny
+- Trained in Stealth OR Larceny
 
 
 Eclipse
 -------
 - Body 9, Mind 9 (Edge)
-- Trained in any Social Interaction
+- Trained in Socialize
 
 
 Upgrading and Tiering Up
 ========================
 
-Whenever dramatically appropriate, Solars can pay:
-  * 6xp to learn a Charm
-  * 4xp to learn the Technique of a Martial Arts Style they know
+Whenever dramatically appropriate, Solars can pay 4xp to learn the Technique of a Martial Arts Style they know.
 
 For each Tier, the Solar has the following Upgrades:
   * Increase Max Effort by 1
@@ -53,6 +52,7 @@ For each Tier, the Solar has the following Upgrades:
   * Add 5 to her Pools (Mind, Body, Essence)
   * A Mundane Ability OR a Martial Arts Style
   * A Caste Charm
+  * A Caste or non-Caste Charm
 
-When the five upgrades above are done, the Solar tiers up and receives all the benefits of the next Tier of her Focus.
+When the six upgrades above are done, the Solar tiers up and receives all the benefits of the next Tier of her Focus.
 
