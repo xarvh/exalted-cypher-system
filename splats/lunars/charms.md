@@ -546,3 +546,220 @@ The Charms below still need to be consolidated and cleaned up.
     victim of this effect, it counts as a surprise attack
 
 
+
+
+
+# Full Moon
+
+
+### Emerald Grasshopper Form (Full Moon, Tier 1)
+``
+*The Lunar compresses the fullness of her divinity into the humblest of forms.*
+
+Allows the Lunar to take shapes smaller than a cat and larger than a fruit fly.
+
+
+
+### Wolf Devours Shepherd
+``
+*Chaos breaks across the battlefield as the Lunar comes into view.*
+
+--> Accumulates maluses on an enemy commander that can see the Lunar
+
+
+### Lessons of the Winter Wolf
+``
+*Under the Lunar’s instruction, young cubs untested in battle become grizzled warriors hungry for blood.*
+
+---> Train troops. Should be something complementary to the Solars' Tiger Warrior Training Technique?
+
+
+### Starving Beast Bloodthirst
+``
+
+---> Gives a temporary combat bonus to the troops, and makes them unrelenting?
+
+
+
+### Wild Fury Awakening
+``
+*The Lunar beckons savage beasts and ferocious predators, rallying a terrifying horde from the wilderness.*
+
+---> Summon mundane animals as a battle unit.
+
+The Lunar rolls Presence or Survival to call a battle group made up of animals of a species whose heart’s blood she possesses from within (Tier) miles.
+
+The battle group’s Size depends on the type of animal called.
+Relatively weak animals, like squirrels, owls, or cats, form Size 3 battle groups; deadly predators and mighty beasts like tigers, yeddim, or bears form Size 2 battle groups; and super-predators like tyrant lizards and river dragons form Size 1 battle groups.
+
+The Storyteller may deem that circumstances like the environment in which the Lunar uses this Charm raise or lower the battle group’s Size by one.
+
+In combat, the battle group follows the Lunar’s order actions.
+If she doesn’t guide it, it attacks the Lunar’s foes and follows her in pursuit of new enemies.
+Commanding the animals to act outside of combat requires social influence.
+
+This Charm can’t summon other characters’ familiars, magically enhanced animals, or animals with negative Major or Defining Ties to the Lunar.
+
+
+
+
+
+
+### Finding the Needle’s Eye
+``
+-----> Facilitates an attack roll
+
+
+
+### Many-Armed Warrior Panoply
+``
+*The Lunar is master of as many weapons as she has hands to wield them.*
+
+---> Reduces cost of multiple attuned weapons?
+---> What else?
+
+
+### Needle Quill Technique
+``
+--->
+The Lunar hardens a strand of hair into a barbed quill, plucks
+a razor-sharp feather, or draws a similar projectile from her
+body. This can be used as bow or crossbow ammunition, or
+thrown as a dart (Exalted, p. 587). This Charm can’t provide
+ammunition for firewands and other flame weapons.
+A Dexterity 3 repurchase lets the Lunar pay a one-Ini-
+tiative surcharge to reflexively reload a crossbow or
+similar compatible weapon with the Slow tag. This lets
+her use it with magic that creates multiple attacks, if
+she reloads before each attack past the first.
+
+Enhance with ONE of these effects:
+
+- Bombardier Spittle Alchemy
+  ----> Provides firedust analogues or explosives
+
+- Stinging Ichneumon Scourge
+  The Lunar’s living projectiles transform, growing
+  flesh-impaling hooks or flying in pursuit of their quar-
+  ry. When she attacks with Needle Quill Technique, her
+  projectile continues to bedevil her enemy, preventing
+  his onslaught penalty from falling below −1. This lasts
+  (Essence) rounds for withering attacks, or one scene
+  for decisive attacks. The target or an ally at close
+  range can tear out or strike away the projectile with
+  a difficulty 2 gambit, rolled against Defense (Lunar’s
+  Dexterity), ending this effect.
+
+- Consumptive Worm Hungers
+  The Lunar’s quills twist within the wounds they inflict,
+  growing spines or secreting corrosive acid. She may
+  pay a three-mote surcharge on Stinging Ichneumon
+  Scourge to inflict ongoing harm. On withering attacks,
+  the victim loses Initiative (which the Lunar doesn’t
+  gain) equal to the damage roll’s 9s and 10s at the start
+  of each of his turns. On decisive attacks, he suffers
+  one die of lethal decisive damage, ignoring Hardness,
+  at the start of each of his turns. The difficulty of the
+  gambit to remove the projectiles increases by +2. This
+  ends when Stinging Ichneumon Scourge’s effect does.
+
+
+
+### Twin Fangs Strike
+`Body 6, Enabler`
+*As the Lunar forces an opening, her allies hasten to strike.*
+On a successful attack, an ally of the Lunar gets an extra attack on the same target, but he does not benefit from Edges.
+
+
+
+### Octopus-and-Spider Barrage
+``
+The Lunar’s limbs fly with superhuman speed, raining down blows on those who oppose her.
+
+She makes up to (Essence + 1) decisive attacks, maximum five, against one or more enemies.
+She doesn’t need to use the same Ability for all attacks, and may reflexively change weapons between attacks.
+Her Initiative is divided evenly among all attacks, rounded up, and doesn’t reset until the final attack is completed, assuming at least one hit.
+She doesn’t lose Initiative for missed attacks unless all of them miss.
+Protean: In shapes with more than four limbs, each successful attack adds one die to the damage of all subsequent attacks.
+The bonus from multiple successful attacks stacks.
+
+
+### Unhesitant Scorpion Lash (Tier 4)
+``
+----> Get a free attack on anyone who fails an action
+
+
+
+
+
+
+
+
+
+
+# No Moon
+
+
+### Boundary-Marking Meditation (No Moon, Tier 2)
+`Destiny 1, Extended Action`
+*Laying her mark upon the world, the Lunar claims a land as hers.*
+
+She claims a single contiguous region no more than (Tier x 10) square miles as her territory.
+To do so, she must fully master the land she wishes to claim.
+She must physically traverse the majority of the region.
+Any mortal communities living in the territory must accept her presence — they need not make her their leader, but must acknowledge her presence and that they lack the ability or desire to force her out.
+Finally, if any supernatural beings — such as spirits or fellow Exalted — occupy the region and don’t consent to her claiming it, the Lunar must force them to submit by defeating them in combat or a similar challenge.
+Land already claimed by another Lunar’s Boundary-Marking Meditation can’t be taken from him unless he voluntarily relinquishes it or dies.
+
+While inside the territory, the Lunar will automatically know when foreigners will enter it, she won't know their identity, but she will know their approximate location.
+If she so desires, the intruders will instinctively know that they are in someone's territory.
+
+A Lunar can’t have more than (Tier) territories.
+Her control of a territory ends if she voluntarily revokes it, or upon her death.
+
+The territory can be immediately enhanced with one the following effects, and additional effects can be added for 1 Destiny point each:
+
+- Ideal Argent Abode
+  The Lunar’s player chooses three qualities that describe it, e.g. fertile, shadowy, and dense for a thick forest, or open, windy, and guarded for a steppe village.
+  When a character within the territory takes an action that’s supported by any of these qualities, like foraging in a fertile woodland, he gets a +1.
+  When a character takes an action opposed by a quality, like a general enacting a Strategic Maneuver roll to march a large army through the dense forest, each such quality imposes a −1 penalty.
+  The Lunar never suffers these penalties.
+  She can reflexively render a character she perceives immune to her territory’s penalties, or deny him its benefits.
+
+  Story events may cause a territory to lose qualities — if the forest burns down, it’s no longer shadowy or dense.
+  Once per story, the Lunar may change a territory’s qualities, replacing lost qualities and potentially swapping existing qualities for new ones as fits the story.
+
+- Moon-and-Earth Blessing
+  *The blessed region’s flora and fauna grow more abundant, and even the most barren climes become capable of sustaining life.*
+  Rolls to forage, find shelter, navigate wilderness, or endure mundane environmental hazards within the region gain +2.
+  The land is occasionally marked with uncanny strangeness: flowers blooming only at night, will-o’-the-wisps haunting the edges of gardens, owls flocking in greater number than other birds, etc.
+
+- King-of-Beasts Sovereignty
+  *The Lunar forges a bond between all animals of a single species and the mortal inhabitants.*
+  All animals of that species form a Tie of loyalty toward the region’s mortal inhabitants.
+  So long as they’re treated respectfully, they’ll offer protection, labor, and companionship to humans.
+
+- Naming The World
+  *Marking her land with sacred stones and signs, the Lunar fastens her dominion.*
+  ---> Protect the dominion from the effects of the Wyld.
+
+- Omnipresent Monster’s Lair
+  *The Lunar lurks everywhere and nowhere within her territory, a primal fear whispering into her prey’s souls.*
+  ---> Automatically Intimidate/Threaten anyone she is aware of anywhere in the territory.
+
+
+### Living World Embodiment (No Moon, Tier 5)
+`Enabler`
+
+*The Lunar is an avatar of her sacred lands. Her wounds are the land’s wounds; her vigor renews the world.*
+
+Each territory claimed with Boundary-Marking Meditation gains a virtual Body Pool of 10.
+Damage to the Lunar’s territory manifests as withered plants, barren soil, disease-ridden animals, etc.
+
+---> The Lunar can use the Territory Body Pool as hers, and vice versa.
+---> Damage to the territory results in loss of bonuses and possibly even maluses to the territory features and enhancements.
+---> While inside the territory, the Lunar can use her Recovery rolls to heal the territory.
+
+At the Storyteller’s discretion, this can also undo blights, infestations, or curses upon the land.
+
+
