@@ -372,8 +372,12 @@ The Charms below still need to be consolidated and cleaned up.
 
 
 ### Wolf Devours Shepherd
+``
+*Chaos breaks across the battlefield as the Lunar comes into view.*
     ---> Must be social in nature!
     ---> Allows attacking a commander?
+    --> Accumulates maluses on an enemy commander that can see the Lunar
+
 
 ### Silver-Maned Warlord Glory
     Shining like a blood moon over the battlefield, the
@@ -558,13 +562,6 @@ The Charms below still need to be consolidated and cleaned up.
 
 Allows the Lunar to take shapes smaller than a cat and larger than a fruit fly.
 
-
-
-### Wolf Devours Shepherd
-``
-*Chaos breaks across the battlefield as the Lunar comes into view.*
-
---> Accumulates maluses on an enemy commander that can see the Lunar
 
 
 ### Lessons of the Winter Wolf
