@@ -580,6 +580,7 @@ Allows the Lunar to take shapes smaller than a cat and larger than a fruit fly.
 
 ### Wild Fury Awakening
 ``
+
 *The Lunar beckons savage beasts and ferocious predators, rallying a terrifying horde from the wilderness.*
 
 ---> Summon mundane animals as a battle unit.
@@ -604,12 +605,14 @@ This Charm can’t summon other characters’ familiars, magically enhanced anim
 
 ### Finding the Needle’s Eye
 ``
+
 -----> Facilitates an attack roll
 
 
 
 ### Many-Armed Warrior Panoply
 ``
+
 *The Lunar is master of as many weapons as she has hands to wield them.*
 
 ---> Reduces cost of multiple attuned weapons?
@@ -618,6 +621,7 @@ This Charm can’t summon other characters’ familiars, magically enhanced anim
 
 ### Needle Quill Technique
 ``
+
 --->
 The Lunar hardens a strand of hair into a barbed quill, plucks
 a razor-sharp feather, or draws a similar projectile from her
@@ -664,14 +668,17 @@ Enhance with ONE of these effects:
 
 ### Twin Fangs Strike
 `Body 6, Enabler`
+
 *As the Lunar forces an opening, her allies hasten to strike.*
+
 On a successful attack, an ally of the Lunar gets an extra attack on the same target, but he does not benefit from Edges.
 
 
 
 ### Octopus-and-Spider Barrage
 ``
-The Lunar’s limbs fly with superhuman speed, raining down blows on those who oppose her.
+
+*The Lunar’s limbs fly with superhuman speed, raining down blows on those who oppose her.*
 
 She makes up to (Essence + 1) decisive attacks, maximum five, against one or more enemies.
 She doesn’t need to use the same Ability for all attacks, and may reflexively change weapons between attacks.
@@ -683,7 +690,109 @@ The bonus from multiple successful attacks stacks.
 
 ### Unhesitant Scorpion Lash (Tier 4)
 ``
+
 ----> Get a free attack on anyone who fails an action
+
+
+
+
+### Bending Before the Storm
+`Body 2, Enabler`
+
+*The Lunar moves with the grace that only a shapechanger could achieve, shifting her form and stance to close gaps in her defense.*
+
+Allows to spend Effort for Parry or Dodge rolls *after* the die has been rolled.
+
+Allows to spend one level of Effort to ignore all penalties to Parry or Dodge rolls, including those due to being clinched, restrained, crippled.
+
+
+
+### Coiled Serpent Strikes
+``
+
+*The Lunar answers her foe’s provocation with unthinking speed.*
+
+---> She gets a counterattack whenever an attack misses her
+
+
+
+
+### Ever-Evolving Defense
+`Enabler`
+
+*Dancing between myriad shapes, the Lunar is too unpredictable to be caught.*
+
+----> Shapeshifting before an attack in a shape she hasn't used in the current Scene, allows her to use her full Max Effort for Parry or Dodge fore free.
+
+
+### Foe-Baiting Sidestep
+`Enabler`
+
+On a successful Parry or Dodge, force the attacker to either switch places with the Lunar, or stumble forward a Short range.
+
+If this causes the attacker to smack into a wall or fall into a precipice, he will still be allowed a roll to avoid or mitigate the consequences, but with a penalty equal to the attack roll failure.
+
+
+
+### Flowing Body Evasion
+``
+
+----> More or less a perfect Dodge
+
+In the instant she’s struck, the Lunar’s body becomes
+fluid and malleable. Blades and arrows move through her
+flesh without harming it; the tiniest gaps in an avalanche
+let her fluid form pass; she even seeps through acid and
+lava unharmed. She can apply Evasion against undodge-
+able attacks (but not ambushes), or else gain +1 Evasion.
+Once per scene, if an attack beats her Evasion, she may
+pay one Willpower to subtract (her Evasion against the
+attack) successes from the damage roll. If she takes no
+damage from a non-gambit attack, she’s considered
+to have dodged it. This effect can be reset by success-
+fully dodging three decisive attacks from nontrivial
+opponents.
+Alternatively, she may use this Charm, paying its
+Willpower surcharge, to perfectly dodge a source
+of uncountable damage, rendering her immune to a
+recurring source of uncountable damage for a scene.
+This doesn’t require this Charm to be reset.
+
+
+
+### Heron Sheds Rain
+``
+
+----> More or less a perfect Parry
+
+In an instant of supreme speed, the Lunar’s guard approach-
+es infinity. She can apply Parry against unblockable attacks
+(but not ambushes). For a two-mote, one-Willpower sur-
+charge, she rolls Initiative, adding successes to her Parry
+as a non-Charm bonus. This resets her to base Initiative.
+If she uses this Charm with Coiled Serpent Strikes, her
+Initiative doesn’t reset until after the counterattack.
+Alternatively, she can use this Charm, paying its
+surcharge, to perfectly parry a source of uncountable
+damage without resetting Initiative, rendering her
+immune to a recurring source of uncountable damage
+for a scene. She might use her claws to carve out a
+shelter in which to weather an avalanche, or turn aside
+a hurricane’s winds with a sword-stroke.
+This Charm can only be used once per scene, unless
+reset by gaining 20+ Initiative in an instant.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
