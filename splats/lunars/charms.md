@@ -556,6 +556,51 @@ The Charms below still need to be consolidated and cleaned up.
 # Full Moon
 
 
+### Spider-Climbing Attitude
+``
+
+The Lunar finds purchase on smooth stone and craggy
+overhangs, reshaping her body to maintain her grip.
+She can move up or down sheer vertical surfaces like
+walls or move upside down on horizontal surfaces like
+ceilings. If she ends her movement somewhere she
+couldn’t normally stand and doesn’t use this Charm on
+her next turn, she falls as usual.
+
+
+### Trickster Octopus Dexterity
+``
+
+The Lunar renders her body malleable and amorphous,
+flowing through binding chains or a mighty beast’s grasp.
+This Charm aids in escaping physical restraints on the
+Lunar’s person, like picking the lock on manacles around
+her wrists or wriggling out of ropes tied around her. She
+doubles 9s and adds (Essence) successes. Against mun-
+dane restraints, she escapes regardless of her roll’s result —
+instead, failure means a complication ensues, such as her
+lockpick breaking as she opens the manacles, or her escape
+taking long enough that her captors have returned.
+Alternatively, this Charm can be used when the Lunar
+opposes an enemy’s grapple control roll.
+
+
+### Shifting Many-Legged Stride
+``
+
+---> Also increases the speed!
+
+The Lunar’s legs change with every footfall, adapting
+to whatever landscape she traverses. She ignores the
+effects of non-magical difficult terrain on a single
+move action. Alternatively, she raises the difficulty of
+a gambit that would impede her movement, including
+grapple and unhorse gambits, by (Essence).
+
+
+
+
+
 ### Emerald Grasshopper Form (Full Moon, Tier 1)
 ``
 *The Lunar compresses the fullness of her divinity into the humblest of forms.*
