@@ -598,7 +598,11 @@ a gambit that would impede her movement, including
 grapple and unhorse gambits, by (Essence).
 
 
+### Flashing Steel Reversal
+``
 
+Steal someone's weapon (use Larceny)
+With enough excess successes, break wielder's attunement and attune in his stead.
 
 
 ### Emerald Grasshopper Form (Full Moon, Tier 1)
@@ -1022,12 +1026,57 @@ The loss of a stolen object won't be noticed before (Tier) minutes?
 
 
 
-### Flashing Steel Reversal
+### Dreaming Wisdom Revelation
+`Mind 10`
+A mystic and visionary, the Lunar realizes uncanny insights.
+
+After a scene reading animal entrails, interpreting dreams, imbibing psychedelics, vision questing in the Wyld, performing austerities, or similar, she rolls Integrity, Lore or Occult and banks the result.
+
+The points can be spent, to a maximum of 3, to add to the result of any Mind Roll.
+
+TODO: limit the use to once per day, possibly binding it to a Recovery roll?
+
+
+
+### Plague-Swallowing Kiss
 ``
 
-Steal someone's weapon (use Larceny)
-With enough excess successes, break wielder's attunement and attune in his stead.
+Transfer a poison or a disease from a victim to the Lunar.
 
 
+### Moonlit Cauldron Apothecary
+``
 
+The Lunar’s keen understanding deduces secret cures and medicines unknown to most physicians.
+
+She rolls Medicine to introduce a fact about the location of a medicine or natural substance that’s a potent cure for a disease or poison she’s successfully diagnosed.
+
+
+### Flesh-Sculpting Art
+``
+The Lunar sculpts flesh like clay, reshaping her patient’s body by hand
+
+She can perform even the most complicated surgeries without the need for any surgical equipement.
+The surgery takes one tenth of the time and does not hurt or harm the patient in any way.
+The Lunar's player can refuse GM intrusions on her medicine roll for free.
+
+Additionally, the Lunar may perform surgeries beyond mundane medicine’s limits in the Age of Sorrows: making cosmetic alterations to a patient’s body, hollowing out pouches of flesh to smuggle contraband or
+sealing them up, etc. She can’t grant mutations.
+
+
+### Counting the Elephant’s Wrinkles
+``
+
+Reliving her memory of a single scene’s worth of events, the Lunar can Introduce or Challenge a relevant Fact.
+(TODO: there is a limit on how old the memory can be, depending on Investigation)
+
+Alternatively, she can negate an effect that would alter her memories or create false ones.
+
+
+### Starfish-and-Salamander Meditation
+``
+
+*Gifted with supernatural brilliance, the Lunar knits together maimed flesh, revives withered organs, and even shapes new limbs.*
+
+She undertakes an Extended Medicine Action to heal a Crippling effect, or a similar physical malady such as congenital blindness or sterility.
 
