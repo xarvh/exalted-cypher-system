@@ -721,9 +721,11 @@ On a successful attack, an ally of the Lunar gets an extra attack on the same ta
 
 
 ### Octopus-and-Spider Barrage
-``
+`Body 2 per attack, Action`
 
 *The Lunar’s limbs fly with superhuman speed, raining down blows on those who oppose her.*
+
+The Lunar makes an attack for each weapon she can wield at the same time, to a maximum of 5.
 
 She makes up to (Essence + 1) decisive attacks, maximum five, against one or more enemies.
 She doesn’t need to use the same Ability for all attacks, and may reflexively change weapons between attacks.
@@ -828,21 +830,75 @@ This Charm can only be used once per scene, unless
 reset by gaining 20+ Initiative in an instant.
 
 
+### Impenetrable Beast Carapace
+`Body (Armor x2), Enabler`
+
+*The Lunar strengthens her skin, forming a thick hide, bony plates, or tough scales.*
+
+Gain up to (Resistance) Armor for the rest of the Scene.
+
+At Tier 5, the plates gain the qualities of Moonsilver, increasing the maximum Armor to (2 + Resistance).
+
+
+### Durant Quicksilver Adaptation
+`Enabler`
+
+*The Lunar’s body hardens itself against the force of blows that strike her.*
+
+Up to (Resistance x2) Body damage can be paid with Essence instead
+
+
+### Steel Paw
+`Enabler`
+
+*Standing firm as she interposes her weapon between herself and the world, the Lunar becomes an unshakable aegis.*
+
+Can roll Resistance to Parry.
+Can parry weapons bare-handed.
+
+
+### Unmoving Aurochs Defense
+----> No attack can move or knockdown or knockback the Lunar. This is a Perfect effect.
+(This charm greatly increases the Lunar's mass and density, possibly creating complications)
 
 
 
+### Moonsilver Thew Exertion
+----> Clinch vs whatever size opponents
 
 
+### Heavenly-Spanning Staff of the Monkey King
+Wield any weapon regardless of the size it was designed for.
+As long as any animal form can conceivably grasp the weapon, they can wield it without penalty.
 
 
+### Wound-Mastering Body Evolution
+``
+
+*Those who can’t slay the Lunar with one blow may not be able to kill her at all.*
+
+After suffering Body damage, she can use this Charm to adapt to her attacker’s killing intent.
+---> Effect?
 
 
+### Ant-and-Starfish Trick (Tier 3, Full Moon)
+`Body 5, Action`
+
+(p194)
+Make a copy of yourself.
+The copy cannot use Essence or Charms and will have a mundane copies of all your gear.
+The copy is of level (Tier).
+Creating the copy allows the Lunar to immediately roll Stealth to use the copy as decoy.
 
 
+### Become The Swarm
+`Body 10`
 
+*The Lunar is legion.*
 
-
-
+Transform into a battle group of forms the Lunar owns.
+While in this form the Lunar cannot use Charms.
+(TODO we need rules for battlegroups).
 
 
 
@@ -912,5 +968,66 @@ Damage to the Lunar’s territory manifests as withered plants, barren soil, dis
 ---> While inside the territory, the Lunar can use her Recovery rolls to heal the territory.
 
 At the Storyteller’s discretion, this can also undo blights, infestations, or curses upon the land.
+
+
+
+### Night Stalker Approach
+`Essence 2`
+
+Gleaning subtlety from the shadows, the Lunar darkens
+her soul’s light. She mutes all motes spent on a Larceny
+roll, Stealth roll, or action taken in concealment.
+
+
+### Skulking Rat Spirit
+`Mind 3`
+
+The Lunar moves without trace, leaving no sign of her presence.
+
+Refuse a GM Intrusion?
+
+
+### Noonday Shadow Tread
+``
+
+Ignore light?
+
+
+### Snake-Finger Style
+``
+
+The Lunar’s fingers move with supreme precision and
+fluidity, dipping in and out of a merchant’s pocket or
+teasing a lock’s tumblers open from inside.
+
+Count twice the Ability used to pickpocket a character, pick a lock,
+disable a trap, cheat at cards or dice, poison a drink, or
+similar actions. She suffers no penalties or increased
+difficulty from lacking equipment.
+
+
+
+### Elusive Prey Approach
+``
+
+After Dodging an attack (whether successfully or not)
+she may use this Charm to reflexively roll to enter concealment, subject to the usual penalties to Stealth in combat.
+
+
+
+### Thieving Magpie Trick (Changing Moon)
+``
+
+The loss of a stolen object won't be noticed before (Tier) minutes?
+
+
+
+### Flashing Steel Reversal
+``
+
+Steal someone's weapon (use Larceny)
+With enough excess successes, break wielder's attunement and attune in his stead.
+
+
 
 

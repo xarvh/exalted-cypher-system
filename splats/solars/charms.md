@@ -739,11 +739,11 @@ The Body cost is equal to the level of the attack but can never exceed 8 points.
 
 
 ### Ten Aurochs Meditation
-`Body 3, Enabler`
+`Body 2, Enabler`
 
 This Charm increases the effects of using Effort for a single action or task where raw strength matters.
 
-Any level of Effort used for feats of strength (usually lifting or breaking stuff) is multiplied by the Solar's Athletics.
+Any level of Effort used for feats of strength (usually lifting or breaking stuff) is multiplied by (1 + Athletics).
 
 If an attack damage can be affected by the Solar's strength, then each level of Effort will increase the damage by (3 + Athletics).
 

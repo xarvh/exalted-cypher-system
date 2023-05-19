@@ -52,6 +52,8 @@ Shapeshifting
 =============
 
 Every Lunar can also Shapeshift as an Action.
-During shapeshifting, the Lunar can move as normally per the shape she is leaving.
+During shapeshifting, the Lunar can Move as normally per the shape she is *leaving*.
 The shifting is completed at the end of her Turn.
+
+Adding a new form in the library requires a Sacred Hunt, and costs 1xp.
 

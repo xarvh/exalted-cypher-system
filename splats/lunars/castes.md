@@ -8,8 +8,8 @@ Full Moon
 ---------
 
 * Immune to fear (Enabler)
-* Glowing Aura and above: +1 Edge to all movement (Enabler)
-* Burning Aura and above: +1 Edge to all feats of strength (Enabler)
+* Glowing Aura and above: Each level of Effort used in any movement roll gives +2 instead of +1
+* Burning Aura and above: Each level of Effort used in any feat of strength roll gives +2 instead of +1
 
 
 Changing Moon
@@ -26,10 +26,4 @@ No Moon
 * Sense places of power (Enabler)
 * Glowing Aura and above: +1 to all Defense rolls against vision-based attacks (Enabler)
 * Burning Aura and above: Expend anima to add Tier to a Shape Sorcery roll or Tier/2 to a Mind roll.
-
-
-
-
-
-
 
