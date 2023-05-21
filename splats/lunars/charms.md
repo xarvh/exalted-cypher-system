@@ -556,6 +556,13 @@ The Charms below still need to be consolidated and cleaned up.
 # Full Moon
 
 
+### Halting the Scarlet Flow
+`Enabler`
+
+The first (Resistance) Recovery rolls in a day are instant and do not take an Action.
+
+
+
 ### Spider-Climbing Attitude
 ``
 
@@ -1054,14 +1061,18 @@ She rolls Medicine to introduce a fact about the location of a medicine or natur
 
 ### Flesh-Sculpting Art
 ``
-The Lunar sculpts flesh like clay, reshaping her patient’s body by hand
+*The Lunar sculpts flesh like clay, reshaping her patient’s body by hand.*
 
 She can perform even the most complicated surgeries without the need for any surgical equipement.
 The surgery takes one tenth of the time and does not hurt or harm the patient in any way.
 The Lunar's player can refuse GM intrusions on her medicine roll for free.
 
 Additionally, the Lunar may perform surgeries beyond mundane medicine’s limits in the Age of Sorrows: making cosmetic alterations to a patient’s body, hollowing out pouches of flesh to smuggle contraband or
-sealing them up, etc. She can’t grant mutations.
+sealing them up, etc.
+
+She can grants a willing character up to (Tier) dots of mutations reflecting an animal whose shape she possesses.
+The beneficiary need not be human, but must be living.
+
 
 
 ### Counting the Elephant’s Wrinkles
@@ -1078,5 +1089,81 @@ Alternatively, she can negate an effect that would alter her memories or create 
 
 *Gifted with supernatural brilliance, the Lunar knits together maimed flesh, revives withered organs, and even shapes new limbs.*
 
-She undertakes an Extended Medicine Action to heal a Crippling effect, or a similar physical malady such as congenital blindness or sterility.
+The Lunar undertakes an Extended Medicine Action to heal a Crippling effect, or a similar physical malady such as congenital blindness or sterility.
+
+
+### Crossroad Walking Diplomat
+
+*The Lunar bridges the divide between mortal society and the spirit world, advocating for the people under her protection in the courts of divinities.*
+
+* Call a spirit. If the spirit can hear, he will manifest.
+* As soon as the spirit responds, the Lunar can roll Presence to force the spirit to peacefully listen to the proposal, unless attacked.
+* The Lunar can roll Lore (Occult for demons) to Introduce a Fact about the location of something that would be particularly pleasant for the spirit.
+
+Ghosts whose corpses the Lunar has provided a proper burial or similar funereal rites recognize her deed
+
+
+
+### Blood Geas Binding
+
+Sanctify an oath.
+The Lunar instinctively knows if the oat is broken.
+TODO: The Lunar can impose a curse per Swarming Locust Punishment p204.
+
+
+
+### Argent Guardian Yantra
+`Essence 6`
+
+*Guarding humanity’s threshold, the Lunar bars the devils that would cross it.*
+
+She traces out a circle of anima, extending out to short range from her.
+All spirits inside the circle are forced to materialize.
+Further, The Lunar rolls Lore (or Occult for demons) or Integrity: all hostile spirits whose Level is below the roll are repelled outside the circle and cannot re-enter it.
+Alternatively, she can imprison the spirits in the circle.
+The circle moves with the Lunar and costs (Essence 3) per turn to maintain.
+
+
+
+### Insidious Lunar Transformation
+*The Lunar feeds someone her blood as a catalyst for transformation, twisting him into a bestial shape.*
+
+In combat, this requires a Player Intrusion.
+Outside of combat, her target must either be willing, helpless to stop her, or tricked into consuming her blood unknowingly.
+
+The Lunar then rolls Occult, Lore or Presence against his Integrity or Resistance.
+Success transforms him into an animal whose shape she possesses. His intellect isn’t diminished.
+
+If the target's Level is lower than the Lunar's Tier, the transformation is permanent, otherwise it lasts (1 + extra successes) days.
+
+The Lunar may undo the transformation at will, or set a condition that will end it.
+
+At Tier 3, the Lunar can give the target the ability to shape in and out of the form as a Mind 6 Action.
+
+At Tier 4, the Lunar can impose the shape of a human whose form she possesses.
+
+
+
+### Spirit-Sealing Talisman
+*Arrayed in trophies and fetishes that mark her triumph over countless spirits, the Lunar shaman draws on their puissance to work miracles.*
+
+After successfully banishing or restraining a spirit, the Lunar can roll Lore (or Occult for demons) to traps it in a mundane object on her person, imprisoning it until that object is
+destroyed. Such talismans become supernaturally durable, destroying one has Difficulty equal to the Lunar's (Tier + Integrity).
+
+By committing (Essence 3) the Lunar can use one of the Charms of the trapped spirit.
+
+
+
+### Chains-of-Silver Geas
+``
+
+*The Lunar shaman pronounces her binding will upon subdued devils, setting them to mend the harm they’ve done or driving them beyond the world.*
+
+After successfully banishing or restraining a spirit, the Lunar can roll Presence to impose a geas upon him, compelling him to undertake an inconvenient or serious task.
+
+If the geas could last indefinitely or has a time-based duration, such as “stand guard in this spot” or “leave Creation and stay out,” it’s fulfilled after a year and a day spent actively fulfilling its condition.
+Geasa with a defined ending condition unrelated to time, such as “kill the satrap” or “move this fortress across the river one brick at a time” can extend beyond this limit.
+Until the entity fulfills the geas, it can’t attempt to harm the Lunar except in self-defense.
+
+
 
