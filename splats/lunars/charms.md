@@ -1,3 +1,13 @@
+
+# Tier 1
+
+
+
+
+
+
+
+=========================================================================================================
 # All Castes
 
 ## Tier 1
@@ -56,8 +66,42 @@ Shapeshifting becomes Enabler instead of Action.
 ## Tier 1
 
 
+
+### Generosity of the Cuckoo
+`Changing Moon, Mind 4, Action`
+
+*Few can refuse the Lunar’s gifts, be they baskets of poisoned fruit or the red-handed spoils of her latest crime.*
+
+She offers a gift to a single character without asking anything in return and rolls Presence or Socialize.
+
+On success, the target takes whatever the Lunar offers.
+While he may store the object, exchange it, give it away to others, or “use up” limited gifts such as foodstuffs, he can’t discard or abandon the Lunar’s gift.
+
+
+
+### Glib Tongue Technique
+`Changing Moon, ???`
+
+*The Lunar knows what others wish to hear, making even the tallest tales seem reasonable as she masterfully plays to her audience.*
+
+The Lunar halves (round down) normal penalties for making implausible claims.
+
+
+
+
+### The Shadow Who Wasn’t There
+`Changing Moon, ???`
+
+*Endlessly elusive, the Lunar extricates herself from even the most tenacious suspicions.*
+
+When she observes one or more characters discussing someone whose identity they don’t know, or infers that such an unknown person is on those characters’ minds, she employs subtle mannerisms and social cues to make them completely certain that the unknown person is neither the Lunar nor her current shape.
+
+Alternatively, she can leave the targets certain that the unknown individual they’re thinking of *is* the Lunar, or her current shape.
+
+
+
 ### Predator-and-Prey Mirror
-`???`
+`Changing Moon, ??????`
 
 *The Lunar adopts the bearing of predator or prey at her leisure.*
 
@@ -71,7 +115,7 @@ While using this Charm, she may freely shift between these two postures:
 
 
 ### Mysterious Stranger Intimation
-`???`
+`Changing Moon, ??????`
 
 *The Lunar exudes enticing mystery and the allure of the unfamiliar, drawing curious stares and fascinated admirers.*
 
